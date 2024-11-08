@@ -1,0 +1,5 @@
+__crc_blkg_rwstat_init = 0xaf0b6ba7;
+__crc_blkg_rwstat_exit = 0x19edd064;
+__crc___blkg_prfill_rwstat = 0x03452868;
+__crc_blkg_prfill_rwstat = 0xa2d98337;
+__crc_blkg_rwstat_recursive_sum = 0xa1151dc5;

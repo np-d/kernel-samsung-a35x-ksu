@@ -1,0 +1,6 @@
+__platform_driver_register
+__this_module
+__ubsan_handle_cfi_check_fail_abort
+_printk
+devm_pinctrl_get
+platform_driver_unregister

@@ -1,0 +1,7 @@
+__crc_mdio_device_free = 0x4d823325;
+__crc_mdio_device_create = 0x90102cc2;
+__crc_mdio_device_register = 0x3ab9f904;
+__crc_mdio_device_remove = 0x3422ba99;
+__crc_mdio_device_reset = 0x38290b13;
+__crc_mdio_driver_register = 0x6d2c500e;
+__crc_mdio_driver_unregister = 0x9182b634;

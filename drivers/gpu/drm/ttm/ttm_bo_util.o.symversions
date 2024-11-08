@@ -1,0 +1,8 @@
+__crc_ttm_move_memcpy = 0xb91d15ae;
+__crc_ttm_bo_move_memcpy = 0x8f53d5c7;
+__crc_ttm_io_prot = 0xc7978060;
+__crc_ttm_bo_kmap = 0xf7290db1;
+__crc_ttm_bo_kunmap = 0x71129fd2;
+__crc_ttm_bo_vmap = 0x621ec123;
+__crc_ttm_bo_vunmap = 0xa5487414;
+__crc_ttm_bo_move_accel_cleanup = 0x15a69010;

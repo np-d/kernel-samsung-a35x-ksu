@@ -1,0 +1,14 @@
+__crc_init_srcu_struct = 0xd7df630a;
+__crc_cleanup_srcu_struct = 0xfc42ca73;
+__crc___srcu_read_lock = 0xfb6e276c;
+__crc___srcu_read_unlock = 0x463728ec;
+__crc_call_srcu = 0xa88a0c6f;
+__crc_synchronize_srcu_expedited = 0x2cab6b6d;
+__crc_synchronize_srcu = 0xdc642c4c;
+__crc_get_state_synchronize_srcu = 0x3bda7ffc;
+__crc_start_poll_synchronize_srcu = 0xbdc9818d;
+__crc_poll_state_synchronize_srcu = 0x1a2f60d6;
+__crc_srcu_barrier = 0x5cc4455a;
+__crc_srcu_batches_completed = 0xf7b882ed;
+__crc_srcutorture_get_gp_data = 0x3fb593c0;
+__crc_srcu_torture_stats_print = 0xa73bbcc6;

@@ -1,0 +1,15 @@
+__cfi_slowpath_diag
+__stack_chk_fail
+__ubsan_handle_cfi_check_fail_abort
+_dev_err
+exynos_s2mpu_release_fw_stage2_ap
+exynos_s2mpu_request_fw_stage2_ap
+exynos_s2mpu_verify_subsystem_fw
+ida_alloc_range
+ida_free
+kfree
+kmalloc_caches
+kmem_cache_alloc_trace
+of_find_property
+release_firmware
+request_firmware

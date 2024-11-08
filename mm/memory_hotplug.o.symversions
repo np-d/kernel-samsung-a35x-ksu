@@ -1,0 +1,12 @@
+__crc_pfn_to_online_page = 0x0bcef7a4;
+__crc_set_online_page_callback = 0xce5f9626;
+__crc_restore_online_page_callback = 0x81d785a2;
+__crc_generic_online_page = 0xc0fea2d7;
+__crc_add_memory = 0xbd7aaaee;
+__crc_add_memory_subsection = 0x690b988e;
+__crc_add_memory_driver_managed = 0xfcbfec70;
+__crc_mhp_get_pluggable_range = 0x9be30d27;
+__crc_try_offline_node = 0x99daa9bf;
+__crc_remove_memory = 0x0bbdc9b2;
+__crc_remove_memory_subsection = 0x261130e0;
+__crc_offline_and_remove_memory = 0x08c78cf7;

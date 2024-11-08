@@ -1,0 +1,3 @@
+__crc_store_battery_log = 0x69552a22;
+__crc_register_batterylog_proc = 0x94fa7090;
+__crc_unregister_batterylog_proc = 0x24672706;

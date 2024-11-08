@@ -1,0 +1,4 @@
+__crc_interval_tree_insert = 0xdab5a1eb;
+__crc_interval_tree_remove = 0x09b53e14;
+__crc_interval_tree_iter_first = 0xa44a1307;
+__crc_interval_tree_iter_next = 0xd96babb4;

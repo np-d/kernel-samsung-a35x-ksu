@@ -1,0 +1,12 @@
+__crc_cache_flush_all = 0x5c7892cd;
+__crc_register_dump_one_task_notifier = 0x10be2bb4;
+__crc_dbg_snapshot_start_watchdog = 0x2680504b;
+__crc_dbg_snapshot_expire_watchdog = 0xa4033df7;
+__crc_dbg_snapshot_expire_watchdog_safely = 0xe502e1d2;
+__crc_dbg_snapshot_expire_watchdog_timeout = 0x4969857a;
+__crc_dbg_snapshot_expire_watchdog_timeout_safely = 0x298c6360;
+__crc_dbg_snapshot_kick_watchdog = 0xcb393996;
+__crc_dbg_snapshot_ecc_dump = 0x826e3c5f;
+__crc_dbg_snapshot_do_dpm_policy = 0x71d1c02c;
+__crc_dbg_snapshot_register_wdt_ops = 0xd725ad28;
+__crc_dbg_snapshot_register_debug_ops = 0xd38c4eeb;

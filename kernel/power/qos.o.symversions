@@ -1,0 +1,9 @@
+__crc_cpu_latency_qos_request_active = 0x7537226a;
+__crc_cpu_latency_qos_add_request = 0x589e1a22;
+__crc_cpu_latency_qos_update_request = 0xdc528096;
+__crc_cpu_latency_qos_remove_request = 0x3aaa15b2;
+__crc_freq_qos_add_request = 0x28498a88;
+__crc_freq_qos_update_request = 0x2eec24ef;
+__crc_freq_qos_remove_request = 0x894967be;
+__crc_freq_qos_add_notifier = 0x8959e3df;
+__crc_freq_qos_remove_notifier = 0x6435f6e7;

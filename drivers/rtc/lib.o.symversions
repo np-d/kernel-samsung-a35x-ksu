@@ -1,0 +1,7 @@
+__crc_rtc_month_days = 0x6971447a;
+__crc_rtc_year_days = 0x4859b8bb;
+__crc_rtc_time64_to_tm = 0x356461c8;
+__crc_rtc_valid_tm = 0x5838f6c9;
+__crc_rtc_tm_to_time64 = 0x4f2250ba;
+__crc_rtc_tm_to_ktime = 0x23412816;
+__crc_rtc_ktime_to_tm = 0xe4c2c66c;

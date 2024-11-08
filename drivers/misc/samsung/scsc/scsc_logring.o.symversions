@@ -1,0 +1,8 @@
+__crc_scsc_printk_tag = 0xb2990777;
+__crc_scsc_printk_tag_lvl = 0xd2366449;
+__crc_scsc_printk_tag_dev = 0xeceaf5c4;
+__crc_scsc_printk_tag_dev_lvl = 0x0a739f15;
+__crc_scsc_printk_bin = 0x806b918a;
+__crc_scsc_logring_enable = 0x05fb1bd1;
+__crc_scsc_logring_register_mx_cb = 0x35902ad5;
+__crc_scsc_logring_unregister_mx_cb = 0xade1baa4;

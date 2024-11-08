@@ -1,0 +1,5 @@
+__arm_smccc_smc
+__stack_chk_fail
+__ubsan_handle_cfi_check_fail_abort
+exynos_pd_backup_s2mpu
+exynos_pd_restore_s2mpu

@@ -1,0 +1,3 @@
+__crc_oled_maptbl_init_default = 0x1f17d381;
+__crc_oled_maptbl_getidx_default = 0xa141715a;
+__crc_oled_maptbl_copy_default = 0xfd57a29f;

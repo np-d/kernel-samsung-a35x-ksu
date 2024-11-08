@@ -1,0 +1,3 @@
+__crc_create_function_device = 0x25da359c;
+__crc_usb_os_desc_prepare_interf_dir = 0x4f84f82d;
+__crc_unregister_gadget_item = 0xfccbd3e8;

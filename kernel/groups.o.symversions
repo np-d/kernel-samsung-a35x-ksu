@@ -1,0 +1,7 @@
+__crc_groups_alloc = 0x43d22fb9;
+__crc_groups_free = 0x732dd326;
+__crc_groups_sort = 0xa23ffc04;
+__crc_set_groups = 0x48f98552;
+__crc_set_current_groups = 0xe080e8f0;
+__crc_in_group_p = 0x8b8059bd;
+__crc_in_egroup_p = 0x39461d6a;

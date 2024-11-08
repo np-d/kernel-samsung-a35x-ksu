@@ -1,0 +1,3 @@
+__crc_vbus_session_notify = 0x31b819c4;
+__crc_usb_reset_notify = 0xb3a830e5;
+__crc_make_suspend_current_event = 0x71c1892a;

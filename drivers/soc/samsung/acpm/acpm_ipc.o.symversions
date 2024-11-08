@@ -1,0 +1,11 @@
+__crc_acpm_time_calc = 0xb6735b01;
+__crc_acpm_get_peri_timer = 0x0e14a63a;
+__crc_acpm_stop_log = 0xaae45b1b;
+__crc_acpm_ipc_request_channel = 0x6b3abb8f;
+__crc_acpm_ipc_release_channel = 0xc1a1cb0e;
+__crc_esca_ipc_release_channel = 0x611dd90a;
+__crc_acpm_ipc_send_data = 0xf5f585ea;
+__crc_esca_ipc_send_data = 0xac9ef014;
+__crc_is_acpm_ipc_busy = 0x75483de5;
+__crc_acpm_ipc_probe = 0xd1726857;
+__crc_acpm_ipc_remove = 0x75948c61;

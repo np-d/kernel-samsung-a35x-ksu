@@ -1,0 +1,3 @@
+__crc_scsc_mx_module_reset = 0x919e1c1d;
+__crc_scsc_mx_module_register_client_module = 0x66efcad0;
+__crc_scsc_mx_module_unregister_client_module = 0x03e81704;

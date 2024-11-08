@@ -1,0 +1,14 @@
+__crc___mmc_send_status = 0x74f5ee73;
+__crc_mmc_send_status = 0x8853f365;
+__crc_mmc_select_card = 0x5fd87c39;
+__crc_mmc_get_ext_csd = 0x3441f555;
+__crc___mmc_poll_for_busy = 0xa3d447c0;
+__crc_mmc_poll_for_busy = 0x80265f09;
+__crc_mmc_prepare_busy_cmd = 0x1031b5e3;
+__crc_mmc_switch = 0x42890ddb;
+__crc_mmc_send_tuning = 0x9dec77b5;
+__crc_mmc_send_abort_tuning = 0x1358e925;
+__crc_mmc_run_bkops = 0xad08f600;
+__crc_mmc_cmdq_enable = 0xf9667925;
+__crc_mmc_cmdq_disable = 0x79f6eb6c;
+__crc_mmc_sanitize = 0xed264485;

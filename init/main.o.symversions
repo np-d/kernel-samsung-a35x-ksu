@@ -1,0 +1,4 @@
+__crc_system_state = 0x015af7f4;
+__crc_static_key_initialized = 0xbea5ff1e;
+__crc_reset_devices = 0xc2e587d1;
+__crc_loops_per_jiffy = 0xba497f13;

@@ -1,0 +1,16 @@
+__crc_shm_get_msi_base = 0x0b840424;
+__crc_shm_get_vss_region = 0x4c37a481;
+__crc_shm_get_vss_base = 0xca64afe0;
+__crc_shm_get_vss_size = 0x4e73bed4;
+__crc_shm_get_vparam_region = 0x9dce11d3;
+__crc_shm_get_vparam_base = 0xb87da73b;
+__crc_shm_get_vparam_size = 0xe294a2dc;
+__crc_cp_shmem_get_mem_map_on_cp_flag = 0xf928091e;
+__crc_cp_shmem_get_nc_region = 0x7c44da99;
+__crc_cp_shmem_get_region_with_size = 0x56d6673d;
+__crc_cp_shmem_get_region = 0x03fbc36c;
+__crc_cp_shmem_release_region = 0x0fa5830d;
+__crc_cp_shmem_release_rmem = 0x9117800f;
+__crc_cp_shmem_get_base = 0x60c80af3;
+__crc_cp_shmem_get_size = 0x0563a3af;
+__crc_cp_shmem_set_size = 0x01f4a26f;

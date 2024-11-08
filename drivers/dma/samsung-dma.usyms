@@ -1,0 +1,14 @@
+__cfi_slowpath_diag
+__pl330_prep_dma_cyclic
+__stack_chk_fail
+__ubsan_handle_cfi_check_fail_abort
+_dev_err
+_printk
+arm64_const_caps_ready
+cpu_hwcap_keys
+dma_release_channel
+dma_request_chan
+memstart_addr
+pl330_dma_debug
+pl330_dma_getposition
+sg_init_table

@@ -1,0 +1,9 @@
+__crc_net_ratelimit = 0xf6ebc03b;
+__crc_in_aton = 0x1b6314fd;
+__crc_in4_pton = 0xac5fcec0;
+__crc_in6_pton = 0x609bcd98;
+__crc_inet_pton_with_scope = 0x3d2b04d2;
+__crc_inet_addr_is_any = 0xe613a798;
+__crc_inet_proto_csum_replace4 = 0x99af5185;
+__crc_inet_proto_csum_replace16 = 0x94008310;
+__crc_inet_proto_csum_replace_by_diff = 0x6682b6c9;

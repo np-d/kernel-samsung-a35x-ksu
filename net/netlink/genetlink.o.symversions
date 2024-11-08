@@ -1,0 +1,7 @@
+__crc_genl_lock = 0x2b9da7a4;
+__crc_genl_unlock = 0x2d140a58;
+__crc_genl_register_family = 0xfb04aaa3;
+__crc_genl_unregister_family = 0x8bb69f5e;
+__crc_genlmsg_put = 0xc958e49d;
+__crc_genlmsg_multicast_allns = 0xfcbf01bd;
+__crc_genl_notify = 0x94490e6c;

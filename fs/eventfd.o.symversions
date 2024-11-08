@@ -1,0 +1,7 @@
+__crc_eventfd_signal = 0xdf0f75c6;
+__crc_eventfd_ctx_put = 0x941f2aaa;
+__crc_eventfd_ctx_do_read = 0xe911df29;
+__crc_eventfd_ctx_remove_wait_queue = 0x41ed3cec;
+__crc_eventfd_fget = 0x45557c1e;
+__crc_eventfd_ctx_fdget = 0xd67364f7;
+__crc_eventfd_ctx_fileget = 0x7959ff5b;

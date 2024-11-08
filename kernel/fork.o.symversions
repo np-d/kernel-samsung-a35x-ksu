@@ -1,0 +1,10 @@
+__crc___tracepoint_task_newtask = 0x6ba3f1e6;
+__crc___traceiter_task_newtask = 0x1222cb50;
+__crc___SCK__tp_func_task_newtask = 0x8852b350;
+__crc_tasklist_lock = 0x673472ea;
+__crc_free_task = 0xcf20f7a1;
+__crc___mmdrop = 0xe43db45e;
+__crc___put_task_struct = 0x00a8ebe4;
+__crc_mmput = 0xe1c11b81;
+__crc_mmput_async = 0x12a4ccab;
+__crc_get_task_mm = 0x5c9998cf;

@@ -1,0 +1,14 @@
+__arm_smccc_smc
+__platform_driver_register
+__stack_chk_fail
+__this_module
+__ubsan_handle_cfi_check_fail_abort
+_dev_err
+_printk
+devm_kmalloc
+dma_free_attrs
+dma_set_coherent_mask
+dma_set_mask
+dmam_alloc_attrs
+dmam_free_coherent
+platform_driver_unregister

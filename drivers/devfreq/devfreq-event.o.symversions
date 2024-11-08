@@ -1,0 +1,12 @@
+__crc_devfreq_event_enable_edev = 0x5cd20ff1;
+__crc_devfreq_event_disable_edev = 0x1db09c6b;
+__crc_devfreq_event_is_enabled = 0x420447df;
+__crc_devfreq_event_set_event = 0xdfb0a691;
+__crc_devfreq_event_get_event = 0x1477130f;
+__crc_devfreq_event_reset_event = 0x42a734fb;
+__crc_devfreq_event_get_edev_by_phandle = 0xd0761ede;
+__crc_devfreq_event_get_edev_count = 0x93dc690f;
+__crc_devfreq_event_add_edev = 0x605378f9;
+__crc_devfreq_event_remove_edev = 0x73fcfb4e;
+__crc_devm_devfreq_event_add_edev = 0xcf8cd5ff;
+__crc_devm_devfreq_event_remove_edev = 0x347db882;

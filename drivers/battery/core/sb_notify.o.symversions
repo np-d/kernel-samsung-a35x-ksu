@@ -1,0 +1,4 @@
+__crc_sb_device = 0x8f37a172;
+__crc_sb_notify_call = 0xf699a1c2;
+__crc_sb_notify_register = 0xecd503fa;
+__crc_sb_notify_unregister = 0x68912a5b;

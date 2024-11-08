@@ -1,0 +1,9 @@
+__crc_gpu_dvfs_get_clock = 0xb8982380;
+__crc_gpu_dvfs_get_voltage = 0x71ec748d;
+__crc_gpu_dvfs_get_step = 0x970fd115;
+__crc_gpu_dvfs_get_cur_clock = 0xbc05ab42;
+__crc_gpu_dvfs_get_utilization = 0xbdf3573b;
+__crc_gpu_dvfs_get_min_freq = 0xa8d0b680;
+__crc_gpu_dvfs_get_max_freq = 0xfb76ae64;
+__crc_gpu_dvfs_get_max_locked_freq = 0xeb1dde15;
+__crc_gpu_dvfs_get_min_locked_freq = 0xd5a8169d;

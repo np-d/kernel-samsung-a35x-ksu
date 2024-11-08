@@ -1,0 +1,5 @@
+__crc_cpif_create_netrx_mng = 0x15d5db86;
+__crc_cpif_exit_netrx_mng = 0xe6067e2e;
+__crc_cpif_init_netrx_mng = 0x1b0ace46;
+__crc_cpif_map_rx_buf = 0x6ec6721e;
+__crc_cpif_unmap_rx_buf = 0x1a55a0c3;

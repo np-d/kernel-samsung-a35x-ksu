@@ -1,0 +1,3 @@
+__crc___tracepoint_gpu_mem_total = 0x16fa73fe;
+__crc___traceiter_gpu_mem_total = 0x448af6f4;
+__crc___SCK__tp_func_gpu_mem_total = 0x341b9405;

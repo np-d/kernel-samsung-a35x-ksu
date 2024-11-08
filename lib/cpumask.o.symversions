@@ -1,0 +1,7 @@
+__crc_cpumask_next = 0x3de09123;
+__crc_cpumask_next_and = 0xe9960e23;
+__crc_cpumask_any_but = 0x0e3140af;
+__crc_cpumask_next_wrap = 0x233eb8eb;
+__crc_cpumask_local_spread = 0xc8a91f5b;
+__crc_cpumask_any_and_distribute = 0x173e23e7;
+__crc_cpumask_any_distribute = 0x13cdcef2;

@@ -1,0 +1,13 @@
+__crc_dev_pm_opp_of_get_opp_desc_node = 0x5bc2b54e;
+__crc_dev_pm_opp_of_find_icc_paths = 0x2db80a25;
+__crc_dev_pm_opp_of_remove_table = 0xa56e0994;
+__crc_devm_pm_opp_of_add_table = 0x5a2049f5;
+__crc_dev_pm_opp_of_add_table = 0xea1212ea;
+__crc_dev_pm_opp_of_add_table_indexed = 0x456db069;
+__crc_dev_pm_opp_of_add_table_noclk = 0x1c0aa2c2;
+__crc_dev_pm_opp_of_cpumask_remove_table = 0x6ded56d3;
+__crc_dev_pm_opp_of_cpumask_add_table = 0x8cf281e7;
+__crc_dev_pm_opp_of_get_sharing_cpus = 0xf50879c8;
+__crc_of_get_required_opp_performance_state = 0xd89d638d;
+__crc_dev_pm_opp_get_of_node = 0xc8b663f5;
+__crc_dev_pm_opp_of_register_em = 0x6a31e413;

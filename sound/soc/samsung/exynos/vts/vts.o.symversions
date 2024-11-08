@@ -1,0 +1,8 @@
+__crc_vts_start_ipc_transaction = 0x78ba31b7;
+__crc_vts_is_on = 0x08833e7f;
+__crc_vts_is_running = 0x3d484072;
+__crc_vts_chk_dmic_clk_mode = 0x3509b4e8;
+__crc_vts_set_dmicctrl = 0x450b3945;
+__crc_vts_register_dma = 0x9622b5e7;
+__crc_vts_start_runtime_resume = 0xb348ea44;
+__crc_vts_bargein_call_notifier = 0x37efdbbb;

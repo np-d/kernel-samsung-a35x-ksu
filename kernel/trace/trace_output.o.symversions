@@ -1,0 +1,11 @@
+__crc_trace_print_flags_seq = 0x99078b39;
+__crc_trace_print_symbols_seq = 0xcc5c2df4;
+__crc_trace_print_bitmask_seq = 0x9a58dd2d;
+__crc_trace_print_hex_seq = 0xe02ba436;
+__crc_trace_print_array_seq = 0xc3bc72ad;
+__crc_trace_print_hex_dump_seq = 0x81ac5e33;
+__crc_trace_raw_output_prep = 0xa408db3a;
+__crc_trace_event_printf = 0x9df162b8;
+__crc_trace_output_call = 0x9ce55d3e;
+__crc_register_trace_event = 0x1c1f3028;
+__crc_unregister_trace_event = 0x714aa26c;

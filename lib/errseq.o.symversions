@@ -1,0 +1,4 @@
+__crc_errseq_set = 0x2ec6bba0;
+__crc_errseq_sample = 0x8b910be2;
+__crc_errseq_check = 0x769f6e64;
+__crc_errseq_check_and_advance = 0x21bdb523;

@@ -1,0 +1,11 @@
+__crc_generic_error_remove_page = 0x117831d9;
+__crc_truncate_inode_pages_range = 0x9b1e67e8;
+__crc_truncate_inode_pages = 0xf2201a0a;
+__crc_truncate_inode_pages_final = 0xf5387c48;
+__crc_invalidate_mapping_pages = 0x813bc518;
+__crc_invalidate_inode_pages2_range = 0xe4e2b588;
+__crc_invalidate_inode_pages2 = 0x402361bb;
+__crc_truncate_pagecache = 0x9054146d;
+__crc_truncate_setsize = 0x9aba22f9;
+__crc_pagecache_isize_extended = 0x6a2fb491;
+__crc_truncate_pagecache_range = 0xbcba0010;

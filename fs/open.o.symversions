@@ -1,0 +1,14 @@
+__crc_vfs_truncate = 0x63eee04d;
+__crc_vfs_fallocate = 0xe54e4aaa;
+__crc_finish_open = 0x11f903a2;
+__crc_finish_no_open = 0x36036dda;
+__crc_file_path = 0xdd88c07a;
+__crc_dentry_open = 0x03521824;
+__crc_open_with_fake_path = 0xbb7f2907;
+__crc_filp_open = 0xafd1cfb4;
+__crc_filp_open_block = 0x4743bf55;
+__crc_file_open_root = 0x38493976;
+__crc_filp_close = 0x2e0ddf7e;
+__crc_generic_file_open = 0xcc37d217;
+__crc_nonseekable_open = 0xc18e62cb;
+__crc_stream_open = 0x9f554891;

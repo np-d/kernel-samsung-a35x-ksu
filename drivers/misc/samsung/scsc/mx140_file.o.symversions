@@ -1,0 +1,7 @@
+__crc_mx140_file_request_conf = 0x75d37431;
+__crc_mx140_file_request_debug_conf = 0xe373adeb;
+__crc_mx140_file_request_device_conf = 0xe8ab982f;
+__crc_mx140_file_release_conf = 0x6eaf83ac;
+__crc_mx140_request_file = 0x58a0714c;
+__crc_mx140_release_file = 0x77731e48;
+__crc_mx140_exe_path = 0xd6463735;

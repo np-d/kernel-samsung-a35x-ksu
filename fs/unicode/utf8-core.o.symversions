@@ -1,0 +1,9 @@
+__crc_utf8_validate = 0xc267960e;
+__crc_utf8_strncmp = 0x11f47d8c;
+__crc_utf8_strncasecmp = 0x9b420478;
+__crc_utf8_strncasecmp_folded = 0x4c38d4e0;
+__crc_utf8_casefold = 0xe0955f76;
+__crc_utf8_casefold_hash = 0xb784154f;
+__crc_utf8_normalize = 0xb0f389ee;
+__crc_utf8_load = 0xfc399557;
+__crc_utf8_unload = 0x3d56e7b3;

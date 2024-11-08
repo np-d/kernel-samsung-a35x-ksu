@@ -1,0 +1,7 @@
+__crc_sm5714_read_reg = 0x39eed682;
+__crc_sm5714_bulk_read = 0x7a8f8c17;
+__crc_sm5714_read_word = 0x550a8c5a;
+__crc_sm5714_write_reg = 0xf52ea504;
+__crc_sm5714_bulk_write = 0x902a94da;
+__crc_sm5714_write_word = 0xa71a35fd;
+__crc_sm5714_update_reg = 0xf8e125b3;

@@ -1,0 +1,3 @@
+__crc_sec_chg_set_dev_init = 0xe62cf348;
+__crc_sec_chg_check_modprobe = 0x1f55509f;
+__crc_sec_chg_check_dev_modprobe = 0x1e5a449e;

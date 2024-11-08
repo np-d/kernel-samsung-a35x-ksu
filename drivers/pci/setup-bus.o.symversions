@@ -1,0 +1,7 @@
+__crc_pci_flags = 0x52b1e3c7;
+__crc_pci_setup_cardbus = 0x6facd09b;
+__crc_pci_bus_size_bridges = 0x7360aaa5;
+__crc_pci_bus_assign_resources = 0x6c65a407;
+__crc_pci_bus_claim_resources = 0x11377b18;
+__crc_pci_assign_unassigned_bridge_resources = 0xe20bc932;
+__crc_pci_assign_unassigned_bus_resources = 0xa7ee1a4f;

@@ -1,0 +1,16 @@
+__crc___tracepoint_task_rename = 0x990f1219;
+__crc___traceiter_task_rename = 0x199d26ce;
+__crc___SCK__tp_func_task_rename = 0x0b46b691;
+__crc___register_binfmt = 0xadc90039;
+__crc_unregister_binfmt = 0xb13dd4f8;
+__crc_copy_string_kernel = 0xd7dd5757;
+__crc_setup_arg_pages = 0xa0e11dda;
+__crc_open_exec = 0x9360d094;
+__crc___get_task_comm = 0x4428fb5e;
+__crc_begin_new_exec = 0x52345ec3;
+__crc_would_dump = 0xc29a9165;
+__crc_setup_new_exec = 0xf0b6c77c;
+__crc_finalize_exec = 0x46e5c670;
+__crc_bprm_change_interp = 0xbae25249;
+__crc_remove_arg_zero = 0x9d726e85;
+__crc_set_binfmt = 0x8d3f3d9c;

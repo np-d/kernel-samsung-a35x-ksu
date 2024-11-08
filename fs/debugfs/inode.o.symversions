@@ -1,0 +1,11 @@
+__crc_debugfs_lookup = 0xde909ad0;
+__crc_debugfs_create_file = 0xd2ca564a;
+__crc_debugfs_create_file_unsafe = 0xeb7772d0;
+__crc_debugfs_create_file_size = 0xf185026f;
+__crc_debugfs_create_dir = 0xeebe12e4;
+__crc_debugfs_create_automount = 0x0fdba15c;
+__crc_debugfs_create_symlink = 0xf44fdd70;
+__crc_debugfs_remove = 0x402e076a;
+__crc_debugfs_lookup_and_remove = 0x2956a6d2;
+__crc_debugfs_rename = 0x97e5b1cc;
+__crc_debugfs_initialized = 0x716265c7;

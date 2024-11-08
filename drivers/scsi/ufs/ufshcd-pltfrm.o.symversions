@@ -1,0 +1,5 @@
+__crc_ufshcd_populate_vreg = 0x6409c545;
+__crc_ufshcd_pltfrm_shutdown = 0x7739ef94;
+__crc_ufshcd_get_pwr_dev_param = 0xff85cd6b;
+__crc_ufshcd_init_pwr_dev_param = 0x54c946de;
+__crc_ufshcd_pltfrm_init = 0x6722f00d;

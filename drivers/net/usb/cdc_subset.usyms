@@ -1,0 +1,8 @@
+__this_module
+__ubsan_handle_cfi_check_fail_abort
+usb_deregister
+usb_register_driver
+usbnet_disconnect
+usbnet_probe
+usbnet_resume
+usbnet_suspend

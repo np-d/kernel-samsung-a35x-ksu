@@ -1,0 +1,8 @@
+__crc_string_get_size = 0x48a91171;
+__crc_string_unescape = 0x64bbc288;
+__crc_string_escape_mem = 0x656c1a0e;
+__crc_kstrdup_quotable = 0xc8ddd5b5;
+__crc_kstrdup_quotable_cmdline = 0x1313a16d;
+__crc_kstrdup_quotable_file = 0x4fc04434;
+__crc_kfree_strarray = 0x248e1473;
+__crc_memcpy_and_pad = 0x697ed5f0;

@@ -1,0 +1,3 @@
+__crc_is_sec_get_sysfs_finfo = 0x187d1c57;
+__crc_is_sec_get_cal_buf = 0xe4f891dd;
+__crc_is_sec_get_cal_buf_rom_data = 0xfbcf3c5d;

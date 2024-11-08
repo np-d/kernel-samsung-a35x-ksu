@@ -1,0 +1,5 @@
+__crc_crypto_aes_sbox = 0xd9d952d1;
+__crc_crypto_aes_inv_sbox = 0xa84ce9e0;
+__crc_aes_expandkey = 0x558b281d;
+__crc_aes_encrypt = 0x77e9eb37;
+__crc_aes_decrypt = 0x78a16f48;

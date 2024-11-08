@@ -1,0 +1,2 @@
+__crc_scsc_logring_register_mx_cb = 0x35902ad5;
+__crc_scsc_logring_unregister_mx_cb = 0xade1baa4;

@@ -1,0 +1,14 @@
+__crc_sysevent_get_restart_level = 0xd48e56d0;
+__crc_sysevent_default_online = 0xbebd1c40;
+__crc_sysevent_bus_type = 0x73090d09;
+__crc_find_sysevent_device = 0xd3f66d57;
+__crc_sysevent_set_fwname = 0xc2630172;
+__crc_sysevent_get = 0x570e737f;
+__crc_sysevent_get_with_fwname = 0x3af93265;
+__crc_sysevent_put = 0x5575148f;
+__crc_sysevent_restart_dev = 0xc78dd5e0;
+__crc_sysevent_restart = 0x83065f44;
+__crc_sysevent_crashed = 0x113c77df;
+__crc_sysevent_set_crash_status = 0x42eea593;
+__crc_sysevent_register = 0x756679b3;
+__crc_sysevent_unregister = 0xbe43ac07;

@@ -1,0 +1,2 @@
+__crc_nfc_ese_pwr = 0x58c3ab9d;
+__crc_perform_ese_cold_reset = 0xc391cada;

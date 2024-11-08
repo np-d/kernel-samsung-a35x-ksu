@@ -1,0 +1,4 @@
+__crc_snd_soc_calc_frame_size = 0x2541a979;
+__crc_snd_soc_params_to_frame_size = 0xc8269f94;
+__crc_snd_soc_calc_bclk = 0x7e606130;
+__crc_snd_soc_params_to_bclk = 0xeb711ae7;

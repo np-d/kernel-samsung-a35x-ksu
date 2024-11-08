@@ -1,0 +1,13 @@
+__crc___tracepoint_mm_vmscan_direct_reclaim_begin = 0x000c8744;
+__crc___traceiter_mm_vmscan_direct_reclaim_begin = 0x803bf202;
+__crc___SCK__tp_func_mm_vmscan_direct_reclaim_begin = 0x6ab3dc06;
+__crc___tracepoint_mm_vmscan_direct_reclaim_end = 0xe1130765;
+__crc___traceiter_mm_vmscan_direct_reclaim_end = 0xf2520b8a;
+__crc___SCK__tp_func_mm_vmscan_direct_reclaim_end = 0x9a5a222c;
+__crc_register_shrinker = 0x05b09706;
+__crc_unregister_shrinker = 0x0e3f5522;
+__crc_shrink_slab = 0xf8f1efa7;
+__crc_reclaim_pages = 0x2d55e4f4;
+__crc_try_to_free_mem_cgroup_pages = 0x67f3edc8;
+__crc_kswapd = 0xa6b27bfe;
+__crc_check_move_unevictable_pages = 0xfbfc10b0;

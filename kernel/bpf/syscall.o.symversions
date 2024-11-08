@@ -1,0 +1,10 @@
+__crc_bpf_map_put = 0x31fa2097;
+__crc_bpf_map_inc = 0xe02dda01;
+__crc_bpf_map_inc_with_uref = 0x1b68de1b;
+__crc_bpf_map_inc_not_zero = 0x8736461b;
+__crc_bpf_prog_put = 0x1e86d1cb;
+__crc_bpf_prog_add = 0x72181bea;
+__crc_bpf_prog_sub = 0xa3337941;
+__crc_bpf_prog_inc = 0x073b3040;
+__crc_bpf_prog_inc_not_zero = 0x68474b61;
+__crc_bpf_prog_get_type_dev = 0xceb4ecb4;

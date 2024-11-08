@@ -1,0 +1,8 @@
+__crc_sysevent_notif_register_notifier = 0xc73e3954;
+__crc_sysevent_notif_unregister_notifier = 0x06257f27;
+__crc_send_early_notifications = 0x7266452a;
+__crc_sysevent_register_early_notifier = 0xd20605a5;
+__crc_sysevent_unregister_early_notifier = 0x00f7f290;
+__crc_sysevent_get_early_notif_info = 0x6d4e3fc0;
+__crc_sysevent_notif_add_sysevent = 0xf71fc4de;
+__crc_sysevent_notif_queue_notification = 0xbf8bc6a8;

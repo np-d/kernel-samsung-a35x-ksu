@@ -1,0 +1,3 @@
+__crc_sec_vibrator_recheck_ratio = 0xb6b4827b;
+__crc_sec_vibrator_register = 0x292dbcd8;
+__crc_sec_vibrator_unregister = 0x158c29dc;

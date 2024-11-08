@@ -1,0 +1,15 @@
+__crc_set_capacity = 0x4f19775a;
+__crc_set_capacity_and_notify = 0x4b31b194;
+__crc_bdevname = 0xeb9b4334;
+__crc___register_blkdev = 0x720a27a7;
+__crc_unregister_blkdev = 0xb5a459dc;
+__crc_disk_uevent = 0x061b280e;
+__crc_device_add_disk = 0xe0377d9b;
+__crc_blk_mark_disk_dead = 0xcc912ccf;
+__crc_del_gendisk = 0xb54fe109;
+__crc___alloc_disk_node = 0x8d6ef1b5;
+__crc___blk_alloc_disk = 0x8d65eb42;
+__crc_put_disk = 0xf396544b;
+__crc_blk_cleanup_disk = 0xdb409f3d;
+__crc_set_disk_ro = 0x20c17f06;
+__crc_bdev_read_only = 0xfe6d8a90;

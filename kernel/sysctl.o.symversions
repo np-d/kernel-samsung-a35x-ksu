@@ -1,0 +1,13 @@
+__crc_proc_dou8vec_minmax = 0xfc03a4ca;
+__crc_proc_dobool = 0x2c71fbfb;
+__crc_proc_dointvec = 0xa8181adf;
+__crc_proc_douintvec = 0x8263a6d9;
+__crc_proc_dointvec_jiffies = 0xdf6b082f;
+__crc_proc_dointvec_minmax = 0x2cdf87a1;
+__crc_proc_douintvec_minmax = 0x638aff11;
+__crc_proc_dointvec_userhz_jiffies = 0x3dd9b230;
+__crc_proc_dointvec_ms_jiffies = 0x84c1c552;
+__crc_proc_dostring = 0x319d493d;
+__crc_proc_doulongvec_minmax = 0xec2e1c8f;
+__crc_proc_doulongvec_ms_jiffies_minmax = 0x5efde8e6;
+__crc_proc_do_large_bitmap = 0x47960bc4;

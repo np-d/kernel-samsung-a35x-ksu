@@ -1,0 +1,4 @@
+__crc_trace_clock_local = 0x33efc8c8;
+__crc_trace_clock = 0x5236497d;
+__crc_trace_clock_jiffies = 0x6913865a;
+__crc_trace_clock_global = 0xcf28f55e;

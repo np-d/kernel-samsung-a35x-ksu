@@ -1,0 +1,10 @@
+__crc_of_mdiobus_phy_device_register = 0xbea8ce44;
+__crc_of_mdiobus_child_is_phy = 0x486083c9;
+__crc_of_mdiobus_register = 0x2d1b1a2a;
+__crc_of_mdio_find_device = 0xb3f77cf0;
+__crc_of_phy_find_device = 0x233843e8;
+__crc_of_phy_connect = 0xe3db2f77;
+__crc_of_phy_get_and_connect = 0x5c7dd20a;
+__crc_of_phy_is_fixed_link = 0x906973dc;
+__crc_of_phy_register_fixed_link = 0x96ada997;
+__crc_of_phy_deregister_fixed_link = 0x1a875f6c;

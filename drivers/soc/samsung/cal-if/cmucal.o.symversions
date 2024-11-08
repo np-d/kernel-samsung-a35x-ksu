@@ -1,0 +1,5 @@
+__crc_cmucal_get_list_size = 0x902d105d;
+__crc_cmucal_get_node = 0xf2796cbf;
+__crc_cmucal_get_sfr_node = 0x8794ca34;
+__crc_cmucal_get_id = 0xa621b336;
+__crc_cmucal_get_id_by_addr = 0xfdf8a88e;

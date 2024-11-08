@@ -1,0 +1,5 @@
+__crc_imgloader_get_phys_base = 0x510283af;
+__crc_imgloader_boot = 0x9e3fecf2;
+__crc_imgloader_shutdown = 0x6e5f566c;
+__crc_imgloader_desc_init = 0x03637147;
+__crc_imgloader_desc_release = 0xf2116d47;

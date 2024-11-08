@@ -1,0 +1,9 @@
+__crc___emstune_add_request = 0xa131fc7f;
+__crc_emstune_remove_request = 0x7177e678;
+__crc_emstune_update_request = 0xc7b0d8e7;
+__crc_emstune_boost = 0xb93dc2e4;
+__crc_emstune_get_cur_mode = 0x83e9896c;
+__crc_emstune_get_cur_level = 0xe3823bc5;
+__crc_emstune_register_notifier = 0xb5f2516e;
+__crc_emstune_unregister_notifier = 0x896846e1;
+__crc_emstune_cpu_dsu_table_index = 0x2051155f;

@@ -1,0 +1,10 @@
+__crc_wireless_nlevent_flush = 0x1e8fac8e;
+__crc_wireless_send_event = 0x9763921f;
+__crc_iwe_stream_add_event = 0x4cba441d;
+__crc_iwe_stream_add_point = 0x08249512;
+__crc_iwe_stream_add_value = 0xc41bc980;
+__crc_iw_handler_set_spy = 0xcb0fa353;
+__crc_iw_handler_get_spy = 0xda102b47;
+__crc_iw_handler_set_thrspy = 0x71612ff5;
+__crc_iw_handler_get_thrspy = 0x141c3bfe;
+__crc_wireless_spy_update = 0xbbced88f;

@@ -1,0 +1,8 @@
+__crc_config_item_set_name = 0xbaf5621e;
+__crc_config_item_init_type_name = 0x3a8921df;
+__crc_config_group_init_type_name = 0xb323e6f4;
+__crc_config_item_get = 0xfd28e538;
+__crc_config_item_get_unless_zero = 0x1fba625e;
+__crc_config_item_put = 0xf7bde646;
+__crc_config_group_init = 0x8577968d;
+__crc_config_group_find_item = 0x964a71e0;

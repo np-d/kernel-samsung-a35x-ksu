@@ -1,0 +1,2 @@
+__crc_gpufreq_cooling_get_level = 0x3910294d;
+__crc_gpufreq_cooling_get_freq = 0x018ea07d;

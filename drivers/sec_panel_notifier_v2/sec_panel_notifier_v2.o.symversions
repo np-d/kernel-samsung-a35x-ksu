@@ -1,0 +1,3 @@
+__crc_panel_notifier_register = 0xdd9600f7;
+__crc_panel_notifier_unregister = 0xca3cfde6;
+__crc_panel_notifier_call_chain = 0xce64d193;

@@ -1,0 +1,4 @@
+__crc_dma_fence_chain_walk = 0x0b290ada;
+__crc_dma_fence_chain_find_seqno = 0x4e4f0f16;
+__crc_dma_fence_chain_ops = 0x02293ac3;
+__crc_dma_fence_chain_init = 0x2ea52d3e;

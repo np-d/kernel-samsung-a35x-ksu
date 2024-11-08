@@ -1,0 +1,12 @@
+__crc_complete = 0xa6257a2f;
+__crc_complete_all = 0x93d6dd8c;
+__crc_wait_for_completion = 0x25974000;
+__crc_wait_for_completion_timeout = 0x4a3ad70e;
+__crc_wait_for_completion_io = 0x392b1fea;
+__crc_wait_for_completion_io_timeout = 0x5c26a53b;
+__crc_wait_for_completion_interruptible = 0x2e3bcce2;
+__crc_wait_for_completion_interruptible_timeout = 0xf02aa937;
+__crc_wait_for_completion_killable = 0x20463df4;
+__crc_wait_for_completion_killable_timeout = 0x726bc3c7;
+__crc_try_wait_for_completion = 0x21ef374c;
+__crc_completion_done = 0xddf6ad7a;

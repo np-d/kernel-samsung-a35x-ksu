@@ -1,0 +1,3 @@
+__crc_pps_register_source = 0x513d100b;
+__crc_pps_unregister_source = 0x376f92c0;
+__crc_pps_event = 0x61916f84;

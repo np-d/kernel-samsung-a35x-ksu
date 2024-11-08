@@ -1,0 +1,6 @@
+__crc_LZ4_compress_fast = 0x6004858d;
+__crc_LZ4_compress_default = 0x4f4d78c5;
+__crc_LZ4_compress_destSize = 0x5bc92e85;
+__crc_LZ4_loadDict = 0x749849d8;
+__crc_LZ4_saveDict = 0x635ff76d;
+__crc_LZ4_compress_fast_continue = 0xf9eced44;

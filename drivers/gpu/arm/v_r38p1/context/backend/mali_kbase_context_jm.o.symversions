@@ -1,0 +1,4 @@
+__crc_kbase_context_debugfs_init = 0x466e2a27;
+__crc_kbase_context_debugfs_term = 0x91161ca1;
+__crc_kbase_create_context = 0xd209a318;
+__crc_kbase_destroy_context = 0x7144d002;

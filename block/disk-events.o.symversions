@@ -1,0 +1,2 @@
+__crc_bdev_check_media_change = 0xbc15b643;
+__crc_disk_force_media_change = 0x8b91f7c1;

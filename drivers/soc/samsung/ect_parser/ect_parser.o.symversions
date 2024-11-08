@@ -1,0 +1,10 @@
+__crc_ect_get_block = 0xcd133dbe;
+__crc_ect_dvfs_get_domain = 0x0e3aa78a;
+__crc_ect_pll_get_pll = 0x6447be6b;
+__crc_ect_asv_get_domain = 0xe355cd86;
+__crc_ect_ap_thermal_get_function = 0x4e098899;
+__crc_ect_pidtm_get_block = 0x5efba370;
+__crc_ect_margin_get_domain = 0x881d588b;
+__crc_ect_minlock_get_domain = 0x95b2cbd0;
+__crc_ect_gen_param_get_table = 0x5034255f;
+__crc_ect_parse_binary_header = 0x5d3c61b8;

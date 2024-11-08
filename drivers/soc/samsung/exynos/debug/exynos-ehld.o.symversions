@@ -1,0 +1,3 @@
+__crc_ehld_get_ctrl_data = 0xcfa5f011;
+__crc_ehld_event_update_allcpu = 0x2f4af412;
+__crc_ehld_do_action = 0xab8eda91;

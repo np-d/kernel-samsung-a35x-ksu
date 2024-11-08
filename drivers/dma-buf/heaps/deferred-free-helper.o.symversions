@@ -1,0 +1,2 @@
+__crc_deferred_free = 0xe730994c;
+__crc_get_freelist_nr_pages = 0x618b006f;

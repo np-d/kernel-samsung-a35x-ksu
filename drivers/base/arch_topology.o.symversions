@@ -1,0 +1,8 @@
+__crc_topology_set_scale_freq_source = 0xd4f00a9b;
+__crc_topology_clear_scale_freq_source = 0x03a20a41;
+__crc_arch_freq_scale = 0x18e8c440;
+__crc_cpu_scale = 0x014e8186;
+__crc_thermal_pressure = 0xb9d6f369;
+__crc_topology_set_thermal_pressure = 0xea0dce63;
+__crc_topology_update_done = 0xc7b3d143;
+__crc_cpu_topology = 0x7281ec27;

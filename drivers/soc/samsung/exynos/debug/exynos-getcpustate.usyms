@@ -1,0 +1,17 @@
+__platform_driver_register
+__stack_chk_fail
+__this_module
+__ubsan_handle_cfi_check_fail_abort
+_dev_err
+_dev_info
+_printk
+devm_ioremap_resource
+devm_kmalloc
+exynos_pmu_read
+log_post_read_mmio
+log_read_mmio
+of_get_property
+of_property_count_elems_of_size
+of_property_read_variable_u32_array
+platform_driver_unregister
+platform_get_resource_byname

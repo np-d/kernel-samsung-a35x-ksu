@@ -1,0 +1,4 @@
+__crc_memremap = 0x4d924f20;
+__crc_memunmap = 0x9e9fdd9d;
+__crc_devm_memremap = 0x141fa271;
+__crc_devm_memunmap = 0xefbaf87d;

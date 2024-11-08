@@ -1,0 +1,2 @@
+arch/arm64/boot/dts/qcom/.msm8992-xiaomi-libra.dtb.dts.tmp: \
+  arch/arm64/boot/dts/qcom/msm8992-xiaomi-libra.dts

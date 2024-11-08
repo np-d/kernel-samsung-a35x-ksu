@@ -1,0 +1,13 @@
+__cfi_slowpath_diag
+__this_module
+__ubsan_handle_cfi_check_fail_abort
+_printk
+dev_driver_string
+i2c_register_driver
+is_debug_get
+is_get_is_core
+is_vendor_rom_parse_dt
+kfree
+kmalloc_caches
+kmem_cache_alloc_trace
+memlog_write_printf

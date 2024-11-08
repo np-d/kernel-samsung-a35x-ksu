@@ -1,0 +1,5 @@
+__crc_scsc_bt_get_boot_data = 0xad45900a;
+__crc_scsc_bt_audio_get_paddr_buf = 0x1db70e31;
+__crc_scsc_bt_audio_get_rate = 0x5e260831;
+__crc_scsc_bt_audio_register = 0xba383f73;
+__crc_scsc_bt_audio_unregister = 0x4ba287ac;

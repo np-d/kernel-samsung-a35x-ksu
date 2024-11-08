@@ -1,0 +1,2 @@
+__crc___regmap_init_i2c = 0xa5570f54;
+__crc___devm_regmap_init_i2c = 0x9b7ed4e8;

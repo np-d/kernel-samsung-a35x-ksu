@@ -1,0 +1,6 @@
+__crc_scsi_set_medium_removal = 0x99be34be;
+__crc_scsi_cmd_allowed = 0xc1d5d504;
+__crc_put_sg_io_hdr = 0x5ec4aee6;
+__crc_get_sg_io_hdr = 0x1de4ccb2;
+__crc_scsi_ioctl = 0x7610019d;
+__crc_scsi_ioctl_block_when_processing_errors = 0xbd5e0e7a;

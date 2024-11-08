@@ -1,0 +1,17 @@
+__crc_spi_controller_dma_map_mem_op_data = 0xbdd52245;
+__crc_spi_controller_dma_unmap_mem_op_data = 0x59b04966;
+__crc_spi_mem_dtr_supports_op = 0xec1573d0;
+__crc_spi_mem_default_supports_op = 0x6a3b2d82;
+__crc_spi_mem_supports_op = 0x4dc005bb;
+__crc_spi_mem_exec_op = 0xacdf7439;
+__crc_spi_mem_get_name = 0x76933366;
+__crc_spi_mem_adjust_op_size = 0x8cca8cc4;
+__crc_spi_mem_dirmap_create = 0xb605a8f5;
+__crc_spi_mem_dirmap_destroy = 0xf7b20b96;
+__crc_devm_spi_mem_dirmap_create = 0xb3e42fa7;
+__crc_devm_spi_mem_dirmap_destroy = 0x376e8b91;
+__crc_spi_mem_dirmap_read = 0xf430f245;
+__crc_spi_mem_dirmap_write = 0x90b4f79b;
+__crc_spi_mem_poll_status = 0x7495e98e;
+__crc_spi_mem_driver_register_with_owner = 0x6c8314ad;
+__crc_spi_mem_driver_unregister = 0x6a6ce43c;

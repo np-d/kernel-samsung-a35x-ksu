@@ -1,0 +1,5 @@
+__crc_sm5714_muic_set_bc12_control = 0xbafa0b1b;
+__crc_sm5714_muic_get_jig_status = 0x82768560;
+__crc_sm5714_muic_get_vbus_voltage = 0x9b1a1cdb;
+__crc_muic_request_disable_afc_state = 0xb43aa993;
+__crc_muic_check_fled_state = 0x557c04aa;

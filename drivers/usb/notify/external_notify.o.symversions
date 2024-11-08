@@ -1,0 +1,4 @@
+__crc_usb_external_notify_register = 0x23ab602f;
+__crc_usb_external_notify_unregister = 0xeb1aab73;
+__crc_send_external_notify = 0x1c8a84c7;
+__crc_external_notifier_init = 0xa758e600;

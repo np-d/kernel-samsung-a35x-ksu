@@ -1,0 +1,5 @@
+__crc_dw_handle_msi_irq = 0xc641115f;
+__crc_dw_pcie_host_init = 0x00019a58;
+__crc_dw_pcie_host_deinit = 0x3ddb9773;
+__crc_dw_pcie_own_conf_map_bus = 0xef6cdee1;
+__crc_dw_pcie_setup_rc = 0x5b25ebc4;

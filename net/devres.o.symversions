@@ -1,0 +1,2 @@
+__crc_devm_alloc_etherdev_mqs = 0x3a966ec9;
+__crc_devm_register_netdev = 0x2cb4dff9;

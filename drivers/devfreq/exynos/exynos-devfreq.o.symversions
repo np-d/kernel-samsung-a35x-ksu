@@ -1,0 +1,3 @@
+__crc_exynos_alt_call_chain = 0xc7e2e3d5;
+__crc_exynos_devfreq_get_domain_freq = 0x98b5ae62;
+__crc_exynos_devfreq_alt_mode_change = 0x84774c83;

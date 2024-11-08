@@ -1,0 +1,4 @@
+__crc_exynos_build_static_power_table = 0xfb7ee141;
+__crc_sec_bootstat_get_thermal = 0x07d31f6b;
+__crc_exynos_tmu_get_data_from_tz = 0x1a3d3446;
+__crc_exynos_tmu_extern_get_temp = 0xc11ac948;

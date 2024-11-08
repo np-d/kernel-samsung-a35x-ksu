@@ -1,0 +1,4 @@
+__crc_alloc_inst_dm = 0x5bbf556d;
+__crc_usb_dm_request = 0x22ea644d;
+__crc_init_dm_direct_path = 0x79aacb8b;
+__crc_function_alloc_dm = 0xc237af27;

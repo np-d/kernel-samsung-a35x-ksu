@@ -1,0 +1,6 @@
+__crc_down = 0x6626afca;
+__crc_down_interruptible = 0x6bd0e573;
+__crc_down_killable = 0x36b6ebbf;
+__crc_down_trylock = 0xe9ffc063;
+__crc_down_timeout = 0x92e683f5;
+__crc_up = 0xcf2a6966;

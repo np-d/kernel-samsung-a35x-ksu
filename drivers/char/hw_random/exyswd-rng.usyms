@@ -1,0 +1,17 @@
+__arm_smccc_smc
+__platform_driver_register
+__stack_chk_fail
+__this_module
+__ubsan_handle_cfi_check_fail_abort
+_printk
+_raw_spin_lock_irqsave
+_raw_spin_unlock_irqrestore
+devm_hwrng_register
+devm_kmalloc
+dma_free_attrs
+dmam_alloc_attrs
+memcpy
+panic
+platform_device_register
+platform_device_unregister
+platform_driver_unregister

@@ -1,0 +1,12 @@
+__crc_get_sec_vote = 0x980cb299;
+__crc_get_sec_vote_result = 0x3a11251f;
+__crc_get_sec_keyvoter_name = 0xdcfd1642;
+__crc_get_sec_voter_status = 0x3573a259;
+__crc_show_sec_vote_status = 0x6410b121;
+__crc_find_vote = 0xd28cbd05;
+__crc_sec_vote_init = 0xdf93704d;
+__crc_sec_vote_destroy = 0x8cd3e701;
+__crc_change_sec_voter_pri = 0x4e0019b4;
+__crc__sec_vote = 0xa187cd28;
+__crc_sec_vote_refresh = 0x1fe56aac;
+__crc_get_sec_vote_name = 0x07850704;

@@ -1,0 +1,8 @@
+__crc_sec_tsp_sponge_log = 0x7220ca19;
+__crc_sec_debug_tsp_log_msg = 0xfd7d7073;
+__crc_sec_debug_tsp_fail_hist = 0x89c7b751;
+__crc_sec_debug_tsp_raw_data_msg = 0xb0635efd;
+__crc_sec_debug_tsp_command_history = 0x7629e057;
+__crc_sec_tsp_raw_data_clear = 0xea4cc80d;
+__crc_sec_tsp_log_fix = 0xbb44cd95;
+__crc_sec_tsp_log_init = 0xf9ef2365;

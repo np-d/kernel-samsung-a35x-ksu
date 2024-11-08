@@ -1,0 +1,3 @@
+__crc_hall_notifier_register = 0xe67c5c43;
+__crc_hall_notifier_unregister = 0x2848b06f;
+__crc_hall_notifier_notify = 0x4d70996f;

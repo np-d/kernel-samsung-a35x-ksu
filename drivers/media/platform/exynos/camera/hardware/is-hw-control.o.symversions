@@ -1,0 +1,7 @@
+__crc_is_hardware_set_param = 0x523b7948;
+__crc_is_hw_get_otf_group_ops = 0x029389e4;
+__crc_is_hardware_process_start = 0xcf32be1f;
+__crc_is_hardware_close = 0x38abd7e0;
+__crc_is_hardware_open = 0x334d87bf;
+__crc_is_hardware_dma_cfg_kva64 = 0xba4e5941;
+__crc_is_hardware_dma_cfg = 0xee1c9930;

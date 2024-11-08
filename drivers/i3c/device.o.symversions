@@ -1,0 +1,11 @@
+__crc_i3c_device_do_priv_xfers = 0x08dd2d9c;
+__crc_i3c_device_get_info = 0x33a28724;
+__crc_i3c_device_disable_ibi = 0x99a893ad;
+__crc_i3c_device_enable_ibi = 0x19444c10;
+__crc_i3c_device_request_ibi = 0xf52b64f8;
+__crc_i3c_device_free_ibi = 0x7cb50226;
+__crc_i3cdev_to_dev = 0x0e3f6c08;
+__crc_dev_to_i3cdev = 0x0967711c;
+__crc_i3c_device_match_id = 0x2382e96b;
+__crc_i3c_driver_register_with_owner = 0x7ad03da6;
+__crc_i3c_driver_unregister = 0x161bba48;

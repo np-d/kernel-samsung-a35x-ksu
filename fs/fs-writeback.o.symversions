@@ -1,0 +1,16 @@
+__crc___tracepoint_wbc_writepage = 0x6e59f821;
+__crc___traceiter_wbc_writepage = 0x848b6b63;
+__crc___SCK__tp_func_wbc_writepage = 0x4cb81fda;
+__crc___inode_attach_wb = 0xa3ddfb53;
+__crc_wbc_attach_and_unlock_inode = 0x3350299b;
+__crc_wbc_detach_inode = 0xebef26d1;
+__crc_wbc_account_cgroup_owner = 0xdf3dda37;
+__crc_inode_congested = 0xe1e8bd89;
+__crc_inode_io_list_del = 0x99751094;
+__crc___mark_inode_dirty = 0xcb5b4ef8;
+__crc_writeback_inodes_sb_nr = 0xd6c2694e;
+__crc_writeback_inodes_sb = 0xc1cd1de0;
+__crc_try_to_writeback_inodes_sb = 0xc1b82ff7;
+__crc_sync_inodes_sb = 0xce2ca77f;
+__crc_write_inode_now = 0x27207bf5;
+__crc_sync_inode_metadata = 0x7d6eea0d;

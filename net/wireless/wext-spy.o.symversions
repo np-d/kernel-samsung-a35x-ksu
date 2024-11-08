@@ -1,0 +1,5 @@
+__crc_iw_handler_set_spy = 0xcb0fa353;
+__crc_iw_handler_get_spy = 0xda102b47;
+__crc_iw_handler_set_thrspy = 0x71612ff5;
+__crc_iw_handler_get_thrspy = 0x141c3bfe;
+__crc_wireless_spy_update = 0xbbced88f;

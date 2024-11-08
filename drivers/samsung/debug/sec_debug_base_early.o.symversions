@@ -1,0 +1,8 @@
+__crc_secdbg_base_set_info_hard_lockup = 0x2efdda7c;
+__crc_secdbg_base_get_ncva = 0xa54c0505;
+__crc_secdbg_base_get_wdd_info = 0xcff910cb;
+__crc_secdbg_base_get_debug_base = 0x38378ba1;
+__crc_secdbg_base_get_kcnst_base = 0xd53b77f1;
+__crc_secdbg_base_get_buf_base = 0x6ea70799;
+__crc_secdbg_base_get_buf_size = 0x7a7730bd;
+__crc_secdbg_base_get_end_addr = 0x3258812c;

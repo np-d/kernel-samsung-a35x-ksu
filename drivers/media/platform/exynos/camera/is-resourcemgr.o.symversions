@@ -1,0 +1,4 @@
+__crc_is_resource_get = 0x516f8361;
+__crc_is_resource_put = 0xeff6fe95;
+__crc_register_cam_pwr_notifier = 0x9c1eda4b;
+__crc_unregister_cam_pwr_notifier = 0x713f5406;

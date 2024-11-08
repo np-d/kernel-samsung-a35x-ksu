@@ -1,0 +1,2 @@
+__crc_usb_register_notify = 0x89bbafc6;
+__crc_usb_unregister_notify = 0x811dc334;

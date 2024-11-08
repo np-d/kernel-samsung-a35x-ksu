@@ -1,0 +1,2 @@
+__crc_stui_i2c_lock = 0x87d9e2fb;
+__crc_stui_i2c_unlock = 0xf11e7050;

@@ -1,0 +1,16 @@
+__crc_snd_pcm_stream_lock = 0xcd503f53;
+__crc_snd_pcm_stream_unlock = 0x98164332;
+__crc_snd_pcm_stream_lock_irq = 0x20456013;
+__crc_snd_pcm_stream_unlock_irq = 0x43162cb9;
+__crc__snd_pcm_stream_lock_irqsave = 0xb0ba4064;
+__crc__snd_pcm_stream_lock_irqsave_nested = 0xd43f41c6;
+__crc_snd_pcm_stream_unlock_irqrestore = 0xb1c3acec;
+__crc_snd_pcm_hw_refine = 0x2d64d8c5;
+__crc_snd_pcm_stop = 0x7d88a64e;
+__crc_snd_pcm_stop_xrun = 0xd6b5c4df;
+__crc_snd_pcm_suspend_all = 0x7c0f4460;
+__crc_snd_pcm_release_substream = 0xd90912b6;
+__crc_snd_pcm_open_substream = 0xff5747b6;
+__crc_snd_pcm_kernel_ioctl = 0xd8c93284;
+__crc_snd_pcm_lib_default_mmap = 0x73d34e99;
+__crc_snd_pcm_mmap_data = 0x1774a43a;

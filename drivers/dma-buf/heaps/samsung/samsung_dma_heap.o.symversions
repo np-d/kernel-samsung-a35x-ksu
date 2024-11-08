@@ -1,0 +1,3 @@
+__crc_samsung_dma_buffer_alloc = 0x7a820fc2;
+__crc_samsung_dma_buffer_free = 0x3476987e;
+__crc_samsung_export_dmabuf = 0x0cc4e272;

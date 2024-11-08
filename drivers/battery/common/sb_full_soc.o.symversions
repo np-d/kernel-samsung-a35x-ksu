@@ -1,0 +1,8 @@
+__crc_get_full_capacity = 0x4ca58c53;
+__crc_is_full_capacity = 0x2eda21a6;
+__crc_is_eu_eco_rechg = 0xd874775d;
+__crc_check_eu_eco_full_status = 0x11e707b5;
+__crc_check_eu_eco_rechg_ui_condition = 0x864c5a9c;
+__crc_sec_bat_recov_full_capacity = 0xdeae2dc2;
+__crc_sec_bat_check_full_capacity = 0x725c5895;
+__crc_sb_full_soc_init = 0xc42dbef1;

@@ -1,0 +1,15 @@
+__cfi_slowpath_diag
+__list_add_valid
+__ubsan_handle_cfi_check_fail_abort
+_raw_spin_lock_irqsave
+_raw_spin_unlock_irqrestore
+kmalloc_caches
+kmem_cache_alloc_trace
+mutex_lock
+mutex_unlock
+srcu_init_notifier_head
+srcu_notifier_call_chain
+srcu_notifier_chain_register
+srcu_notifier_chain_unregister
+strcmp
+strlcpy

@@ -1,0 +1,3 @@
+__crc_exynos_drm_boost_bts_fps = 0x189dc227;
+__crc_exynos_drm_connector_get_properties = 0xe88fcd19;
+__crc_exynos_drm_connector_init = 0x115f46a4;

@@ -1,0 +1,3 @@
+__crc_debug_locks = 0xbb0ab47b;
+__crc_debug_locks_silent = 0x97de2b83;
+__crc_debug_locks_off = 0xc575c737;

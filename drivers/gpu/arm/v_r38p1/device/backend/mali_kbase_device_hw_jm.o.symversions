@@ -1,0 +1,2 @@
+__crc_kbase_reg_write = 0x6128e4fc;
+__crc_kbase_reg_read = 0x59bfa047;

@@ -1,0 +1,6 @@
+__crc_stack_trace_print = 0xa45c7b90;
+__crc_stack_trace_snprint = 0x74c7bffa;
+__crc_stack_trace_save = 0x6bd1aa56;
+__crc_stack_trace_save_tsk = 0xe0b798da;
+__crc_stack_trace_save_regs = 0x2731e15c;
+__crc_filter_irq_stacks = 0x15ade1cc;

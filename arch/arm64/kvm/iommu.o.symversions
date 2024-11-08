@@ -1,0 +1,3 @@
+__crc_pkvm_iommu_suspend = 0xf9e9f113;
+__crc_pkvm_iommu_resume = 0x781b3cc1;
+__crc_pkvm_iommu_finalize = 0x23d83c25;

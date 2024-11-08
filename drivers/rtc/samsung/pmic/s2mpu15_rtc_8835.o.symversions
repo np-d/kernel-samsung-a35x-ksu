@@ -1,0 +1,4 @@
+__crc_secure_debug_set_config = 0x6b57b330;
+__crc_secure_debug_read = 0xb122bfa0;
+__crc_secure_debug_write = 0x89e077fe;
+__crc_secure_debug_clear = 0x92311eda;

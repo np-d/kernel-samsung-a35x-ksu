@@ -1,0 +1,9 @@
+__crc_vfs_ioctl = 0x12701887;
+__crc_fiemap_fill_next_extent = 0x605790dc;
+__crc_fiemap_prep = 0x3def8712;
+__crc_fileattr_fill_xflags = 0xb5b63711;
+__crc_fileattr_fill_flags = 0x9c86b9ab;
+__crc_vfs_fileattr_get = 0xadaf951a;
+__crc_copy_fsxattr_to_user = 0x9507c90f;
+__crc_vfs_fileattr_set = 0xd0a24ed2;
+__crc_compat_ptr_ioctl = 0x5063e2ca;

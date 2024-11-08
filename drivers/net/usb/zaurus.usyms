@@ -1,0 +1,16 @@
+__dev_kfree_skb_any
+__this_module
+__ubsan_handle_cfi_check_fail_abort
+_dev_info
+crc32_le
+skb_copy_expand
+skb_put
+usb_deregister
+usb_register_driver
+usbnet_cdc_unbind
+usbnet_disconnect
+usbnet_generic_cdc_bind
+usbnet_get_endpoints
+usbnet_probe
+usbnet_resume
+usbnet_suspend

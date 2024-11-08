@@ -1,0 +1,5 @@
+__crc_sysrq_mask = 0x4a17ed66;
+__crc_handle_sysrq = 0x7647726c;
+__crc_sysrq_toggle_support = 0xc1086e0c;
+__crc_register_sysrq_key = 0xb868ac5c;
+__crc_unregister_sysrq_key = 0x9d2e7707;

@@ -1,0 +1,7 @@
+__crc_pm_suspend_target_state = 0x377bbcbc;
+__crc_pm_suspend_global_flags = 0x42635d55;
+__crc_pm_suspend_default_s2idle = 0x9b555c8c;
+__crc_s2idle_wake = 0x63197685;
+__crc_suspend_set_ops = 0x1ab0c7e0;
+__crc_suspend_valid_only_mem = 0xb2e764e8;
+__crc_pm_suspend = 0x530b1e98;

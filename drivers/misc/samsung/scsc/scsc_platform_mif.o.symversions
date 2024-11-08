@@ -1,0 +1,5 @@
+__crc_pmu_cal_progress = 0x223dd7db;
+__crc_scsc_mif_abs_register = 0x285f2d32;
+__crc_scsc_mif_abs_unregister = 0xdc8e909a;
+__crc_scsc_mif_mmap_register = 0x5a9ffabb;
+__crc_scsc_mif_mmap_unregister = 0xb3d768ce;

@@ -1,0 +1,12 @@
+__crc___put_cred = 0xe6d111ee;
+__crc_get_task_cred = 0xb4d5f34f;
+__crc_prepare_creds = 0x85031e1e;
+__crc_commit_creds = 0x18c78200;
+__crc_abort_creds = 0xf3c3618a;
+__crc_override_creds = 0x01fa76dd;
+__crc_revert_creds = 0x6db07376;
+__crc_cred_fscmp = 0x4e762867;
+__crc_prepare_kernel_cred = 0xe6b91cbb;
+__crc_set_security_override = 0x520ed3ac;
+__crc_set_security_override_from_ctx = 0xaf75de27;
+__crc_set_create_files_as = 0x27835589;

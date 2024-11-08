@@ -1,0 +1,13 @@
+__crc_crypto_aes_sbox = 0xd9d952d1;
+__crc_crypto_aes_inv_sbox = 0xa84ce9e0;
+__crc_aes_expandkey = 0x558b281d;
+__crc_aes_encrypt = 0x77e9eb37;
+__crc_aes_decrypt = 0x78a16f48;
+__crc_arc4_setkey = 0x2bb32ad1;
+__crc_arc4_crypt = 0xcd47fcc4;
+__crc_des_expand_key = 0xa8fb743d;
+__crc_des_encrypt = 0x0105b595;
+__crc_des_decrypt = 0xa6aa9857;
+__crc_des3_ede_expand_key = 0xa77b3b62;
+__crc_des3_ede_encrypt = 0x856a5ef3;
+__crc_des3_ede_decrypt = 0x574eda34;

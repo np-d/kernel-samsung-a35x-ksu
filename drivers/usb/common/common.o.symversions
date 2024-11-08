@@ -1,0 +1,14 @@
+__crc_usb_ep_type_string = 0x1a146ec3;
+__crc_usb_otg_state_string = 0x2f0d9053;
+__crc_usb_speed_string = 0x77ae495d;
+__crc_usb_get_maximum_speed = 0x67c7daa6;
+__crc_usb_get_maximum_ssp_rate = 0x5ca08ea3;
+__crc_usb_state_string = 0x4de17ab3;
+__crc_usb_get_dr_mode = 0x9e74babc;
+__crc_usb_get_role_switch_default_mode = 0x7a26ea74;
+__crc_usb_decode_interval = 0x00d4c500;
+__crc_of_usb_get_dr_mode_by_phy = 0xecc818bf;
+__crc_of_usb_host_tpl_support = 0x2052e69b;
+__crc_of_usb_update_otg_caps = 0xf4cf64b8;
+__crc_usb_of_get_companion_dev = 0x704a2a0a;
+__crc_usb_debug_root = 0xa0f3ee6a;

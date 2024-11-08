@@ -1,0 +1,10 @@
+__crc_cfg80211_chandef_create = 0xc0070883;
+__crc_cfg80211_chandef_valid = 0x6d9d0361;
+__crc_cfg80211_chandef_compatible = 0x9ef3e57e;
+__crc_cfg80211_chandef_dfs_required = 0xda2d1deb;
+__crc_cfg80211_chandef_usable = 0x0dc5f8ce;
+__crc_cfg80211_reg_can_beacon = 0x86ec1480;
+__crc_cfg80211_reg_can_beacon_relax = 0xffa6cd40;
+__crc_cfg80211_any_usable_channels = 0x10be6ad4;
+__crc_wdev_chandef = 0x3070866f;
+__crc_cfg80211_valid_disable_subchannel_bitmap = 0x8836677b;

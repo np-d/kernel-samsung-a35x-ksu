@@ -1,0 +1,3 @@
+__crc_blk_sec_dev = 0x6809df0d;
+__crc_blk_sec_common_wq = 0x17e09add;
+__crc_blk_sec_internal_disk = 0x0501c52e;

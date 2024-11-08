@@ -1,0 +1,3 @@
+__crc_xfrm4_rcv_encap = 0xf5ea8977;
+__crc_xfrm4_protocol_register = 0x8a4a2743;
+__crc_xfrm4_protocol_deregister = 0x1d96bd84;

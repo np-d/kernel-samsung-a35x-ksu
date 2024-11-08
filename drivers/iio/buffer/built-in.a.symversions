@@ -1,0 +1,6 @@
+__crc_iio_triggered_buffer_setup_ext = 0x40f791fb;
+__crc_iio_triggered_buffer_cleanup = 0x83d4b035;
+__crc_devm_iio_triggered_buffer_setup_ext = 0x84093fd3;
+__crc_iio_kfifo_allocate = 0x79fbf1f2;
+__crc_iio_kfifo_free = 0x3213177d;
+__crc_devm_iio_kfifo_buffer_setup_ext = 0x95ec2851;

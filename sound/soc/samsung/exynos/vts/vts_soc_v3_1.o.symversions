@@ -1,0 +1,4 @@
+__crc_vts_pad_retention = 0x69e67b5c;
+__crc_vts_acquire_sram = 0xa288894d;
+__crc_vts_release_sram = 0x2b937bb8;
+__crc_vts_clear_sram = 0x278e558c;

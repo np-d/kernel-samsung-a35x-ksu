@@ -1,0 +1,10 @@
+__crc_fsg_common_set_sysfs = 0x7e26d4a5;
+__crc_fsg_common_set_num_buffers = 0x1ccb58f7;
+__crc_fsg_common_remove_lun = 0xa4d0da06;
+__crc_fsg_common_remove_luns = 0x141fce2a;
+__crc_fsg_common_free_buffers = 0x9a0221c7;
+__crc_fsg_common_set_cdev = 0x06bbde88;
+__crc_fsg_common_create_lun = 0x3c6a07d0;
+__crc_fsg_common_create_luns = 0xd1a3e8e0;
+__crc_fsg_common_set_inquiry_string = 0x6acb4179;
+__crc_fsg_config_from_params = 0xab6c68ac;

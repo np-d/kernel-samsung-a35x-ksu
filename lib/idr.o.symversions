@@ -1,0 +1,12 @@
+__crc_idr_alloc_u32 = 0xd9916c3a;
+__crc_idr_alloc = 0xb8f11603;
+__crc_idr_alloc_cyclic = 0x91f44510;
+__crc_idr_remove = 0x7665a95b;
+__crc_idr_find = 0x20978fb9;
+__crc_idr_for_each = 0x1d40b6f3;
+__crc_idr_get_next_ul = 0xcc1b882a;
+__crc_idr_get_next = 0xc57c48a3;
+__crc_idr_replace = 0x7b82b9a1;
+__crc_ida_alloc_range = 0xe7a02573;
+__crc_ida_free = 0xffb7c514;
+__crc_ida_destroy = 0xa7d5f92e;

@@ -1,0 +1,8 @@
+__crc_pablo_icpu_boot = 0x37852f78;
+__crc_pablo_icpu_power_down = 0x91aa36e7;
+__crc_pablo_icpu_request_mbox_chan = 0x2047bb18;
+__crc_pablo_icpu_free_mbox_chan = 0x1590bad4;
+__crc_pablo_icpu_handle_msg = 0x05486731;
+__crc_pablo_icpu_itf_api_get = 0x07a31c33;
+__crc_pablo_itf_get_icpu_dev = 0x76b987f8;
+__crc_pablo_icpu_itf_preload_firmware = 0x125c0123;

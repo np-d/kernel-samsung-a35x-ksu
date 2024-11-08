@@ -1,0 +1,2 @@
+arch/arm64/boot/dts/qcom/.sc7180-idp.dtb.dts.tmp: \
+  arch/arm64/boot/dts/qcom/sc7180-idp.dts

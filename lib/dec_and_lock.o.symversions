@@ -1,0 +1,2 @@
+__crc__atomic_dec_and_lock = 0xcf4fdd4d;
+__crc__atomic_dec_and_lock_irqsave = 0x48c093fb;

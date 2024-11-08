@@ -1,0 +1,16 @@
+__crc_cad_pid = 0xd954d960;
+__crc_reboot_mode = 0x429c3f9c;
+__crc_panic_reboot_mode = 0x6f70bc7c;
+__crc_pm_power_off_prepare = 0x1f0cb5bf;
+__crc_emergency_restart = 0xd0c05159;
+__crc_register_reboot_notifier = 0x3517383e;
+__crc_unregister_reboot_notifier = 0xac1a55be;
+__crc_devm_register_reboot_notifier = 0xd1259242;
+__crc_register_restart_handler = 0xd9d8fd16;
+__crc_unregister_restart_handler = 0x40d59096;
+__crc_kernel_restart = 0x1e7bbcb3;
+__crc_kernel_halt = 0x054e550b;
+__crc_kernel_power_off = 0xf184d189;
+__crc_orderly_poweroff = 0x56256e8a;
+__crc_orderly_reboot = 0x794b7271;
+__crc_hw_protection_shutdown = 0xfcf9ef73;

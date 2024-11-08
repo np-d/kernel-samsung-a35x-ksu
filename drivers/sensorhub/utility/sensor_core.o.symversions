@@ -1,0 +1,10 @@
+__crc_sensors_class = 0x5291ca6a;
+__crc_sensors_event_class = 0x0eda3ff8;
+__crc_sensordump_notifier_register = 0xfb260f91;
+__crc_sensordump_notifier_unregister = 0x69240ae6;
+__crc_sensordump_notifier_call_chain = 0x41737281;
+__crc_sensors_create_symlink = 0x88978a59;
+__crc_sensors_remove_symlink = 0x7a52fa16;
+__crc_sensors_register = 0xf20c722d;
+__crc_sensors_unregister = 0x88987f00;
+__crc_destroy_sensor_class = 0x28921e2c;

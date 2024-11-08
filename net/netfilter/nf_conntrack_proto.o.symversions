@@ -1,0 +1,8 @@
+__crc_nf_l4proto_log_invalid = 0x4d70fe00;
+__crc_nf_ct_l4proto_log_invalid = 0x0a0ee483;
+__crc_nf_ct_l4proto_find = 0x27bd37ee;
+__crc_nf_confirm = 0x4f7630f4;
+__crc_nf_ct_netns_get = 0xe4ec79c1;
+__crc_nf_ct_netns_put = 0xa00705f0;
+__crc_nf_ct_bridge_register = 0xf90749ee;
+__crc_nf_ct_bridge_unregister = 0xc0bff15b;

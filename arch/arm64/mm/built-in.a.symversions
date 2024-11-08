@@ -1,0 +1,13 @@
+__crc_memstart_addr = 0x9688de8b;
+__crc_pfn_is_map_memory = 0x6da467cb;
+__crc___sync_icache_dcache = 0x65e01af9;
+__crc_flush_dcache_page = 0xf19fce59;
+__crc_caches_clean_inval_pou = 0xc2e168ab;
+__crc___ioremap = 0x6b4b2933;
+__crc_iounmap = 0xedc03953;
+__crc_ioremap_cache = 0xe7698027;
+__crc_mem_encrypt_active = 0x8dee0072;
+__crc_vabits_actual = 0xc56a41e6;
+__crc_kimage_voffset = 0xe4bbc1dd;
+__crc_empty_zero_page = 0x815f2897;
+__crc_phys_mem_access_prot = 0x6275205c;

@@ -1,0 +1,7 @@
+__crc_put_filesystem_binary = 0x65d60d57;
+__crc_setup_binary_loader = 0x11d6ae36;
+__crc_request_binary = 0x74443400;
+__crc_release_binary = 0x890cbf7f;
+__crc_was_loaded_by = 0xd16459d7;
+__crc_carve_binary_version = 0xc81b6a22;
+__crc_get_binary_version = 0xdc37a4d9;

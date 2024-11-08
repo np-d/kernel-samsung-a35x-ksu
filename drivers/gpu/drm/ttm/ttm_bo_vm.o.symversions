@@ -1,0 +1,8 @@
+__crc_ttm_bo_vm_reserve = 0xf4556520;
+__crc_ttm_bo_vm_fault_reserved = 0xb16d8f5d;
+__crc_ttm_bo_vm_dummy_page = 0xdaf47e7b;
+__crc_ttm_bo_vm_fault = 0x12a405af;
+__crc_ttm_bo_vm_open = 0x767fc3e3;
+__crc_ttm_bo_vm_close = 0x60263e7d;
+__crc_ttm_bo_vm_access = 0x25797d57;
+__crc_ttm_bo_mmap_obj = 0xb355f528;

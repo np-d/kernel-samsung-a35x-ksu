@@ -1,0 +1,4 @@
+__crc_pci_find_host_bridge = 0xd1f360a9;
+__crc_pci_set_host_bridge_release = 0x78ee6814;
+__crc_pcibios_resource_to_bus = 0x7339f651;
+__crc_pcibios_bus_to_resource = 0xe8fc76b3;

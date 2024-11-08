@@ -1,0 +1,5 @@
+__crc_secdbg_wdd_register_ping_notifier = 0x1b788301;
+__crc_s3c2410wdt_set_emergency_stop = 0x3fe2659c;
+__crc_s3c2410wdt_keepalive_emergency = 0x127a9b63;
+__crc_s3c2410wdt_keepalive_common = 0x4cf079cd;
+__crc_s3c2410wdt_reset_confirm = 0x6fdea0f6;

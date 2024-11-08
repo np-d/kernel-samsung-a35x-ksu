@@ -1,0 +1,16 @@
+__crc_bit_waitqueue = 0xad9901ae;
+__crc_wake_bit_function = 0xca431c05;
+__crc___wait_on_bit = 0xbe6a866f;
+__crc_out_of_line_wait_on_bit = 0x1984d421;
+__crc_out_of_line_wait_on_bit_timeout = 0x4071b517;
+__crc___wait_on_bit_lock = 0x9d92f3ad;
+__crc_out_of_line_wait_on_bit_lock = 0xb3687850;
+__crc___wake_up_bit = 0xfc336d2e;
+__crc_wake_up_bit = 0xa0fbac79;
+__crc___var_waitqueue = 0x5e332b52;
+__crc_init_wait_var_entry = 0x5d49aabc;
+__crc_wake_up_var = 0xf8f61ebc;
+__crc_bit_wait = 0x16e297c3;
+__crc_bit_wait_io = 0x58e3306d;
+__crc_bit_wait_timeout = 0x44bae227;
+__crc_bit_wait_io_timeout = 0x55eecff4;

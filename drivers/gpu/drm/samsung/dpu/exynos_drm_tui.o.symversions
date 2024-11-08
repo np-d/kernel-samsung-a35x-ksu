@@ -1,0 +1,5 @@
+__crc_exynos_atomic_enter_tui = 0x46c3cb93;
+__crc_exynos_atomic_exit_tui = 0xda077b9f;
+__crc_exynos_tui_get_resolution = 0xf3bf5cdc;
+__crc_exynos_tui_set_stui_funcs = 0xbc49ba18;
+__crc_exynos_tui_get_panel_info = 0x4070dcfc;

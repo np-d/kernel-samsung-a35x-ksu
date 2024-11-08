@@ -1,0 +1,5 @@
+__ubsan_handle_cfi_check_fail_abort
+_printk
+blocking_notifier_call_chain
+blocking_notifier_chain_register
+blocking_notifier_chain_unregister

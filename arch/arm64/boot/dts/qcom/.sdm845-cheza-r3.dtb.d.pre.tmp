@@ -1,0 +1,2 @@
+arch/arm64/boot/dts/qcom/.sdm845-cheza-r3.dtb.dts.tmp: \
+  arch/arm64/boot/dts/qcom/sdm845-cheza-r3.dts

@@ -1,0 +1,5 @@
+__crc_itmon_en_by_name = 0x4a878e0d;
+__crc_itmon_pd_sync = 0x5d1f2d9a;
+__crc_itmon_en = 0x49f91222;
+__crc_itmon_print_history = 0xc07cbd83;
+__crc_itmon_notifier_chain_register = 0xde7874de;

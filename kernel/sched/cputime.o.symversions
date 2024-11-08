@@ -1,0 +1,3 @@
+__crc_cpu_irqtime = 0x54023c4e;
+__crc_task_cputime_adjusted = 0xb88c6d48;
+__crc_thread_group_cputime_adjusted = 0x880f871c;

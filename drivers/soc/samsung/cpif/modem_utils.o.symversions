@@ -1,0 +1,3 @@
+__crc_mif_gpio_set_value = 0xb4631022;
+__crc_mif_gpio_get_value = 0x5a18d147;
+__crc_mif_gpio_toggle_value = 0xfb229c85;

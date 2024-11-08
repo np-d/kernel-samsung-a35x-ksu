@@ -1,0 +1,13 @@
+__crc_register_usb = 0x7a8a6e47;
+__crc_register_muic = 0xed473246;
+__crc_register_usbpd = 0xfcf2363f;
+__crc_register_lvs = 0xf1b54c89;
+__crc_usb_set_vbus_current = 0x672ecbc0;
+__crc_usb_restart_host_mode = 0xee21ed34;
+__crc_muic_check_usb_killer = 0xabea2438;
+__crc_muic_set_bc12 = 0xae6a1c22;
+__crc_usbpd_sbu_test_read = 0x6a5222a5;
+__crc_usbpd_set_host_on = 0x5f1f43db;
+__crc_usbpd_cc_control_command = 0x320a9d0d;
+__crc_usbpd_wait_entermode = 0xf690f8f3;
+__crc_usbpd_sbu_switch_control = 0x89c67aa4;

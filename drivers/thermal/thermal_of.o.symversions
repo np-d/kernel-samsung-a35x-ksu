@@ -1,0 +1,8 @@
+__crc_of_thermal_get_ntrips = 0x23e1a790;
+__crc_of_thermal_is_trip_valid = 0x9b8b512f;
+__crc_of_thermal_get_trip_points = 0x77ebb91c;
+__crc_thermal_zone_of_get_sensor_id = 0x171ad4fb;
+__crc_thermal_zone_of_sensor_register = 0xb8b27af9;
+__crc_thermal_zone_of_sensor_unregister = 0x99f56a3b;
+__crc_devm_thermal_zone_of_sensor_register = 0x2175282e;
+__crc_devm_thermal_zone_of_sensor_unregister = 0xde006d67;

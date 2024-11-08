@@ -1,0 +1,3 @@
+__crc_scsc_mx_get_device = 0x6450583d;
+__crc_scsc_mx_get_mxlog_transport = 0xa23af04a;
+__crc_scsc_mx_get_mxlog_transport_wpan = 0x24854e9f;

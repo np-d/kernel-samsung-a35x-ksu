@@ -1,0 +1,16 @@
+__crc_copy_bpf_fprog_from_user = 0x6d09843f;
+__crc_sk_filter_trim_cap = 0x454c1a0b;
+__crc_bpf_prog_create = 0x0a17628c;
+__crc_bpf_prog_create_from_user = 0x5aedce1d;
+__crc_bpf_prog_destroy = 0x926dfbfd;
+__crc_sk_attach_filter = 0xff140026;
+__crc_bpf_redirect_info = 0x4c2c2379;
+__crc_xdp_do_flush = 0xb9681621;
+__crc_bpf_master_redirect_enabled_key = 0x146cc88f;
+__crc_xdp_master_redirect = 0x288d176f;
+__crc_xdp_do_redirect = 0x202f26d1;
+__crc_ipv6_bpf_stub = 0x43494211;
+__crc_bpf_warn_invalid_xdp_action = 0x5c2bcd37;
+__crc_sk_detach_filter = 0x467e3981;
+__crc_bpf_sk_lookup_enabled = 0x3dac779a;
+__crc_bpf_dispatcher_xdp_func = 0x6f8f674a;

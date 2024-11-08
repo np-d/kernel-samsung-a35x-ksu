@@ -1,0 +1,9 @@
+__crc_panel_mode_debug_printmodeline = 0x559c2b86;
+__crc_panel_mode_info_printmodeline = 0xc489671d;
+__crc_refresh_mode_to_str = 0xcebe62e7;
+__crc_str_to_refresh_mode = 0xef4e3bff;
+__crc_panel_mode_vscan = 0x1161c586;
+__crc_panel_display_modes_release = 0x24a1aaed;
+__crc_of_get_panel_display_modes = 0x763f6a57;
+__crc_panel_mode_set_name = 0x76d838da;
+__crc_panel_mode_create = 0xc027fdd7;

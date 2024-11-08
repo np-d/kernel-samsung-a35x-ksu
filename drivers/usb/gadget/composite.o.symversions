@@ -1,0 +1,17 @@
+__crc_config_ep_by_speed_and_alt = 0x45ff378c;
+__crc_config_ep_by_speed = 0xfaf3beb1;
+__crc_usb_add_function = 0xa4f96faf;
+__crc_usb_remove_function = 0x3f19a3a4;
+__crc_usb_function_deactivate = 0x89198087;
+__crc_usb_function_activate = 0xcce9bdb4;
+__crc_usb_interface_id = 0xb1173a32;
+__crc_usb_add_config_only = 0x180d35cb;
+__crc_usb_add_config = 0x23bcb64e;
+__crc_usb_string_id = 0x0d4790f7;
+__crc_usb_string_ids_tab = 0xe425e0d1;
+__crc_usb_gstrings_attach = 0xa321212b;
+__crc_usb_string_ids_n = 0x7d154cef;
+__crc_usb_composite_probe = 0xdf9be368;
+__crc_usb_composite_unregister = 0x26f292a6;
+__crc_usb_composite_setup_continue = 0x5beda6a9;
+__crc_usb_composite_overwrite_options = 0x2f58e49c;

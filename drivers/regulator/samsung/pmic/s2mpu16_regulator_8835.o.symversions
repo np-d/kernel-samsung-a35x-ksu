@@ -1,0 +1,3 @@
+__crc_sub_pmic_read_reg = 0x93c52b6d;
+__crc_sub_pmic_update_reg = 0xc197d55c;
+__crc_sub_pmic_get_i2c = 0x8e285efc;

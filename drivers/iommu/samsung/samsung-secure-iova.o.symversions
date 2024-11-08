@@ -1,0 +1,2 @@
+__crc_secure_iova_alloc = 0xf137cfc4;
+__crc_secure_iova_free = 0xe62af791;

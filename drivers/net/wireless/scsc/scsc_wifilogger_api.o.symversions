@@ -1,0 +1,15 @@
+__crc_scsc_wifi_get_firmware_version = 0xfb0cf07e;
+__crc_scsc_wifi_get_driver_version = 0x17563389;
+__crc_scsc_wifi_get_ring_buffers_status = 0x69b73a7b;
+__crc_scsc_wifi_get_logger_supported_feature_set = 0x78e7e7d4;
+__crc_scsc_wifi_set_log_handler = 0x60cc9533;
+__crc_scsc_wifi_reset_log_handler = 0x415187f5;
+__crc_scsc_wifi_set_alert_handler = 0x6144328e;
+__crc_scsc_wifi_reset_alert_handler = 0x4e17f98a;
+__crc_scsc_wifi_get_ring_data = 0xaa346c43;
+__crc_scsc_wifi_start_logging = 0x3ec40bc7;
+__crc_scsc_wifi_get_firmware_memory_dump = 0xcf4f4404;
+__crc_scsc_wifi_get_driver_memory_dump = 0xb0ed32eb;
+__crc_scsc_wifi_start_pkt_fate_monitoring = 0xe8eff065;
+__crc_scsc_wifi_get_tx_pkt_fates = 0x8be241a9;
+__crc_scsc_wifi_get_rx_pkt_fates = 0x8c41fe73;

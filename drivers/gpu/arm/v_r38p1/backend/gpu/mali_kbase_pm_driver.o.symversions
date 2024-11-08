@@ -1,0 +1,14 @@
+__crc_corestack_driver_control = 0x09cb393c;
+__crc_kbase_pm_get_present_cores = 0x053055d2;
+__crc_kbase_pm_get_active_cores = 0xb00c1a1c;
+__crc_kbase_pm_get_trans_cores = 0x4303280c;
+__crc_kbase_pm_get_ready_cores = 0xb777f4a4;
+__crc_kbase_pm_wait_for_desired_state = 0xab35e5c7;
+__crc_kbase_pm_enable_interrupts = 0x6661b3b5;
+__crc_kbase_pm_disable_interrupts = 0x8e73d90a;
+__crc_kbase_pm_clock_on = 0x9d61d442;
+__crc_kbase_pm_clock_off = 0xd9642fc0;
+__crc_kbase_pm_reset_done = 0x90932bcd;
+__crc_kbase_pm_request_gpu_cycle_counter = 0x3b5a9ea9;
+__crc_kbase_pm_request_gpu_cycle_counter_l2_is_on = 0xa0abcf03;
+__crc_kbase_pm_release_gpu_cycle_counter = 0x388f4e52;

@@ -1,0 +1,6 @@
+__cfi_slowpath_diag
+__ubsan_handle_cfi_check_fail_abort
+_printk
+kfree
+kmalloc_caches
+kmem_cache_alloc_trace

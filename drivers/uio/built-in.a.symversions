@@ -1,0 +1,4 @@
+__crc_uio_event_notify = 0x1a0c6261;
+__crc___uio_register_device = 0xd7ec63ac;
+__crc___devm_uio_register_device = 0xc5697c53;
+__crc_uio_unregister_device = 0xfd3cfb1a;

@@ -1,0 +1,5 @@
+__crc_perf_aux_output_flag = 0x759bc5f3;
+__crc_perf_aux_output_begin = 0xa4f30826;
+__crc_perf_aux_output_end = 0x20abc625;
+__crc_perf_aux_output_skip = 0x949fc6c4;
+__crc_perf_get_aux = 0xbadf6e70;

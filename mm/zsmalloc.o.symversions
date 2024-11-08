@@ -1,0 +1,10 @@
+__crc_zs_get_total_pages = 0xcbe56bc2;
+__crc_zs_map_object = 0xc341ae6d;
+__crc_zs_unmap_object = 0x924c46f8;
+__crc_zs_huge_class_size = 0x3d8baf3b;
+__crc_zs_malloc = 0xb29533ee;
+__crc_zs_free = 0x958df3ac;
+__crc_zs_compact = 0x5da67adc;
+__crc_zs_pool_stats = 0x7cceaf92;
+__crc_zs_create_pool = 0xbcf1f0e6;
+__crc_zs_destroy_pool = 0xc69b7ee5;

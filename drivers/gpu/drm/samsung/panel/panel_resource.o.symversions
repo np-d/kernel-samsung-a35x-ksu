@@ -1,0 +1,12 @@
+__crc_get_resource_name = 0x1eb571bf;
+__crc_get_resource_size = 0x0ecbfc79;
+__crc_is_valid_resource = 0x27a55118;
+__crc_is_resource_initialized = 0xb6649acb;
+__crc_is_resource_mutable = 0x733dedf4;
+__crc_copy_resource_slice = 0x87f57913;
+__crc_copy_resource = 0xdf2922d7;
+__crc_snprintf_resource_data = 0x02bddd51;
+__crc_snprintf_resource = 0x618e9ff5;
+__crc_print_resource = 0x9cbceef6;
+__crc_create_resource = 0x06119414;
+__crc_destroy_resource = 0xfcdc00d6;

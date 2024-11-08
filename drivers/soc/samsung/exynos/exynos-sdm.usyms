@@ -1,0 +1,7 @@
+__arm_smccc_smc
+__stack_chk_fail
+__ubsan_handle_cfi_check_fail_abort
+_printk
+atomic_notifier_chain_register
+dbg_snapshot_is_scratch
+panic_notifier_list

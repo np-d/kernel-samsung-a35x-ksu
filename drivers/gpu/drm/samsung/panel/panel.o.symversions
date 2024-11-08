@@ -1,0 +1,16 @@
+__crc_register_common_panel = 0xc07cdda1;
+__crc_deregister_common_panel = 0xb0f20688;
+__crc_find_panel_maptbl_by_substr = 0x3980d76b;
+__crc_panel_do_seqtbl_by_name_nolock = 0x4dc22938;
+__crc_panel_do_seqtbl_by_name = 0x5ff295ab;
+__crc_find_panel_resource = 0xbc7aa125;
+__crc_is_panel_resource_initialized = 0x7001f702;
+__crc_panel_resource_copy = 0x653e0a21;
+__crc_panel_resource_copy_and_clear = 0xaa1e99c3;
+__crc_get_panel_resource_size = 0x1e9561e9;
+__crc_read_panel_id = 0x6090605e;
+__crc_panel_resource_update_by_name = 0x64275084;
+__crc_find_panel_dumpinfo = 0xc31819a0;
+__crc_panel_get_dump_resource = 0x9e723dfa;
+__crc_panel_is_dump_status_success = 0x336e67c9;
+__crc_panel_init_dumpinfo = 0x5e1e8367;

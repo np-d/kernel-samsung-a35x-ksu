@@ -1,0 +1,4 @@
+__crc_of_reserved_mem_device_init_by_idx = 0x5431f61f;
+__crc_of_reserved_mem_device_init_by_name = 0xc9c8ec8e;
+__crc_of_reserved_mem_device_release = 0x35123436;
+__crc_of_reserved_mem_lookup = 0x65825492;

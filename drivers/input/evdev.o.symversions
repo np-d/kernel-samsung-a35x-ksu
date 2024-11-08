@@ -1,0 +1,3 @@
+__crc_ib_notifier_register = 0x07a457ff;
+__crc_ib_notifier_unregister = 0xf7ea698b;
+__crc_ib_notifier_call_chain = 0x4f151b80;

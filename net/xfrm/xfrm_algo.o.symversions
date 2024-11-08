@@ -1,0 +1,12 @@
+__crc_xfrm_aalg_get_byid = 0x5c699441;
+__crc_xfrm_ealg_get_byid = 0x00c80741;
+__crc_xfrm_calg_get_byid = 0x72395dc1;
+__crc_xfrm_aalg_get_byname = 0x37a02412;
+__crc_xfrm_ealg_get_byname = 0xd6f50cf7;
+__crc_xfrm_calg_get_byname = 0xaab23340;
+__crc_xfrm_aead_get_byname = 0x0049ca83;
+__crc_xfrm_aalg_get_byidx = 0xc6b1fdbe;
+__crc_xfrm_ealg_get_byidx = 0xb73be794;
+__crc_xfrm_probe_algs = 0x28e23139;
+__crc_xfrm_count_pfkey_auth_supported = 0x0a575945;
+__crc_xfrm_count_pfkey_enc_supported = 0x7a8ca627;

@@ -1,0 +1,4 @@
+__crc_tcpci_get_tcpm_port = 0xbe111953;
+__crc_tcpci_irq = 0x6f497a3c;
+__crc_tcpci_register_port = 0x29dbdf7f;
+__crc_tcpci_unregister_port = 0xc529e32e;

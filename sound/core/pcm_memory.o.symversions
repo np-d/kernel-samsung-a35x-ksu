@@ -1,0 +1,10 @@
+__crc_snd_pcm_lib_preallocate_free_for_all = 0x54c10b19;
+__crc_snd_pcm_lib_preallocate_pages = 0x02a15098;
+__crc_snd_pcm_lib_preallocate_pages_for_all = 0x3523f809;
+__crc_snd_pcm_set_managed_buffer = 0xda68d8dd;
+__crc_snd_pcm_set_managed_buffer_all = 0x0d3f52f9;
+__crc_snd_pcm_lib_malloc_pages = 0x80925ced;
+__crc_snd_pcm_lib_free_pages = 0x81aef4fe;
+__crc__snd_pcm_lib_alloc_vmalloc_buffer = 0xff18ee3c;
+__crc_snd_pcm_lib_free_vmalloc_buffer = 0x2cf67247;
+__crc_snd_pcm_lib_get_vmalloc_page = 0xb4b12c40;

@@ -1,0 +1,3 @@
+__crc_ttm_pool_alloc = 0xae2c3c82;
+__crc_ttm_pool_free = 0xdb5d8fa8;
+__crc_ttm_pool_debugfs = 0x41c2cc87;

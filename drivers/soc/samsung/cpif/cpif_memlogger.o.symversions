@@ -1,0 +1,4 @@
+__crc_pr_buffer_memlog = 0x88799161;
+__crc_cpif_memlog_log_enabled = 0x8950aa66;
+__crc_cpif_memlog_log_obj = 0xa2d5e15a;
+__crc_cpif_memlog_init = 0xa56dce24;

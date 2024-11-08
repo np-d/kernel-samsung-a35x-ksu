@@ -1,0 +1,15 @@
+__cpu_online_mask
+__platform_driver_register
+__stack_chk_fail
+__this_module
+__tracepoint_android_vh_gic_set_affinity
+__ubsan_handle_cfi_check_fail_abort
+_dev_info
+_printk
+bitmap_parselist
+cpumask_next
+log_post_write_mmio
+log_write_mmio
+nr_cpu_ids
+of_property_read_string
+tracepoint_probe_register

@@ -1,0 +1,2 @@
+arch/arm64/boot/dts/qcom/.msm8916-huawei-g7.dtb.dts.tmp: \
+  arch/arm64/boot/dts/qcom/msm8916-huawei-g7.dts

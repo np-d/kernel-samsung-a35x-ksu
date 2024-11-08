@@ -1,0 +1,3 @@
+__crc_pablo_icpu_itf_api_get = 0x07a31c33;
+__crc_pablo_itf_get_icpu_dev = 0x76b987f8;
+__crc_pablo_icpu_itf_preload_firmware = 0x125c0123;

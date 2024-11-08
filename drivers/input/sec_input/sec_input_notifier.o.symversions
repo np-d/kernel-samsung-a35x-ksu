@@ -1,0 +1,4 @@
+__crc_sec_input_register_notify = 0x9bcb50d0;
+__crc_sec_input_unregister_notify = 0xfbf0c297;
+__crc_sec_input_notify = 0x3dc5e3db;
+__crc_sec_input_self_request_notify = 0xe556c236;

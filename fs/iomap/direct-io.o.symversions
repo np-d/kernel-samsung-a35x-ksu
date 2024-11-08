@@ -1,0 +1,4 @@
+__crc_iomap_dio_iopoll = 0x8894cd93;
+__crc_iomap_dio_complete = 0x344a2c84;
+__crc___iomap_dio_rw = 0x1239b05c;
+__crc_iomap_dio_rw = 0xa9111c69;

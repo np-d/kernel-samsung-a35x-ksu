@@ -1,0 +1,9 @@
+__crc_guid_null = 0x8df9dd10;
+__crc_uuid_null = 0x6dcf857f;
+__crc_generate_random_uuid = 0xa681fe88;
+__crc_generate_random_guid = 0xaeac049a;
+__crc_guid_gen = 0x6c3f70e0;
+__crc_uuid_gen = 0x69e683de;
+__crc_uuid_is_valid = 0x8caf9305;
+__crc_guid_parse = 0xb89b6e6b;
+__crc_uuid_parse = 0xb67fec0e;

@@ -1,0 +1,4 @@
+__crc_v4l2_ctrl_request_hdl_find = 0xe49f3f9c;
+__crc_v4l2_ctrl_request_hdl_ctrl_find = 0xe42b815b;
+__crc_v4l2_ctrl_request_complete = 0xa09737e6;
+__crc_v4l2_ctrl_request_setup = 0x4369617c;

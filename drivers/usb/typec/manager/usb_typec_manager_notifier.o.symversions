@@ -1,0 +1,7 @@
+__crc_probe_typec_manager_gadget_ops = 0x4c64afed;
+__crc_get_usb_enumeration_state = 0x14b4141b;
+__crc_set_usb_enumeration_state = 0x20d4f2c6;
+__crc_set_usb_enable_state = 0x45728868;
+__crc_manager_notifier_usbdp_support = 0x3b2fada6;
+__crc_manager_notifier_register = 0x47109311;
+__crc_manager_notifier_unregister = 0x93aa88cf;

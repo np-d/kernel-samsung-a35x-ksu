@@ -1,0 +1,12 @@
+__crc_v4l2_ctrl_query_fill = 0x89e3897d;
+__crc_v4l_bound_align_image = 0xf5ef842e;
+__crc___v4l2_find_nearest_size = 0xe2822320;
+__crc_v4l2_g_parm_cap = 0x65df5f2b;
+__crc_v4l2_s_parm_cap = 0x76d887ab;
+__crc_v4l2_format_info = 0x28b12cc9;
+__crc_v4l2_apply_frmsize_constraints = 0x9fef35ac;
+__crc_v4l2_fill_pixfmt_mp = 0x6e9acc41;
+__crc_v4l2_fill_pixfmt = 0xcc501597;
+__crc_v4l2_get_link_freq = 0xe4a83fc0;
+__crc_v4l2_simplify_fraction = 0xad5c3c93;
+__crc_v4l2_fraction_to_interval = 0x5074e573;

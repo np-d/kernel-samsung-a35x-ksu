@@ -1,0 +1,3 @@
+__crc_gre_add_protocol = 0x555468c2;
+__crc_gre_del_protocol = 0x5932f785;
+__crc_gre_parse_header = 0x7156a399;

@@ -1,0 +1,4 @@
+__crc_pablo_set_affinity_irq = 0xa0b096eb;
+__crc_pablo_request_irq = 0xea57904d;
+__crc_pablo_free_irq = 0x43ab2fff;
+__crc_pablo_irq_probe = 0x51b05678;

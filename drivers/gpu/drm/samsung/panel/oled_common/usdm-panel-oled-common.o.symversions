@@ -1,0 +1,7 @@
+__crc_oled_function_table = 0x902d2e2f;
+__crc_oled_property_array = 0x59876f41;
+__crc_oled_property_array_size = 0x95d441a6;
+__crc_oled_maptbl_init_default = 0x1f17d381;
+__crc_oled_maptbl_getidx_default = 0xa141715a;
+__crc_oled_maptbl_copy_default = 0xfd57a29f;
+__crc_oled_dump_show_expects = 0x2275bb41;

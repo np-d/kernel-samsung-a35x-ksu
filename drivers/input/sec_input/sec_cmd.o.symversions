@@ -1,0 +1,10 @@
+__crc_sec_cmd_set_cmd_exit = 0xa7a35101;
+__crc_sec_cmd_set_default_result = 0x0edb79b7;
+__crc_sec_cmd_set_cmd_result_all = 0xc5f05725;
+__crc_sec_cmd_set_cmd_result = 0x22b35b33;
+__crc_sec_cmd_init = 0xf5a69d1d;
+__crc_sec_cmd_init_without_platdata = 0x59af2896;
+__crc_sec_cmd_exit = 0x078e8979;
+__crc_sec_cmd_send_event_to_user = 0x02fdf624;
+__crc_sec_cmd_send_status_uevent = 0xf0983d41;
+__crc_sec_cmd_send_gesture_uevent = 0x8e76cdbf;

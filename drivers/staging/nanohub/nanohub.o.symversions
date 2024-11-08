@@ -1,0 +1,10 @@
+__crc_contexthub_notifier_register = 0x75b2179b;
+__crc_contexthub_power_lock = 0xc02ec36a;
+__crc_contexthub_power_unlock = 0x32b2be6a;
+__crc_ipc_get_chub_mem_size = 0x1b3fe842;
+__crc_contexthub_ipc_notifier_register = 0x620031e7;
+__crc_contexthub_dump_notifier_register = 0x49898679;
+__crc_contexthub_poweron_call = 0x0bb36139;
+__crc_contexthub_reset_call = 0x6c7782a5;
+__crc_contexthub_ipc_write_call = 0x6357913f;
+__crc_get_chub_current_sram_dump = 0xa6b7b361;

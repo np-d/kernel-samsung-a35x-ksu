@@ -1,0 +1,6 @@
+__crc_snd_major = 0x8f595b11;
+__crc_snd_ecards_limit = 0x3971b4df;
+__crc_snd_request_card = 0x4a3ea5c0;
+__crc_snd_lookup_minor_data = 0xb2e5ae4a;
+__crc_snd_register_device = 0x5efbe22f;
+__crc_snd_unregister_device = 0x9b33fa06;

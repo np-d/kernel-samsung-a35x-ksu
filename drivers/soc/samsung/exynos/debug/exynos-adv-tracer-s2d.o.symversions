@@ -1,0 +1,3 @@
+__crc_adv_tracer_s2d_arraydump = 0xf0149600;
+__crc_adv_tracer_s2d_get_enable = 0xbfac53b1;
+__crc_adv_tracer_s2d_set_enable = 0x3b6cd190;

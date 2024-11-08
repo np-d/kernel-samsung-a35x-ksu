@@ -1,0 +1,3 @@
+__crc_clk_fractional_divider_ops = 0x43d1b206;
+__crc_clk_hw_register_fractional_divider = 0x03c1e4c7;
+__crc_clk_register_fractional_divider = 0x54a8f9c3;

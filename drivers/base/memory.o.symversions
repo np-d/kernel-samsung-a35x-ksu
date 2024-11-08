@@ -1,0 +1,6 @@
+__crc_register_memory_notifier = 0x0a770832;
+__crc_unregister_memory_notifier = 0x26e298e0;
+__crc_memory_block_size_bytes = 0xfcc1edd3;
+__crc_memory_group_register_static = 0xe8c0065d;
+__crc_memory_group_register_dynamic = 0x9436e405;
+__crc_memory_group_unregister = 0x12ee1173;

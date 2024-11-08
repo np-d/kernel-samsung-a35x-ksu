@@ -1,0 +1,2 @@
+arch/arm64/boot/dts/qcom/.sa8155p-adp.dtb.dts.tmp: \
+  arch/arm64/boot/dts/qcom/sa8155p-adp.dts

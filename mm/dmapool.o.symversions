@@ -1,0 +1,6 @@
+__crc_dma_pool_create = 0x92f93fe2;
+__crc_dma_pool_destroy = 0xb5aa7165;
+__crc_dma_pool_alloc = 0x678b96ec;
+__crc_dma_pool_free = 0x2f7754a8;
+__crc_dmam_pool_create = 0x2394ed7d;
+__crc_dmam_pool_destroy = 0x71a672ef;

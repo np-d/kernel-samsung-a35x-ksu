@@ -1,0 +1,5 @@
+__crc_rcuwait_wake_up = 0x732bd266;
+__crc_do_exit = 0x952664c5;
+__crc_complete_and_exit = 0x26cc73c3;
+__crc_thread_group_exited = 0xbf63f5f4;
+__crc_abort = 0xb4f13d2a;

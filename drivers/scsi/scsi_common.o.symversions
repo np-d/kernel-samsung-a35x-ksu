@@ -1,0 +1,9 @@
+__crc_scsi_command_size_tbl = 0x0334da4e;
+__crc_scsi_device_type = 0x72ea7b2d;
+__crc_scsilun_to_int = 0xea3c8e4e;
+__crc_int_to_scsilun = 0x5ed90adc;
+__crc_scsi_normalize_sense = 0xfbad3cf0;
+__crc_scsi_sense_desc_find = 0x10d9f885;
+__crc_scsi_build_sense_buffer = 0x8112b3d2;
+__crc_scsi_set_sense_information = 0x818416e1;
+__crc_scsi_set_sense_field_pointer = 0x3ab7b1cc;

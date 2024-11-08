@@ -1,0 +1,4 @@
+__crc___trace_bprintk = 0xa20d01ba;
+__crc___ftrace_vbprintk = 0x31019477;
+__crc___trace_printk = 0x133969d7;
+__crc___ftrace_vprintk = 0x7e3bdecd;

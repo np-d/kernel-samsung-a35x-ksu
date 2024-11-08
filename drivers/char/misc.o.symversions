@@ -1,0 +1,2 @@
+__crc_misc_register = 0x9f842df6;
+__crc_misc_deregister = 0x3d51e1b1;

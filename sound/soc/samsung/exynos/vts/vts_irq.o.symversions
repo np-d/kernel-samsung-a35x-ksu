@@ -1,0 +1,6 @@
+__crc_vts_irq_gc_mask_set_bit = 0x0194b761;
+__crc_vts_irq_gc_mask_clr_bit = 0x0230765b;
+__crc_vts_irq_gc_ack_set_bit = 0x99148a81;
+__crc_vts_irq_alloc_domain_generic_chips = 0x40be9ed4;
+__crc_vts_irq_get_domain_generic_chip = 0x0fbdbc17;
+__crc_vts_irq_remove_generic_chip = 0x5e5cf349;

@@ -1,0 +1,8 @@
+__crc_sb_vote_create = 0x58531806;
+__crc_sb_vote_destroy = 0x7867d130;
+__crc_sb_vote_find = 0x1b53fad4;
+__crc_sb_vote_get = 0x6d233dd5;
+__crc_sb_vote_get_result = 0xe63356cf;
+__crc__sb_vote_set = 0x78eaf5ca;
+__crc_sb_vote_set_pri = 0x285dd935;
+__crc_sb_vote_refresh = 0x27009a84;

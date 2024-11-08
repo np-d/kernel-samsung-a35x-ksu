@@ -1,0 +1,6 @@
+__crc_ttm_resource_init = 0x316871e7;
+__crc_ttm_resource_free = 0x9c853a4b;
+__crc_ttm_resource_manager_init = 0x51060c6b;
+__crc_ttm_resource_manager_evict_all = 0x70aefdfd;
+__crc_ttm_resource_manager_debug = 0x5cc95087;
+__crc_ttm_kmap_iter_iomap_init = 0xf03f94e3;

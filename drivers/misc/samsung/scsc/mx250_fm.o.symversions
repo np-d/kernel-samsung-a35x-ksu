@@ -1,0 +1,3 @@
+__crc_mx250_fm_request = 0x017271eb;
+__crc_mx250_fm_release = 0x706dd159;
+__crc_mx250_fm_set_params = 0x8a07d0eb;

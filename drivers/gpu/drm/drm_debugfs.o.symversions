@@ -1,0 +1,2 @@
+__crc_drm_debugfs_create_files = 0x855a9734;
+__crc_drm_debugfs_remove_files = 0xb7704dde;

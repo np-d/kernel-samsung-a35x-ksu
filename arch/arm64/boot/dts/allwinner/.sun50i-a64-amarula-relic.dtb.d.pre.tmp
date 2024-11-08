@@ -1,0 +1,2 @@
+arch/arm64/boot/dts/allwinner/.sun50i-a64-amarula-relic.dtb.dts.tmp: \
+  arch/arm64/boot/dts/allwinner/sun50i-a64-amarula-relic.dts

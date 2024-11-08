@@ -1,0 +1,12 @@
+__const_udelay
+__this_module
+__ubsan_handle_cfi_check_fail_abort
+_printk
+hrtimer_init
+hrtimer_start_range_ns
+hrtimer_try_to_cancel
+panic
+param_ops_bool
+register_restart_handler
+sec_kn_register_notifier
+sec_kn_unregister_notifier

@@ -1,0 +1,8 @@
+__crc_ieee802154_alloc_hw = 0x69d2d1b0;
+__crc_ieee802154_free_hw = 0x02642d4d;
+__crc_ieee802154_register_hw = 0x76ac76d6;
+__crc_ieee802154_unregister_hw = 0x3db59fba;
+__crc_ieee802154_rx_irqsafe = 0x72be47fa;
+__crc_ieee802154_wake_queue = 0x8dacbfb8;
+__crc_ieee802154_stop_queue = 0xc479624b;
+__crc_ieee802154_xmit_complete = 0x9b78dca9;

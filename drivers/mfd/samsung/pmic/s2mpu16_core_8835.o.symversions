@@ -1,0 +1,5 @@
+__crc_s2mpu16_read_reg = 0xb6909c24;
+__crc_s2mpu16_bulk_read = 0xe88a1ca5;
+__crc_s2mpu16_write_reg = 0x2f5d7186;
+__crc_s2mpu16_bulk_write = 0x85d81179;
+__crc_s2mpu16_update_reg = 0x3baaff2c;

@@ -1,0 +1,3 @@
+__crc_ecs_request_register = 0xa781675f;
+__crc_ecs_request_unregister = 0x7244dbc5;
+__crc_ecs_request = 0x2133b6e3;

@@ -1,0 +1,4 @@
+__crc_blk_queue_split = 0xfa5217c4;
+__crc___blk_rq_map_sg = 0x4930ff59;
+__crc_blk_bio_list_merge = 0x1eda47cd;
+__crc_blk_mq_sched_try_merge = 0x3d41a9df;

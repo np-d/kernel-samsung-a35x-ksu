@@ -1,0 +1,3 @@
+__crc_direct_dm_init = 0x65eeec7d;
+__crc_direct_dm_deinit = 0x4465ab64;
+__crc_direct_dm_create = 0x59579f11;

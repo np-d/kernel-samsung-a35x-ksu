@@ -1,0 +1,5 @@
+__crc_pmio_cache_sync = 0xd4e72a9b;
+__crc_pmio_cache_fsync = 0xf0333385;
+__crc_pmio_cache_set_only = 0xe27d398d;
+__crc_pmio_cache_set_bypass = 0x3eea566f;
+__crc_pmio_cache_ext_fsync = 0x0cda30a4;

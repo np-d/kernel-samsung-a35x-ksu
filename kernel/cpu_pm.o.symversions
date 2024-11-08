@@ -1,0 +1,6 @@
+__crc_cpu_pm_register_notifier = 0x444f1735;
+__crc_cpu_pm_unregister_notifier = 0x4f98d766;
+__crc_cpu_pm_enter = 0x56e9103b;
+__crc_cpu_pm_exit = 0xaf348da7;
+__crc_cpu_cluster_pm_enter = 0x01c6cb0c;
+__crc_cpu_cluster_pm_exit = 0xe85a9fd3;

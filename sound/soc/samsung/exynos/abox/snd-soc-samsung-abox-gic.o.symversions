@@ -1,0 +1,9 @@
+__crc_abox_gicd_dump = 0xe367091b;
+__crc_abox_gic_enable = 0xc9611c07;
+__crc_abox_gic_target = 0xae9bf3f6;
+__crc_abox_gic_generate_interrupt = 0x6c3c796d;
+__crc_abox_gic_register_irq_handler = 0x5c5ce8ac;
+__crc_abox_gic_unregister_irq_handler = 0x943ee7b6;
+__crc_abox_gic_init_gic = 0xe67affa2;
+__crc_abox_gic_enable_irq = 0x7639ba27;
+__crc_abox_gic_disable_irq = 0xb1a7e780;

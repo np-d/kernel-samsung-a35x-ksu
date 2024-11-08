@@ -1,0 +1,2 @@
+__crc_sec_argos_register_notifier = 0x6af775b4;
+__crc_sec_argos_unregister_notifier = 0x96650391;

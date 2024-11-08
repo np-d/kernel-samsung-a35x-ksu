@@ -1,0 +1,3 @@
+__crc_rebuild_sched_domains = 0xa65ab83d;
+__crc_cpuset_cpus_allowed = 0x7e173f09;
+__crc_cpuset_mem_spread_node = 0x23864ce7;

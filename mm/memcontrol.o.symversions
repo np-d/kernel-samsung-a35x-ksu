@@ -1,0 +1,15 @@
+__crc_memory_cgrp_subsys = 0xce3f44e8;
+__crc_root_mem_cgroup = 0x2e46549f;
+__crc_int_active_memcg = 0xe0f09958;
+__crc_memcg_kmem_enabled_key = 0xd3543063;
+__crc___mod_lruvec_state = 0x99cf06e1;
+__crc___mod_lruvec_page_state = 0x19c7a9d0;
+__crc_mem_cgroup_from_task = 0x68e95ce6;
+__crc_get_mem_cgroup_from_mm = 0x6d0dc198;
+__crc_page_to_lruvec = 0x02f3e090;
+__crc_do_traversal_all_lruvec = 0x2481035a;
+__crc_mem_cgroup_update_lru_size = 0x98542831;
+__crc_lock_page_memcg = 0x453eac18;
+__crc_unlock_page_memcg = 0xb8b38ce2;
+__crc_mem_cgroup_from_id = 0x06da1730;
+__crc_memcg_sockets_enabled_key = 0x3dabf271;

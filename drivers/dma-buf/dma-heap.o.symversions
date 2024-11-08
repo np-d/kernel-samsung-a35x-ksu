@@ -1,0 +1,9 @@
+__crc_dma_heap_find = 0xeff75c0b;
+__crc_dma_heap_buffer_free = 0x88f95537;
+__crc_dma_heap_buffer_alloc = 0x328c4610;
+__crc_dma_heap_bufferfd_alloc = 0x9ba677bf;
+__crc_dma_heap_get_drvdata = 0xf39b6569;
+__crc_dma_heap_put = 0x067e2f47;
+__crc_dma_heap_get_dev = 0x84e7189e;
+__crc_dma_heap_get_name = 0xed3a3cb3;
+__crc_dma_heap_add = 0x56178a4b;

@@ -1,0 +1,2 @@
+arch/arm64/boot/dts/hisilicon/.hi6220-hikey.dtb.dts.tmp: \
+  arch/arm64/boot/dts/hisilicon/hi6220-hikey.dts

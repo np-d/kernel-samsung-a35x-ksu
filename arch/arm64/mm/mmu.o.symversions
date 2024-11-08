@@ -1,0 +1,4 @@
+__crc_vabits_actual = 0xc56a41e6;
+__crc_kimage_voffset = 0xe4bbc1dd;
+__crc_empty_zero_page = 0x815f2897;
+__crc_phys_mem_access_prot = 0x6275205c;

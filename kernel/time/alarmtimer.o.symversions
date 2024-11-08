@@ -1,0 +1,10 @@
+__crc_alarmtimer_get_rtcdev = 0x98ecebda;
+__crc_alarm_expires_remaining = 0x0bc0c003;
+__crc_alarm_init = 0x1fbe3658;
+__crc_alarm_start = 0x111d2777;
+__crc_alarm_start_relative = 0xfeb6361a;
+__crc_alarm_restart = 0x63deb83f;
+__crc_alarm_try_to_cancel = 0xf3295ffe;
+__crc_alarm_cancel = 0x536e1fa7;
+__crc_alarm_forward = 0x9ebe6d7d;
+__crc_alarm_forward_now = 0xd24b8a1a;

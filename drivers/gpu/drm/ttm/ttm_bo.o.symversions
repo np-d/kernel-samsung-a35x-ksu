@@ -1,0 +1,13 @@
+__crc_ttm_bo_move_to_lru_tail = 0x63ef01bb;
+__crc_ttm_bo_bulk_move_lru_tail = 0xa4c2c98d;
+__crc_ttm_bo_put = 0xead5ff93;
+__crc_ttm_bo_lock_delayed_workqueue = 0x309f4d6d;
+__crc_ttm_bo_unlock_delayed_workqueue = 0x9d29ca43;
+__crc_ttm_bo_eviction_valuable = 0x31d68066;
+__crc_ttm_bo_mem_space = 0x7d258218;
+__crc_ttm_bo_mem_compat = 0xb753ca08;
+__crc_ttm_bo_validate = 0x11f9eb3b;
+__crc_ttm_bo_init_reserved = 0xccffc741;
+__crc_ttm_bo_init = 0x4dbfc670;
+__crc_ttm_bo_unmap_virtual = 0x98cc8744;
+__crc_ttm_bo_wait = 0xc0a038b7;

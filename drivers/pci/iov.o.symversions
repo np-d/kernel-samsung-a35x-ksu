@@ -1,0 +1,8 @@
+__crc_pci_iov_virtfn_devfn = 0x707271a9;
+__crc_pci_enable_sriov = 0xabfa97a8;
+__crc_pci_disable_sriov = 0xaad5808c;
+__crc_pci_num_vf = 0xcc98e799;
+__crc_pci_vfs_assigned = 0xce8fc56e;
+__crc_pci_sriov_set_totalvfs = 0x945d9c87;
+__crc_pci_sriov_get_totalvfs = 0xabde5772;
+__crc_pci_sriov_configure_simple = 0xfe705d80;

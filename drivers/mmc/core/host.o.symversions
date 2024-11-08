@@ -1,0 +1,12 @@
+__crc_mmc_retune_pause = 0x26f15a27;
+__crc_mmc_retune_unpause = 0xc55e2c2c;
+__crc_mmc_retune_timer_stop = 0x2f2cc33d;
+__crc_mmc_retune_hold = 0xe89f5639;
+__crc_mmc_retune_release = 0x7bb069de;
+__crc_mmc_of_parse_clk_phase = 0xecf1f567;
+__crc_mmc_of_parse = 0x27754442;
+__crc_mmc_of_parse_voltage = 0xc37a22cc;
+__crc_mmc_alloc_host = 0xf6c2d86c;
+__crc_mmc_add_host = 0x645c0117;
+__crc_mmc_remove_host = 0x143a8fc3;
+__crc_mmc_free_host = 0x2c794bb3;

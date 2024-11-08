@@ -1,0 +1,2 @@
+__crc_is_i2c_transfer = 0x81a0d05f;
+__crc_pablo_get_i2c = 0x1e1e67b7;

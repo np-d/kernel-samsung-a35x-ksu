@@ -1,0 +1,5 @@
+__crc_usdm_abd_save_str = 0x4633eab5;
+__crc_usdm_abd_save_bit = 0xbb6dfee7;
+__crc_usdm_abd_mask_bit = 0xeaeea394;
+__crc_usdm_abd_simple_print = 0xe782ebb7;
+__crc_usdm_abd_init = 0x4e614d4a;

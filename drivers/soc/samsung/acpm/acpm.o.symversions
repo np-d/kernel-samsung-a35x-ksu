@@ -1,0 +1,6 @@
+__crc_get_fvmap_base = 0xe66c07ae;
+__crc_acpm_init_eint_clk_req = 0xb393be4d;
+__crc_acpm_init_eint_nfc_clk_req = 0xfcec147c;
+__crc_acpm_enable_flexpmu_profiler = 0x90889290;
+__crc_exynos_acpm_reboot = 0x59fd4958;
+__crc_exynos_acpm_force_apm_wdt_reset = 0x679c995f;

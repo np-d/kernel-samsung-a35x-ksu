@@ -1,0 +1,5 @@
+__crc_snprintf_property = 0x222b14dc;
+__crc_panel_property_set_value = 0x6b59faa8;
+__crc_panel_property_get_value = 0x8c40f2bb;
+__crc_panel_set_property_value = 0x22c43a45;
+__crc_panel_get_property_value = 0x65f4f074;

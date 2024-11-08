@@ -1,0 +1,4 @@
+__ubsan_handle_cfi_check_fail_abort
+_printk
+kmalloc_caches
+kmem_cache_alloc_trace

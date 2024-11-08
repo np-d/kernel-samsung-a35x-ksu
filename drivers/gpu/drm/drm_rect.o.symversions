@@ -1,0 +1,7 @@
+__crc_drm_rect_intersect = 0x871ab41a;
+__crc_drm_rect_clip_scaled = 0x99fd20aa;
+__crc_drm_rect_calc_hscale = 0x2d50570f;
+__crc_drm_rect_calc_vscale = 0x91fec1cc;
+__crc_drm_rect_debug_print = 0xcb2340b8;
+__crc_drm_rect_rotate = 0xb053adda;
+__crc_drm_rect_rotate_inv = 0x6e30ba8e;

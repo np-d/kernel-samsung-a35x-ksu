@@ -1,0 +1,17 @@
+__crc___fib6_flush_trees = 0xeefeddc0;
+__crc___ipv6_addr_type = 0x0d542439;
+__crc_register_inet6addr_notifier = 0x60352082;
+__crc_unregister_inet6addr_notifier = 0x2fe252cc;
+__crc_inet6addr_notifier_call_chain = 0xc7856a3d;
+__crc_register_inet6addr_validator_notifier = 0xa77bfd29;
+__crc_unregister_inet6addr_validator_notifier = 0x47c65bfc;
+__crc_inet6addr_validator_notifier_call_chain = 0xd4bb4a82;
+__crc_ipv6_stub = 0xe4ec6265;
+__crc_in6addr_loopback = 0x38a9f7c5;
+__crc_in6addr_any = 0x200b2041;
+__crc_in6addr_linklocal_allnodes = 0xa0436e98;
+__crc_in6addr_linklocal_allrouters = 0xc9634df9;
+__crc_in6addr_interfacelocal_allnodes = 0xc872fd85;
+__crc_in6addr_interfacelocal_allrouters = 0x5f098b2a;
+__crc_in6addr_sitelocal_allrouters = 0xb9e8e2cc;
+__crc_in6_dev_finish_destroy = 0x446a32dd;

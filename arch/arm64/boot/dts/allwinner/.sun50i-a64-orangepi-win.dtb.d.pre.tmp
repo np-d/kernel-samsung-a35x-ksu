@@ -1,0 +1,2 @@
+arch/arm64/boot/dts/allwinner/.sun50i-a64-orangepi-win.dtb.dts.tmp: \
+  arch/arm64/boot/dts/allwinner/sun50i-a64-orangepi-win.dts

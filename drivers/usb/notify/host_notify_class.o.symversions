@@ -1,0 +1,3 @@
+__crc_host_state_notify = 0xe94b9f33;
+__crc_host_notify_dev_register = 0xec4c30df;
+__crc_host_notify_dev_unregister = 0x68713244;

@@ -1,0 +1,6 @@
+__crc_housekeeping_overridden = 0x74e73871;
+__crc_housekeeping_enabled = 0x9bcf9f7d;
+__crc_housekeeping_any_cpu = 0xa7cba284;
+__crc_housekeeping_cpumask = 0xee49ad1d;
+__crc_housekeeping_affine = 0x540e925a;
+__crc_housekeeping_test_cpu = 0xc45e246f;

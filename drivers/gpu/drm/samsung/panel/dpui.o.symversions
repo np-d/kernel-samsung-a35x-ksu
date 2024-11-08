@@ -1,0 +1,11 @@
+__crc_dpui_logging_notify = 0xcf12297d;
+__crc_dpui_logging_register = 0xcd2d02dd;
+__crc_dpui_logging_unregister = 0x1967c0fe;
+__crc_update_dpui_log = 0x79ff5703;
+__crc_clear_dpui_log = 0xb2f4fb94;
+__crc_print_dpui_field = 0x7b6cbab9;
+__crc_set_dpui_field = 0x4778757a;
+__crc_get_dpui_u32_field = 0x440d0f7f;
+__crc_set_dpui_u32_field = 0x47198ee8;
+__crc_inc_dpui_u32_field = 0xbfede55a;
+__crc_get_dpui_log = 0x6a6cf819;

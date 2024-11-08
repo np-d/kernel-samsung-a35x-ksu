@@ -1,0 +1,12 @@
+__crc_cpu_number = 0x7a2af7b4;
+__crc___tracepoint_ipi_raise = 0xe612228f;
+__crc___traceiter_ipi_raise = 0xb82d26c2;
+__crc___SCK__tp_func_ipi_raise = 0xa8c35e4f;
+__crc___tracepoint_ipi_entry = 0x3f573f55;
+__crc___traceiter_ipi_entry = 0x03411569;
+__crc___SCK__tp_func_ipi_entry = 0x71864395;
+__crc___tracepoint_ipi_exit = 0xc8328e16;
+__crc___traceiter_ipi_exit = 0xbb7a853b;
+__crc___SCK__tp_func_ipi_exit = 0x1dcd1af4;
+__crc_nr_ipi_get = 0x215054f8;
+__crc_ipi_desc_get = 0x5747de7f;

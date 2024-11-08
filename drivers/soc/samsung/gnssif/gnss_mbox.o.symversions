@@ -1,0 +1,9 @@
+__crc_gnss_mbox_register_irq = 0x9c7a662b;
+__crc_gnss_mbox_unregister_irq = 0x82be9ad2;
+__crc_gnss_mbox_enable_irq = 0xe1be4b04;
+__crc_gnss_mbox_disable_irq = 0xd21f0df4;
+__crc_gnss_mbox_set_interrupt = 0x9a5ba2f9;
+__crc_gnss_mbox_get_sr = 0xba2d02a9;
+__crc_gnss_mbox_set_sr = 0x2c69bc6e;
+__crc_gnss_mbox_sw_reset = 0x7454ca26;
+__crc_gnss_mbox_clear_all_interrupt = 0xd5171d4f;

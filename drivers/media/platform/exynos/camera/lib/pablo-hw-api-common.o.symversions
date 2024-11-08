@@ -1,0 +1,11 @@
+__crc_is_hw_get_reg = 0x95a94d63;
+__crc_is_hw_set_reg = 0x1a19e70a;
+__crc_is_hw_get_reg_u8 = 0x5bfc506c;
+__crc_is_hw_set_reg_u8 = 0xb7e259f0;
+__crc_is_hw_get_field = 0xe62030ed;
+__crc_is_hw_set_field = 0xdf64fa47;
+__crc_is_hw_get_field_value = 0xa64f9c2c;
+__crc_is_hw_set_field_value = 0xd6f7b13d;
+__crc_is_hw_dump_regs = 0x28d55096;
+__crc_is_hw_dump_regs_hex = 0xa688d777;
+__crc_is_hw_cdump_regs = 0x32efff21;

@@ -1,0 +1,6 @@
+__crc_kbase_jd_done_nolock = 0x0c1229d1;
+__crc_kbase_jd_submit = 0xa6862239;
+__crc_kbase_jd_done = 0x15b52f08;
+__crc_kbase_jd_zap_context = 0x75a51cda;
+__crc_kbase_jd_init = 0xd552575e;
+__crc_kbase_jd_exit = 0x535b7874;

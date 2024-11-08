@@ -1,0 +1,14 @@
+__crc_ktime_add_safe = 0x03952887;
+__crc_hrtimer_resolution = 0x406c4cb1;
+__crc_hrtimer_forward = 0x76c41756;
+__crc_hrtimer_start_range_ns = 0x939fc2ef;
+__crc_hrtimer_try_to_cancel = 0xef93df4b;
+__crc_hrtimer_cancel = 0xcc69bd8c;
+__crc___hrtimer_get_remaining = 0xed269ad2;
+__crc_hrtimer_init = 0x3ebd5214;
+__crc_hrtimer_active = 0x0ecd991f;
+__crc_hrtimer_sleeper_start_expires = 0x0929c651;
+__crc_hrtimer_init_sleeper = 0x0ad7b96e;
+__crc_schedule_hrtimeout_range_clock = 0x9468ea70;
+__crc_schedule_hrtimeout_range = 0xd03eaf4c;
+__crc_schedule_hrtimeout = 0x6a460dc5;

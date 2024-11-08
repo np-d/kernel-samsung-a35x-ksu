@@ -1,0 +1,3 @@
+__crc_can_fd_dlc2len = 0xf12d9387;
+__crc_can_fd_len2dlc = 0x6047ede6;
+__crc_can_skb_get_frame_len = 0x39243d1e;

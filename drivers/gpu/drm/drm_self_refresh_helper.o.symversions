@@ -1,0 +1,4 @@
+__crc_drm_self_refresh_helper_update_avg_times = 0x429e46e4;
+__crc_drm_self_refresh_helper_alter_state = 0x2e0dda83;
+__crc_drm_self_refresh_helper_init = 0xf2b0d0a6;
+__crc_drm_self_refresh_helper_cleanup = 0x63537436;

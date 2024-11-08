@@ -1,0 +1,5 @@
+__crc_crc32_le = 0x69dd3b5b;
+__crc___crc32c_le = 0xba1008c8;
+__crc_crc32_le_shift = 0x4aea463f;
+__crc___crc32c_le_shift = 0x7d5e1008;
+__crc_crc32_be = 0x4df02057;

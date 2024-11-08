@@ -1,0 +1,5 @@
+__tracepoint_android_vh_do_wake_up_sync
+__tracepoint_android_vh_set_wake_flags
+__ubsan_handle_cfi_check_fail_abort
+__wake_up_sync_key
+tracepoint_probe_register

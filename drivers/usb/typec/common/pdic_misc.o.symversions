@@ -1,0 +1,13 @@
+__crc_get_checksum = 0x752c55c9;
+__crc_get_data_size = 0xaa412d51;
+__crc_set_endian = 0x152ac01e;
+__crc_set_uvdmset_count = 0x019c3ab0;
+__crc_set_msg_header = 0xbbcf39fb;
+__crc_set_uvdm_header = 0x59adfe33;
+__crc_set_sec_uvdm_header = 0x92e08648;
+__crc_set_sec_uvdm_tx_header = 0xe6ffe864;
+__crc_set_sec_uvdm_tx_tailer = 0xeba2b203;
+__crc_set_sec_uvdm_rx_header = 0xda4b3cfc;
+__crc_get_pdic_misc_dev = 0x40383fa0;
+__crc_pdic_misc_init = 0xd2b0c61e;
+__crc_pdic_misc_exit = 0x434e2a92;

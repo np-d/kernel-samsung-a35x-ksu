@@ -1,0 +1,3 @@
+__crc_of_get_panel_gpio = 0xaa75d2c3;
+__crc_panel_gpio_create = 0x1ea5c6d1;
+__crc_panel_gpio_destroy = 0x262a06fc;

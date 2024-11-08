@@ -1,0 +1,3 @@
+__crc_pkv_tasklet_setup = 0xcaba9f35;
+__crc_pkv_dma_buf_vmap = 0x88bb115e;
+__crc_pkv_dma_buf_vunmap = 0xb3c28e5d;

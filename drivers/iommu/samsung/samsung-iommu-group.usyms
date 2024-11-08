@@ -1,0 +1,8 @@
+__platform_driver_register
+__this_module
+__ubsan_handle_cfi_check_fail_abort
+_dev_err
+_dev_info
+iommu_group_alloc
+iommu_group_set_name
+platform_driver_unregister

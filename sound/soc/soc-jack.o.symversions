@@ -1,0 +1,9 @@
+__crc_snd_soc_jack_report = 0xc63c3646;
+__crc_snd_soc_jack_add_zones = 0x82ab7885;
+__crc_snd_soc_jack_get_type = 0xe4016d9a;
+__crc_snd_soc_jack_add_pins = 0xddebfc46;
+__crc_snd_soc_jack_notifier_register = 0x20c1ad2c;
+__crc_snd_soc_jack_notifier_unregister = 0x329490bb;
+__crc_snd_soc_jack_add_gpios = 0x36db9502;
+__crc_snd_soc_jack_add_gpiods = 0xe3e33465;
+__crc_snd_soc_jack_free_gpios = 0x6f9d655a;

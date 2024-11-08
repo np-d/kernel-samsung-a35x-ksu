@@ -1,0 +1,2 @@
+__crc_is_exynos_cpu_power_on = 0x6263579b;
+__crc_get_exynos_cpu_power_state = 0xa3d803bb;

@@ -1,0 +1,11 @@
+__crc_static_key_count = 0x389b64a2;
+__crc_static_key_slow_inc = 0x8e92f7c4;
+__crc_static_key_enable_cpuslocked = 0x3a55981a;
+__crc_static_key_enable = 0x6b2b69f7;
+__crc_static_key_disable_cpuslocked = 0x0e6b79af;
+__crc_static_key_disable = 0xb912560d;
+__crc_jump_label_update_timeout = 0x96a25015;
+__crc_static_key_slow_dec = 0x2f4880df;
+__crc___static_key_slow_dec_deferred = 0xcd9e7e48;
+__crc___static_key_deferred_flush = 0x5e708ad2;
+__crc_jump_label_rate_limit = 0x9f6fd137;

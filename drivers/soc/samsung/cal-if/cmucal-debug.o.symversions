@@ -1,0 +1,11 @@
+__crc_vclk_debug_clk_get_rate = 0xf28bfdd3;
+__crc_cmucal_dbg_set_cmu_top_base = 0x0e1afd47;
+__crc_cmucal_dbg_set_cmu_aud_base = 0xdf2f94b1;
+__crc_cmucal_dbg_set_cmu_nocl0_base = 0x4b3e51dc;
+__crc_cmucal_dbg_set_cmu_cpucl0_base = 0xf4a1825b;
+__crc_cmucal_dbg_set_cmu_cpucl1_base = 0x70909baa;
+__crc_cmucal_dbg_set_cmu_cpucl2_base = 0x27b2b7f8;
+__crc_cmucal_dbg_set_cmu_dsu_base = 0xb1a916cc;
+__crc_cmucal_dbg_set_cmu_peris_base = 0x1c036b53;
+__crc_cal_register_pd_lookup_cmu_id = 0x52344ac2;
+__crc_vclk_debug_init = 0xfe8ac1d0;

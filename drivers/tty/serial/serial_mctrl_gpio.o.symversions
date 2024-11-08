@@ -1,0 +1,9 @@
+__crc_mctrl_gpio_set = 0xdfcb6c90;
+__crc_mctrl_gpio_to_gpiod = 0xead54924;
+__crc_mctrl_gpio_get = 0x48a3d20b;
+__crc_mctrl_gpio_get_outputs = 0x42f728aa;
+__crc_mctrl_gpio_init_noauto = 0x72010923;
+__crc_mctrl_gpio_init = 0x40630ba8;
+__crc_mctrl_gpio_free = 0xb110a3f3;
+__crc_mctrl_gpio_enable_ms = 0xebd4cc11;
+__crc_mctrl_gpio_disable_ms = 0x1f449588;

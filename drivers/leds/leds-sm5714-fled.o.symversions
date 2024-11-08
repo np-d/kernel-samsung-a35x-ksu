@@ -1,0 +1,4 @@
+__crc_sm5714_fled_torch_gpio = 0xf50b65c8;
+__crc_sm5714_fled_mode_ctrl = 0xda726ed1;
+__crc_sm5714_create_sysfs = 0x98c8c8e9;
+__crc_sm5714_destroy_sysfs = 0x8543e20c;

@@ -1,0 +1,10 @@
+__stack_chk_fail
+__ubsan_handle_cfi_check_fail_abort
+_printk
+ktime_get_ts64
+memlog_alloc_printf
+memlog_register
+memlog_write_printf
+memset
+sys_tz
+time64_to_tm

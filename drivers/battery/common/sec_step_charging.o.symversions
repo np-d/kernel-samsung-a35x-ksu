@@ -1,0 +1,7 @@
+__crc_sec_bat_reset_step_charging = 0x635f5fb9;
+__crc_sec_bat_exit_step_charging = 0xed2eae14;
+__crc_sec_bat_exit_wpc_step_charging = 0xc57ed9fa;
+__crc_sec_bat_check_step_charging = 0xdd6ec656;
+__crc_sec_bat_check_dc_step_charging = 0x1c6c4243;
+__crc_sec_bat_set_aging_info_step_charging = 0xcc817eaf;
+__crc_sec_step_charging_init = 0x74627d26;

@@ -1,0 +1,12 @@
+__crc_is_sec_get_hw_param = 0x4aec300f;
+__crc_is_vendor_verify_mipi_channel = 0xb91f559b;
+__crc_is_vendor_update_mipi_info = 0x9a5b4165;
+__crc_is_vendor_get_mipi_clock_string = 0x06cc8476;
+__crc_is_vendor_set_mipi_clock = 0x23b0689e;
+__crc_is_vendor_set_mipi_mode = 0x5fd713c8;
+__crc_is_vendor_rom_parse_dt = 0x67f49c20;
+__crc_is_vendor_get_rom_id_from_position = 0x4a8eb331;
+__crc_is_vendor_get_position_from_rom_id = 0x7ae5973a;
+__crc_is_vendor_get_sensor_id_from_position = 0xf653dfaa;
+__crc_is_vender_read_efs = 0x9615935f;
+__crc_is_vender_wdr_mode_on = 0x084c2151;

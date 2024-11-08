@@ -1,0 +1,6 @@
+__ubsan_handle_cfi_check_fail_abort
+_printk
+init_task
+secdbg_stra_show_callstack_auto
+smp_call_function_single_async
+strcmp

@@ -1,0 +1,2 @@
+__crc___cfi_slowpath_diag = 0x4411a445;
+__crc___ubsan_handle_cfi_check_fail_abort = 0xdf7a4c69;

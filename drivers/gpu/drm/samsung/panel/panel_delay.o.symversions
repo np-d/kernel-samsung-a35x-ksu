@@ -1,0 +1,4 @@
+__crc_create_delay = 0x9a3ec6de;
+__crc_destroy_delay = 0xdc8b3fc8;
+__crc_create_timer_delay_begin = 0x21e40e67;
+__crc_destroy_timer_delay_begin = 0x3c94b18a;

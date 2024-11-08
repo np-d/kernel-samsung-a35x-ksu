@@ -1,0 +1,5 @@
+__crc_register_pppox_proto = 0x157b64f9;
+__crc_unregister_pppox_proto = 0xe0ff7a18;
+__crc_pppox_unbind_sock = 0xb5fed979;
+__crc_pppox_ioctl = 0xe8e3da50;
+__crc_pppox_compat_ioctl = 0xc30b70e1;

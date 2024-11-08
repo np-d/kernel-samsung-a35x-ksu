@@ -1,0 +1,8 @@
+__crc_pablo_obte_is_running = 0x770964ee;
+__crc_pablo_obte_init_3aa = 0x3310f088;
+__crc_pablo_obte_deinit_3aa = 0xffddebbc;
+__crc_pablo_obte_setcount_ssx_open = 0x4ac74765;
+__crc_pablo_obte_setcount_ssx_close = 0xca1b34d8;
+__crc_pablo_obte_regdump = 0x60b37f3a;
+__crc_pablo_obte_init = 0xadb7cc53;
+__crc_pablo_obte_exit = 0x535baf0a;

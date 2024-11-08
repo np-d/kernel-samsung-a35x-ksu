@@ -1,0 +1,8 @@
+__crc_snd_seq_root = 0x835c31ce;
+__crc_snd_info_get_line = 0x24a94b26;
+__crc_snd_info_get_str = 0x9e6d79f8;
+__crc_snd_info_create_module_entry = 0x62360a03;
+__crc_snd_info_create_card_entry = 0x827dd4d0;
+__crc_snd_info_free_entry = 0xacf26b8f;
+__crc_snd_info_register = 0x1fa0a2c6;
+__crc_snd_card_rw_proc_new = 0xda6a02c0;

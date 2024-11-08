@@ -1,0 +1,9 @@
+__crc_cpu_hwcaps = 0x77c1b75a;
+__crc_arm64_use_ng_mappings = 0xaf56600a;
+__crc_arm64_const_caps_ready = 0x14b89635;
+__crc_cpu_hwcap_keys = 0xd14fef22;
+__crc_read_sanitised_ftr_reg = 0x3562f983;
+__crc_system_32bit_el0_cpumask = 0x7d43b425;
+__crc_this_cpu_has_cap = 0x46e67a71;
+__crc_cpu_set_feature = 0x73242dcd;
+__crc_cpu_have_feature = 0x41237f71;

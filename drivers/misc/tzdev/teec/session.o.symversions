@@ -1,0 +1,5 @@
+__crc_TEEC_OpenSession = 0xbca5b811;
+__crc_TEECS_OpenSession = 0x1b4ec76b;
+__crc_TEEC_CloseSession = 0x01e4f4e8;
+__crc_TEEC_InvokeCommand = 0x7f65e7b6;
+__crc_TEEC_RequestCancellation = 0x838fd492;

@@ -1,0 +1,12 @@
+__crc___vlan_find_dev_deep_rcu = 0x20876456;
+__crc_vlan_dev_real_dev = 0xc0061e6d;
+__crc_vlan_dev_vlan_id = 0x17466a91;
+__crc_vlan_dev_vlan_proto = 0xcf359148;
+__crc_vlan_for_each = 0x4f5360b0;
+__crc_vlan_filter_push_vids = 0xa4ab8e04;
+__crc_vlan_filter_drop_vids = 0x53637749;
+__crc_vlan_vid_add = 0x9dad524c;
+__crc_vlan_vid_del = 0x0aa29552;
+__crc_vlan_vids_add_by_dev = 0x54390b67;
+__crc_vlan_vids_del_by_dev = 0x69042454;
+__crc_vlan_uses_dev = 0xe921cd32;

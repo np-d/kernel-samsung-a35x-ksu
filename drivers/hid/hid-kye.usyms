@@ -1,0 +1,13 @@
+__cfi_slowpath_diag
+__hid_register_driver
+__hid_request
+__this_module
+__ubsan_handle_cfi_check_fail_abort
+_dev_err
+_dev_info
+hid_hw_close
+hid_hw_open
+hid_hw_start
+hid_hw_stop
+hid_open_report
+hid_unregister_driver

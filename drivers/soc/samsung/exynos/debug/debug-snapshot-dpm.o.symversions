@@ -1,0 +1,3 @@
+__crc_dss_dpm = 0x6567ed09;
+__crc_dbg_snapshot_get_dpm_status = 0x51421ec3;
+__crc_dbg_snapshot_do_dpm = 0xb1c56592;

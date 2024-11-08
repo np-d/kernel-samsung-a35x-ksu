@@ -1,0 +1,9 @@
+__crc_drm_kms_helper_poll_enable = 0x1ba4614b;
+__crc_drm_helper_probe_detect = 0xc26644a2;
+__crc_drm_helper_probe_single_connector_modes = 0x29b4b697;
+__crc_drm_kms_helper_hotplug_event = 0x9c1ff423;
+__crc_drm_kms_helper_is_poll_worker = 0x5a4734d1;
+__crc_drm_kms_helper_poll_disable = 0xe83f32d0;
+__crc_drm_kms_helper_poll_init = 0x6cb3eab3;
+__crc_drm_kms_helper_poll_fini = 0x4c6539d4;
+__crc_drm_helper_hpd_irq_event = 0x2f873716;

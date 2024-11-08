@@ -1,0 +1,4 @@
+__crc_get_switch_sel = 0x380d2196;
+__crc_get_uart_sel = 0x8ccc15d6;
+__crc_get_afc_mode = 0x13c6383e;
+__crc_get_pdic_info = 0x344226cc;

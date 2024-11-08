@@ -1,0 +1,11 @@
+__crc_register_iwd_functions = 0x899f9d77;
+__crc_unregister_iwd_functions = 0xc1ba7c68;
+__crc_stui_get_mode = 0xa185c970;
+__crc_stui_set_mode = 0x4a6349d0;
+__crc_stui_set_mask = 0xfd42c2bd;
+__crc_stui_clear_mask = 0x60930548;
+__crc_stui_set_touch_type = 0x1c65a629;
+__crc_stui_get_touch_type = 0x6274720c;
+__crc_stui_set_tui_version = 0xbc91dbf7;
+__crc_stui_get_tui_version = 0xc13c4008;
+__crc_stui_cancel_session = 0xe8950c00;

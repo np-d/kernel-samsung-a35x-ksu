@@ -1,0 +1,9 @@
+__crc_exynos_s2mpu_notifier_call_register = 0xca1a569f;
+__crc_exynos_s2mpu_set_stage2_ap = 0xa0b70c7c;
+__crc_exynos_s2mpu_set_blocklist = 0xb4249005;
+__crc_exynos_s2mpu_set_all_blocklist = 0x05231f6e;
+__crc_exynos_s2mpu_verify_subsystem_fw = 0xce2d5d37;
+__crc_exynos_s2mpu_request_fw_stage2_ap = 0x7d7c7b18;
+__crc_exynos_s2mpu_release_fw_stage2_ap = 0xfee6de1b;
+__crc_exynos_pd_backup_s2mpu = 0x84c91c01;
+__crc_exynos_pd_restore_s2mpu = 0xf3a67cda;

@@ -1,0 +1,12 @@
+__crc_drm_universal_plane_init = 0xbab1dfce;
+__crc___drmm_universal_plane_alloc = 0xe9d96f78;
+__crc_drm_plane_init = 0xd8b04e84;
+__crc_drm_plane_cleanup = 0x217867db;
+__crc_drm_plane_from_index = 0xfd84c309;
+__crc_drm_plane_force_disable = 0xd689910c;
+__crc_drm_mode_plane_set_obj_prop = 0x3c0e21a0;
+__crc_drm_any_plane_has_format = 0x8ffc0a2e;
+__crc_drm_plane_enable_fb_damage_clips = 0x4c7a837b;
+__crc_drm_plane_get_damage_clips_count = 0xb129a403;
+__crc_drm_plane_get_damage_clips = 0x7ed9a9e3;
+__crc_drm_plane_create_scaling_filter_property = 0x02c297d3;

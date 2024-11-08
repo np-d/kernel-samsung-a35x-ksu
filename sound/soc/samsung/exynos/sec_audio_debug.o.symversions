@@ -1,0 +1,6 @@
+__crc_abox_log_extra_copy = 0xc2578b7f;
+__crc_set_modem_event = 0x0827a28e;
+__crc_abox_debug_string_update = 0xaa994497;
+__crc_check_upload_mode_disabled = 0x5ff2dd27;
+__crc_check_debug_level_low = 0x441fa348;
+__crc_get_rmem_size_min = 0xafe4832d;

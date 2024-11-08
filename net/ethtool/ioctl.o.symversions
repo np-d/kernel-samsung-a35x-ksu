@@ -1,0 +1,11 @@
+__crc_ethtool_op_get_link = 0x535e9b9f;
+__crc_ethtool_op_get_ts_info = 0x68b7cc47;
+__crc_ethtool_intersect_link_masks = 0x0199c3bd;
+__crc_ethtool_convert_legacy_u32_to_link_mode = 0x8f996a30;
+__crc_ethtool_convert_link_mode_to_legacy_u32 = 0x55e31703;
+__crc___ethtool_get_link_ksettings = 0xdb9c2522;
+__crc_ethtool_virtdev_set_link_ksettings = 0xdccfd77d;
+__crc_netdev_rss_key_fill = 0x467df16d;
+__crc_ethtool_sprintf = 0x5338184f;
+__crc_ethtool_rx_flow_rule_create = 0x0414e704;
+__crc_ethtool_rx_flow_rule_destroy = 0x5166e701;

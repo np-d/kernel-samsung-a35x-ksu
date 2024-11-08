@@ -1,0 +1,8 @@
+__crc_get_panel_log_level = 0x76e22708;
+__crc_exynos_panel_get_modes = 0x556d8e7b;
+__crc_exynos_panel_set_lp_mode = 0x5de09a72;
+__crc_exynos_drm_cmdset_add = 0x98c4362a;
+__crc_exynos_drm_cmdset_cleanup = 0x95e5e01f;
+__crc_exynos_drm_cmdset_flush = 0xeb679df7;
+__crc_exynos_panel_probe = 0xe192d589;
+__crc_exynos_panel_remove = 0xc2da7010;

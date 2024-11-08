@@ -1,0 +1,17 @@
+__crc_cisd_data_str = 0xb995d73c;
+__crc_cisd_data_str_d = 0xd481dc55;
+__crc_cisd_cable_data_str = 0xfdcc1979;
+__crc_cisd_tx_data_str = 0xa3223a6b;
+__crc_cisd_event_data_str = 0xf5365999;
+__crc_sec_bat_cisd_check = 0x83e57e8d;
+__crc_gcisd = 0x67137524;
+__crc_sec_battery_cisd_init = 0x889c2dbd;
+__crc_init_cisd_pad_data = 0x8c8f28e7;
+__crc_count_cisd_pad_data = 0x8b6cc13e;
+__crc_set_cisd_pad_data = 0x5ae34fea;
+__crc_init_cisd_power_data = 0x923b09b5;
+__crc_count_cisd_power_data = 0x6c6b07ad;
+__crc_set_cisd_power_data = 0x08be589b;
+__crc_init_cisd_pd_data = 0xd1be1773;
+__crc_count_cisd_pd_data = 0xf33d8e48;
+__crc_set_cisd_pd_data = 0xda6ac201;

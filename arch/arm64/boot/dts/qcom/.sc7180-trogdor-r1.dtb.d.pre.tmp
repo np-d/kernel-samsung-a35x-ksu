@@ -1,0 +1,2 @@
+arch/arm64/boot/dts/qcom/.sc7180-trogdor-r1.dtb.dts.tmp: \
+  arch/arm64/boot/dts/qcom/sc7180-trogdor-r1.dts

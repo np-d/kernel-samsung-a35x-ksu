@@ -1,0 +1,9 @@
+__crc_exynos_dm_dynamic_disable = 0xddaa5841;
+__crc_exynos_dm_fast_switch_notifier_register = 0x138c29ba;
+__crc_exynos_dm_data_init = 0xd611be32;
+__crc_exynos_dm_change_freq_table = 0x1bf5e8f2;
+__crc_register_exynos_dm_constraint_table = 0x2d57e7d1;
+__crc_register_exynos_dm_freq_scaler = 0x5b89ba37;
+__crc_unregister_exynos_dm_freq_scaler = 0xa7e19b10;
+__crc_policy_update_call_to_DM = 0x404c64dc;
+__crc_DM_CALL = 0x1f45fd05;

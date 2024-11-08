@@ -1,0 +1,4 @@
+__crc_devm_snd_soc_register_dai = 0x7eb8f971;
+__crc_devm_snd_soc_register_component = 0xf7560d7c;
+__crc_devm_snd_soc_register_card = 0x607df5bd;
+__crc_devm_snd_dmaengine_pcm_register = 0xf8768dc5;

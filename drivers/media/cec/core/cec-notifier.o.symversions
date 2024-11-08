@@ -1,0 +1,7 @@
+__crc_cec_notifier_conn_register = 0xc13110fc;
+__crc_cec_notifier_conn_unregister = 0xaee236c6;
+__crc_cec_notifier_cec_adap_register = 0xa3bad42e;
+__crc_cec_notifier_cec_adap_unregister = 0xd473e7cb;
+__crc_cec_notifier_set_phys_addr = 0xa01fbb6b;
+__crc_cec_notifier_set_phys_addr_from_edid = 0x67e1dfdc;
+__crc_cec_notifier_parse_hdmi_phandle = 0xd09eec25;

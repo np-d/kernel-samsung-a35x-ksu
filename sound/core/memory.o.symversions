@@ -1,0 +1,2 @@
+__crc_copy_to_user_fromio = 0x342a2354;
+__crc_copy_from_user_toio = 0xfffd89db;

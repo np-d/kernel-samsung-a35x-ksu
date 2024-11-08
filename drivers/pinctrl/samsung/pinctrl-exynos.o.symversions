@@ -1,0 +1,2 @@
+__crc_exynos_eint_wake_mask_array = 0xe422656c;
+__crc_exynos_cmgp_eint_wake_mask_array = 0x0b7ac0b1;

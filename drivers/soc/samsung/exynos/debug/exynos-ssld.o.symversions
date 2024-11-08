@@ -1,0 +1,2 @@
+__crc_ssld_notifier_chain_register = 0x20f26701;
+__crc_ssld_reboot_notifier_chain_register = 0xb78db630;

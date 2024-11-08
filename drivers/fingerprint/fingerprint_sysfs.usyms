@@ -1,0 +1,8 @@
+__class_create
+__this_module
+__ubsan_handle_cfi_check_fail_abort
+_printk
+class_destroy
+device_create
+device_create_file
+device_remove_file

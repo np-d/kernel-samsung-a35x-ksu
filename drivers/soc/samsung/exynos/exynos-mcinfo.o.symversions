@@ -1,0 +1,3 @@
+__crc_get_mcinfo_base_count = 0xc772c22e;
+__crc_get_refresh_rate = 0x49b7d342;
+__crc_exynos_mcinfo_set_ambient_status = 0xb4aba573;

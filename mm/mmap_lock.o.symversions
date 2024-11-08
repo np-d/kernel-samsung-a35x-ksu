@@ -1,0 +1,12 @@
+__crc___tracepoint_mmap_lock_start_locking = 0xbd628752;
+__crc___traceiter_mmap_lock_start_locking = 0x5af911d2;
+__crc___SCK__tp_func_mmap_lock_start_locking = 0x1cc11154;
+__crc___tracepoint_mmap_lock_acquire_returned = 0xbe118c52;
+__crc___traceiter_mmap_lock_acquire_returned = 0xa5703b6e;
+__crc___SCK__tp_func_mmap_lock_acquire_returned = 0xd2582f8f;
+__crc___tracepoint_mmap_lock_released = 0x5efdd68b;
+__crc___traceiter_mmap_lock_released = 0xc2add379;
+__crc___SCK__tp_func_mmap_lock_released = 0x252332f1;
+__crc___mmap_lock_do_trace_start_locking = 0x583d61bc;
+__crc___mmap_lock_do_trace_acquire_returned = 0x1ed3e175;
+__crc___mmap_lock_do_trace_released = 0x86832082;

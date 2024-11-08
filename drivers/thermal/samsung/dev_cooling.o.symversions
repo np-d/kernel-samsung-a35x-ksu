@@ -1,0 +1,2 @@
+__crc_dev_cooling_unregister = 0x2540e8f0;
+__crc_exynos_dev_cooling_register = 0x070bd94c;

@@ -1,0 +1,4 @@
+__crc_tty_termios_baud_rate = 0x409873e3;
+__crc_tty_termios_input_baud_rate = 0x6d340f64;
+__crc_tty_termios_encode_baud_rate = 0x5641485b;
+__crc_tty_encode_baud_rate = 0x54cfd2ef;

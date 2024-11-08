@@ -1,0 +1,4 @@
+__crc_crc_ccitt_table = 0x7f03b6a9;
+__crc_crc_ccitt_false_table = 0x44469a76;
+__crc_crc_ccitt = 0x52ecbc75;
+__crc_crc_ccitt_false = 0x0cc4b4b6;

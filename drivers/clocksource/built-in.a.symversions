@@ -1,0 +1,6 @@
+__crc_timer_of_init = 0x3381ce53;
+__crc_clocksource_mmio_readl_up = 0x49b9dfb4;
+__crc_clocksource_mmio_init = 0x3f4fc1ef;
+__crc_arch_timer_read_counter = 0x75fb9062;
+__crc_timer_unstable_counter_workaround = 0x8f5fb950;
+__crc_kvm_arch_ptp_get_crosststamp = 0xd66ce5f2;

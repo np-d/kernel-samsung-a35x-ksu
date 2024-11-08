@@ -1,0 +1,7 @@
+__crc_v4l2_norm_to_name = 0xf3251e7b;
+__crc_v4l2_video_std_frame_period = 0x0614dd5a;
+__crc_v4l2_video_std_construct = 0xe2b92059;
+__crc_v4l2_field_names = 0x3adbd595;
+__crc_v4l2_type_names = 0x123959a1;
+__crc_v4l_printk_ioctl = 0xbc5671dc;
+__crc_video_ioctl2 = 0x8f44ad68;

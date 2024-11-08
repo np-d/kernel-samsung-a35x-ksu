@@ -1,0 +1,8 @@
+__crc_ptp_clock_register = 0x079a7e01;
+__crc_ptp_clock_unregister = 0xca421728;
+__crc_ptp_clock_event = 0xd3ba9a3e;
+__crc_ptp_clock_index = 0x98fd9c2f;
+__crc_ptp_find_pin = 0x28273e24;
+__crc_ptp_find_pin_unlocked = 0x288d9957;
+__crc_ptp_schedule_worker = 0xa61cf5fa;
+__crc_ptp_cancel_worker_sync = 0x79d64b5d;

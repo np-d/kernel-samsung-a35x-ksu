@@ -1,0 +1,9 @@
+__crc___ip_dev_find = 0xdf9b3dd6;
+__crc_in_dev_finish_destroy = 0xcc76a946;
+__crc_inetdev_by_index = 0xa860199d;
+__crc_inet_select_addr = 0xec1e10b4;
+__crc_inet_confirm_addr = 0x3412ac26;
+__crc_register_inetaddr_notifier = 0xf68285c0;
+__crc_unregister_inetaddr_notifier = 0xfe029963;
+__crc_register_inetaddr_validator_notifier = 0xc32c71af;
+__crc_unregister_inetaddr_validator_notifier = 0xab63baa5;

@@ -1,0 +1,7 @@
+__crc_prandom_u32_state = 0x1a9a433c;
+__crc_prandom_bytes_state = 0xd36e3d59;
+__crc_prandom_seed_full_state = 0x3283e6b0;
+__crc_net_rand_noise = 0xd58e70dd;
+__crc_prandom_u32 = 0xfda9581f;
+__crc_prandom_bytes = 0xa99b39c2;
+__crc_prandom_seed = 0xfa873ad0;

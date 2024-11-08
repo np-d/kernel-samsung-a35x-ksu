@@ -1,0 +1,6 @@
+__crc_exynos_reboot_ops = 0x06dc37ff;
+__crc_exynos_reboot_register_acpm_ops = 0xade5ab62;
+__crc_exynos_reboot_register_pmic_ops = 0x2e6fe848;
+__crc_exynos_reboot_print_socinfo = 0x976385ac;
+__crc_exynos_reboot_pwrkey_status = 0x653b8176;
+__crc_exynos_mach_restart = 0x2c02e456;

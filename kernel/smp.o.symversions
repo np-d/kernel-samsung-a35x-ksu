@@ -1,0 +1,11 @@
+__crc_smp_call_function_single = 0x6228c21f;
+__crc_smp_call_function_single_async = 0xa080c5e5;
+__crc_smp_call_function_any = 0x8efd59ac;
+__crc_smp_call_function_many = 0xe2df8e9a;
+__crc_smp_call_function = 0xa0eae826;
+__crc_setup_max_cpus = 0x381a798a;
+__crc_nr_cpu_ids = 0x017de3d5;
+__crc_on_each_cpu_cond_mask = 0x5f43c059;
+__crc_kick_all_cpus_sync = 0xa6e1a69d;
+__crc_wake_up_all_idle_cpus = 0xbe687e88;
+__crc_smp_call_on_cpu = 0x267df662;

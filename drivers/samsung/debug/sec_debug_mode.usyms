@@ -1,0 +1,5 @@
+__this_module
+__ubsan_handle_cfi_check_fail_abort
+_printk
+dbg_snapshot_scratch_clear
+param_ops_int

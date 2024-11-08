@@ -1,0 +1,8 @@
+__crc_store_usblog_notify = 0x64853d2f;
+__crc_store_ccic_version = 0xfccdb5e2;
+__crc_store_ccic_bin_version = 0xd93eb0ac;
+__crc_store_tcpc_name = 0x43bb6871;
+__crc_show_ccic_version = 0x2c88053c;
+__crc_printk_usb = 0x65270e3c;
+__crc_register_usblog_proc = 0xe0c1c881;
+__crc_unregister_usblog_proc = 0x5195baa7;

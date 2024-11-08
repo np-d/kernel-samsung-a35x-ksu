@@ -1,0 +1,3 @@
+__crc_snd_usb_endpoint_open = 0xe350577b;
+__crc_snd_usb_endpoint_close = 0x445aac28;
+__crc_snd_usb_endpoint_configure = 0x3a0342b4;

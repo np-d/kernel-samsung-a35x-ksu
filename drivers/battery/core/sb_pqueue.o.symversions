@@ -1,0 +1,11 @@
+__crc_sb_pq_create = 0x2354f9fc;
+__crc_sb_pq_destroy = 0xa1f0afa4;
+__crc_sb_pq_pop = 0x1861859f;
+__crc_sb_pq_push = 0x92257c69;
+__crc_sb_pq_get_en = 0xe7eb93a3;
+__crc_sb_pq_set_pri = 0x2291fe1d;
+__crc_sb_pq_get_pri = 0x4f4dfbf3;
+__crc_sb_pq_set_data = 0x2fb663c8;
+__crc_sb_pq_get_data = 0x76cf2e89;
+__crc_sb_pq_top = 0xf934ad7a;
+__crc_sb_pq_remove = 0x07e8b6ce;

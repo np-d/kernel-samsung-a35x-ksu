@@ -1,0 +1,12 @@
+__crc___tracepoint_xhci_dbg_quirks = 0x1efaa06f;
+__crc___traceiter_xhci_dbg_quirks = 0x4c549b36;
+__crc___SCK__tp_func_xhci_dbg_quirks = 0xd7dccd23;
+__crc___tracepoint_xhci_urb_enqueue = 0x42ccfcf2;
+__crc___traceiter_xhci_urb_enqueue = 0x796fe914;
+__crc___SCK__tp_func_xhci_urb_enqueue = 0x3d6fd724;
+__crc___tracepoint_xhci_handle_transfer = 0x4095bc40;
+__crc___traceiter_xhci_handle_transfer = 0x010814bc;
+__crc___SCK__tp_func_xhci_handle_transfer = 0x32227083;
+__crc___tracepoint_xhci_urb_giveback = 0x22847ba7;
+__crc___traceiter_xhci_urb_giveback = 0x640c185c;
+__crc___SCK__tp_func_xhci_urb_giveback = 0x4d4baf6d;

@@ -1,0 +1,7 @@
+__crc_cpif_sysmmu_set_use_iocc = 0x478c6abb;
+__crc_cpif_sysmmu_enable = 0x2e8bfdcb;
+__crc_cpif_sysmmu_disable = 0xe2d24d8f;
+__crc_cpif_sysmmu_all_buff_free = 0xfdec7568;
+__crc_print_cpif_sysmmu_tlb = 0x982dc227;
+__crc_cpif_iommu_map = 0x2c018194;
+__crc_cpif_iommu_unmap = 0xdb297ce2;

@@ -1,0 +1,5 @@
+__crc_blk_sec_stat_account_init = 0x8838c4b0;
+__crc_blk_sec_stat_account_exit = 0x4e4b1574;
+__crc_blk_sec_stat_account_io_prepare = 0xf28b7c07;
+__crc_blk_sec_stat_account_io_complete = 0x18c59322;
+__crc_blk_sec_stat_account_io_finish = 0x647f64f4;

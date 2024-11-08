@@ -1,0 +1,4 @@
+__crc_xfrm6_rcv_spi = 0xb0e285d0;
+__crc_xfrm6_rcv_tnl = 0x7d656248;
+__crc_xfrm6_rcv = 0x942a5837;
+__crc_xfrm6_input_addr = 0x379a0dd7;

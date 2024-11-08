@@ -1,0 +1,3 @@
+__crc_fsverity_file_open = 0x2e769ffc;
+__crc_fsverity_prepare_setattr = 0xfd9d06fc;
+__crc_fsverity_cleanup_inode = 0x6c85b2c9;

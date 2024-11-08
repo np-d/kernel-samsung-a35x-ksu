@@ -1,0 +1,7 @@
+__hid_register_driver
+__this_module
+__ubsan_handle_cfi_check_fail_abort
+_dev_info
+arm64_const_caps_ready
+cpu_hwcap_keys
+hid_unregister_driver

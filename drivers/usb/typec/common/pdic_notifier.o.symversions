@@ -1,0 +1,8 @@
+__crc_pdic_event_src_string = 0x0f105a75;
+__crc_pdic_event_dest_string = 0xfe85e84c;
+__crc_pdic_event_id_string = 0x71268ecd;
+__crc_pdic_rid_string = 0xd0c84663;
+__crc_pdic_usbstatus_string = 0xe979801d;
+__crc_pdic_notifier_register = 0x648b3cbc;
+__crc_pdic_notifier_unregister = 0x6459930c;
+__crc_pdic_notifier_notify = 0x4ffccebf;

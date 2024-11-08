@@ -1,0 +1,5 @@
+__crc__find_next_bit = 0xa50a3da7;
+__crc__find_first_bit = 0x8810754a;
+__crc__find_first_zero_bit = 0x7b37d4a7;
+__crc__find_last_bit = 0x9ae47436;
+__crc_find_next_clump8 = 0xb14fc46a;

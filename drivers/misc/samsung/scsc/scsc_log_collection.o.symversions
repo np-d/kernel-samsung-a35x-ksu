@@ -1,0 +1,9 @@
+__crc_scsc_get_trigger_str = 0x15a2260f;
+__crc_scsc_log_collector_register_mx_cb = 0x92efa531;
+__crc_scsc_log_collector_unregister_mx_cb = 0x45d16bff;
+__crc_scsc_log_collector_register_client = 0xafe2032f;
+__crc_scsc_log_collector_unregister_client = 0xffcca2e3;
+__crc_scsc_log_collector_write = 0x37cfb920;
+__crc_scsc_log_collector_schedule_collection = 0x4771260c;
+__crc_scsc_log_collector_write_fapi = 0x044680d5;
+__crc_scsc_log_collector_is_observer = 0x9df8163a;

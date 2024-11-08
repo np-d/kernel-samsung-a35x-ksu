@@ -1,0 +1,4 @@
+__crc_v4l2_ctrl_get_menu = 0x315de2cf;
+__crc_v4l2_ctrl_get_int_menu = 0xd16d9c01;
+__crc_v4l2_ctrl_get_name = 0x32d43420;
+__crc_v4l2_ctrl_fill = 0xdc7e0128;

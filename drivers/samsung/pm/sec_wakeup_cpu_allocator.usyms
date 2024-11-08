@@ -1,0 +1,9 @@
+__platform_driver_register
+__this_module
+__ubsan_handle_cfi_check_fail_abort
+_printk
+arm64_const_caps_ready
+cpu_hwcap_keys
+of_property_read_variable_u32_array
+platform_driver_unregister
+set_cpus_allowed_ptr

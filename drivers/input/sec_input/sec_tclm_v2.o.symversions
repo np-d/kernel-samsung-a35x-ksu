@@ -1,0 +1,8 @@
+__crc_sec_tclm_case = 0xda42b82b;
+__crc_tclm_test_command = 0x70a3c317;
+__crc_sec_tclm_test_on_probe = 0x162bc672;
+__crc_sec_tclm_debug_info = 0xcd5087fe;
+__crc_sec_tclm_root_of_cal = 0x8a31f5f2;
+__crc_sec_execute_tclm_package = 0xf810b1b0;
+__crc_sec_tclm_check_cal_case = 0x4daeccb4;
+__crc_sec_tclm_initialize = 0x8d81bf12;

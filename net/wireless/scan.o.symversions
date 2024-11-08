@@ -1,0 +1,16 @@
+__crc_cfg80211_is_element_inherited = 0xcc1a7c48;
+__crc_cfg80211_scan_done = 0x8205fcb1;
+__crc_cfg80211_sched_scan_results = 0xd396002c;
+__crc_cfg80211_sched_scan_stopped_locked = 0x8a261655;
+__crc_cfg80211_sched_scan_stopped = 0xfdf3bbbd;
+__crc_cfg80211_bss_flush = 0xe535386f;
+__crc_cfg80211_find_elem_match = 0x9d6cba30;
+__crc_cfg80211_find_vendor_elem = 0x79b82a71;
+__crc_cfg80211_get_bss = 0x3e8ccf87;
+__crc_cfg80211_merge_profile = 0x117aca91;
+__crc_cfg80211_inform_bss_data = 0xef787ba0;
+__crc_cfg80211_inform_bss_frame_data = 0x265fb573;
+__crc_cfg80211_ref_bss = 0x47869616;
+__crc_cfg80211_put_bss = 0xcad776c4;
+__crc_cfg80211_unlink_bss = 0xa314007e;
+__crc_cfg80211_bss_iter = 0xe2781821;

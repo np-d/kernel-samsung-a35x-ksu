@@ -1,0 +1,5 @@
+__crc_ucc_add_request = 0x49ee8d89;
+__crc_ucc_update_request = 0x5799f7d7;
+__crc_ucc_remove_request = 0xee0ff1c2;
+__crc_ufc_update_request = 0xc93c329d;
+__crc_get_cpufreq_max_limit = 0xdad6284b;

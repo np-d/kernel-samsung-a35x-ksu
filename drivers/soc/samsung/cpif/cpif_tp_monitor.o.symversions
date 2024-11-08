@@ -1,0 +1,9 @@
+__crc_tpmon_add_rx_bytes = 0x3a9a8875;
+__crc_tpmon_add_legacy_packet_count = 0x4e5d3d49;
+__crc_tpmon_add_net_node = 0x7033e7cf;
+__crc_tpmon_reset_data = 0xaa56b7c5;
+__crc_tpmon_start = 0xbc69757f;
+__crc_tpmon_stop = 0xaf7864a5;
+__crc_tpmon_init = 0xca4194cc;
+__crc_tpmon_check_active = 0xeaf29806;
+__crc_tpmon_create = 0x448c2c1d;

@@ -1,0 +1,4 @@
+__ubsan_handle_cfi_check_fail_abort
+devm_kmalloc
+devm_snd_dmaengine_pcm_register
+snd_dmaengine_pcm_prepare_slave_config

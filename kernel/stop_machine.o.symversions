@@ -1,0 +1,3 @@
+__crc_stop_one_cpu = 0xb9b9f56e;
+__crc_stop_one_cpu_nowait = 0x60d1f7de;
+__crc_stop_machine = 0xdfc04014;

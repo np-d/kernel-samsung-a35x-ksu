@@ -1,0 +1,7 @@
+__crc_file_ra_state_init = 0xf463e6f3;
+__crc_read_cache_pages = 0xb9fb5828;
+__crc_readahead_gfp_mask = 0x40a3e1bb;
+__crc_page_cache_ra_unbounded = 0x5d28b128;
+__crc_page_cache_sync_ra = 0x78378187;
+__crc_page_cache_async_ra = 0x72059b08;
+__crc_readahead_expand = 0x8377ab68;

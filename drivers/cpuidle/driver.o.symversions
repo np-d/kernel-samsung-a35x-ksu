@@ -1,0 +1,5 @@
+__crc_cpuidle_register_driver = 0x26e68f9d;
+__crc_cpuidle_unregister_driver = 0xf195bea5;
+__crc_cpuidle_get_driver = 0x9664edf9;
+__crc_cpuidle_get_cpu_driver = 0x4e2b1d0f;
+__crc_cpuidle_driver_state_disabled = 0x8d52a114;

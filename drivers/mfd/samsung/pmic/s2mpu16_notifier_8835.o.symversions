@@ -1,0 +1,3 @@
+__crc_s2mpu16_call_notifier = 0xc693cc3b;
+__crc_s2mpu16_notifier_init = 0xe96a464f;
+__crc_s2mpu16_notifier_deinit = 0x64e87a27;

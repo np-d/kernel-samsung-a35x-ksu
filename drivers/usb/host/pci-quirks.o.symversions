@@ -1,0 +1,14 @@
+__crc_sb800_prefetch = 0x0c36a424;
+__crc_usb_hcd_amd_remote_wakeup_quirk = 0x3b667eb5;
+__crc_usb_amd_hang_symptom_quirk = 0x033832c7;
+__crc_usb_amd_prefetch_quirk = 0xd87fc0a0;
+__crc_usb_amd_quirk_pll_check = 0xaf4014ff;
+__crc_usb_amd_quirk_pll_disable = 0xdc825d6c;
+__crc_usb_asmedia_modifyflowcontrol = 0xb8c3b33c;
+__crc_usb_amd_quirk_pll_enable = 0x10ecc52c;
+__crc_usb_amd_dev_put = 0xb9b9df41;
+__crc_usb_amd_pt_check_port = 0xdb5e589b;
+__crc_uhci_reset_hc = 0xfb451f49;
+__crc_uhci_check_and_reset_hc = 0xe0e9f21e;
+__crc_usb_enable_intel_xhci_ports = 0x5c345a24;
+__crc_usb_disable_xhci_ports = 0x9e9c8af9;

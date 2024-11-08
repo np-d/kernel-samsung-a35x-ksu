@@ -1,0 +1,10 @@
+__crc_xp_set_rxq_info = 0xf928977f;
+__crc_xp_dma_unmap = 0x564f54cc;
+__crc_xp_dma_map = 0x705b0ba8;
+__crc_xp_alloc = 0xc9bca714;
+__crc_xp_can_alloc = 0x1ab4d8d6;
+__crc_xp_free = 0xf829ed72;
+__crc_xp_raw_get_data = 0x69594440;
+__crc_xp_raw_get_dma = 0xac62af20;
+__crc_xp_dma_sync_for_cpu_slow = 0x8de112df;
+__crc_xp_dma_sync_for_device_slow = 0x9a6c1ae7;

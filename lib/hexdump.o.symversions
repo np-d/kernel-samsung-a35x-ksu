@@ -1,0 +1,7 @@
+__crc_hex_asc = 0x7129e5f8;
+__crc_hex_asc_upper = 0x8d73278e;
+__crc_hex_to_bin = 0x11f7ed4c;
+__crc_hex2bin = 0x50cf7585;
+__crc_bin2hex = 0xd45cc6ca;
+__crc_hex_dump_to_buffer = 0xfe916dc6;
+__crc_print_hex_dump = 0x167c5967;

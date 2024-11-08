@@ -1,0 +1,5 @@
+__crc_sb_pt_init = 0x7d65e084;
+__crc_sb_pt_psy_set_property = 0xf55fb5cb;
+__crc_sb_pt_psy_get_property = 0xa5e5e2bd;
+__crc_sb_pt_monitor = 0xfdced49c;
+__crc_sb_pt_check_chg_src = 0x01edd64f;

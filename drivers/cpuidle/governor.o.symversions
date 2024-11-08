@@ -1,0 +1,2 @@
+__crc_cpuidle_register_governor = 0xdbe9bf60;
+__crc_cpuidle_governor_latency_req = 0xc319717f;

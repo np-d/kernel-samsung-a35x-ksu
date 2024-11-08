@@ -1,0 +1,3 @@
+__crc_cring_lev = 0x435786d4;
+__crc_scsc_wifilogger_ring_connectivity_fw_event = 0xbfe41a2c;
+__crc_scsc_wifilogger_ring_connectivity_driver_event = 0xfde806ac;

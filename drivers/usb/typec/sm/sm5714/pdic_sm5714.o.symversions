@@ -1,0 +1,4 @@
+__crc_sm5714_cc_control_command = 0x235e5b0e;
+__crc_sm5714_JIGON = 0xafc4e336;
+__crc_sm5714_request_default_power_src = 0x87174355;
+__crc_sm5714_usbpd_check_fled_state = 0x2a491f98;

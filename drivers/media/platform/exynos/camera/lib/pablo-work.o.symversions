@@ -1,0 +1,7 @@
+__crc_init_work_list = 0xbcbf7206;
+__crc_set_free_work = 0x95aa7088;
+__crc_get_free_work = 0x44dac1a8;
+__crc_set_req_work = 0x1f98051f;
+__crc_get_req_work = 0x31f2240b;
+__crc_print_fre_work_list = 0x9dd2dae0;
+__crc_print_req_work_list = 0x38f6b194;

@@ -1,0 +1,5 @@
+__crc_check_factory_mode_boot = 0xfab5d552;
+__crc_get_usb_factory_mode = 0x69a0233c;
+__crc_is_lpcharge_pdic_param = 0x29e2b80f;
+__crc_is_factory_mode_pdic_param = 0xd73a5a72;
+__crc_is_recovery_mode_pdic_param = 0x0713218f;

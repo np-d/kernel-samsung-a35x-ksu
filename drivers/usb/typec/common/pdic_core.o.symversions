@@ -1,0 +1,6 @@
+__crc_get_pdic_device = 0xa7ae1d00;
+__crc_pdic_register_switch_device = 0x95a5e27d;
+__crc_pdic_send_dock_intent = 0x8d8d55a4;
+__crc_pdic_send_dock_uevent = 0x8d07f3f6;
+__crc_pdic_core_register_chip = 0xdef5a27a;
+__crc_pdic_core_unregister_chip = 0xf92afc66;

@@ -1,0 +1,9 @@
+arch/arm64/boot/dts/hisilicon/hip06-d03.dts:562.4-25: Warning (clocks_property): /soc/sas@c3000000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/hisilicon/hip06-d03.dts:581.4-25: Warning (clocks_property): /soc/sas@a2000000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/hisilicon/hip06-d03.dts:599.4-25: Warning (clocks_property): /soc/sas@a3000000:clocks: cell 0 is not a phandle reference
+arch/arm64/boot/dts/hisilicon/hip06-d03.dts:300.4-32: Warning (msi_parent_property): /mbigen_pcie@a0080000/intc_usb:msi-parent: cell 0 is not a phandle reference
+arch/arm64/boot/dts/hisilicon/hip06-d03.dts:308.4-32: Warning (msi_parent_property): /mbigen_pcie@a0080000/intc_sas1:msi-parent: cell 0 is not a phandle reference
+arch/arm64/boot/dts/hisilicon/hip06-d03.dts:316.4-32: Warning (msi_parent_property): /mbigen_pcie@a0080000/intc_sas2:msi-parent: cell 0 is not a phandle reference
+arch/arm64/boot/dts/hisilicon/hip06-d03.dts:324.4-32: Warning (msi_parent_property): /mbigen_pcie@a0080000/intc_pcie0:msi-parent: cell 0 is not a phandle reference
+arch/arm64/boot/dts/hisilicon/hip06-d03.dts:337.4-32: Warning (msi_parent_property): /mbigen_dsa@c0080000/intc_dsaf0:msi-parent: cell 0 is not a phandle reference
+arch/arm64/boot/dts/hisilicon/hip06-d03.dts:345.4-32: Warning (msi_parent_property): /mbigen_dsa@c0080000/intc-sas0:msi-parent: cell 0 is not a phandle reference

@@ -1,0 +1,17 @@
+__crc_leds_list_lock = 0x01508495;
+__crc_leds_list = 0x24eb7e32;
+__crc_led_colors = 0x6b198c77;
+__crc_led_init_core = 0x194571f0;
+__crc_led_blink_set = 0x2037abcc;
+__crc_led_blink_set_oneshot = 0x5ecafe8b;
+__crc_led_stop_software_blink = 0x95f21338;
+__crc_led_set_brightness = 0x74d94a3a;
+__crc_led_set_brightness_nopm = 0xd00d842d;
+__crc_led_set_brightness_nosleep = 0xd262654e;
+__crc_led_set_brightness_sync = 0xb3c9584f;
+__crc_led_update_brightness = 0xce6e4aab;
+__crc_led_get_default_pattern = 0xa5b4e6d2;
+__crc_led_sysfs_disable = 0x1b7bc19d;
+__crc_led_sysfs_enable = 0x33f6ee9b;
+__crc_led_compose_name = 0x60cedad7;
+__crc_led_init_default_state_get = 0xb3acb235;

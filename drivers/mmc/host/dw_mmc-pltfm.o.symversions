@@ -1,0 +1,3 @@
+__crc_dw_mci_pltfm_register = 0xd9509d01;
+__crc_dw_mci_pltfm_pmops = 0x3212765e;
+__crc_dw_mci_pltfm_remove = 0x96ddefed;

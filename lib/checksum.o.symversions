@@ -1,0 +1,3 @@
+__crc_csum_partial = 0xe113bbbc;
+__crc_ip_compute_csum = 0x20eadeb6;
+__crc_csum_tcpudp_nofold = 0xd25bc5d4;

@@ -1,0 +1,5 @@
+__crc_blk_rq_append_bio = 0x2952badd;
+__crc_blk_rq_map_user_iov = 0xd3ebef31;
+__crc_blk_rq_map_user = 0xa683f1f8;
+__crc_blk_rq_unmap_user = 0xbafd6e53;
+__crc_blk_rq_map_kern = 0xfe55d25e;

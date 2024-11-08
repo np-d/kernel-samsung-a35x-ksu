@@ -1,0 +1,14 @@
+__crc_cp_mbox_register_handler = 0x0fdbad3d;
+__crc_cp_mbox_unregister_handler = 0xa08bef89;
+__crc_cp_mbox_enable_handler = 0x67018f40;
+__crc_cp_mbox_disable_handler = 0x6e6d6c27;
+__crc_cp_mbox_check_handler = 0x6e7d3d0b;
+__crc_cp_mbox_set_interrupt = 0xd3608e62;
+__crc_cp_mbox_get_sr = 0x14012433;
+__crc_cp_mbox_extract_sr = 0xef82726d;
+__crc_cp_mbox_set_sr = 0xbf77eba7;
+__crc_cp_mbox_update_sr = 0x7a60309d;
+__crc_cp_mbox_dump_sr = 0x73ce4b76;
+__crc_cp_mbox_reset = 0xc7a4067e;
+__crc_cp_mbox_get_affinity = 0x764d40b6;
+__crc_cp_mbox_set_affinity = 0xf11c679e;

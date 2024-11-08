@@ -1,0 +1,2 @@
+arch/arm64/boot/dts/qcom/.sm8150-microsoft-surface-duo.dtb.dts.tmp: \
+  arch/arm64/boot/dts/qcom/sm8150-microsoft-surface-duo.dts

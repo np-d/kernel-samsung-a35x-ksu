@@ -1,0 +1,8 @@
+__crc_exynos_panel_find_panel_mode = 0x955c6bef;
+__crc_exynos_panel_mode_create = 0xe40c6828;
+__crc_exynos_panel_mode_destroy = 0x715e14cf;
+__crc_exynos_panel_desc_create = 0x543eead7;
+__crc_exynos_panel_desc_destroy = 0xd82ba456;
+__crc_exynos_panel_desc_create_from_panel_display_modes = 0xe9e9c18b;
+__crc_exynos_panel_desc_fill_rcd_info = 0xb52485ff;
+__crc_exynos_panel_desc_find_rcd_info = 0xbb71e754;

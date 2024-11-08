@@ -1,0 +1,4 @@
+__crc_pstore_type_to_name = 0xa5d7c388;
+__crc_pstore_name_to_type = 0x7e5db80b;
+__crc_pstore_register = 0xc16c2411;
+__crc_pstore_unregister = 0x26d459cf;

@@ -1,0 +1,3 @@
+__crc_vbus_notifier_register = 0xd9362e5f;
+__crc_vbus_notifier_unregister = 0xa1e8e8ba;
+__crc_vbus_notifier_handle = 0xe546a547;

@@ -1,0 +1,10 @@
+__class_create
+__this_module
+__ubsan_handle_cfi_check_fail_abort
+_printk
+arm64_const_caps_ready
+class_find_device
+cpu_hwcap_keys
+device_create
+device_destroy
+sysfs_streq

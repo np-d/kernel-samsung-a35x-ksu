@@ -1,0 +1,15 @@
+__crc_cpuidle_pause_and_lock = 0xf553318d;
+__crc_cpuidle_resume_and_unlock = 0xcabe04de;
+__crc_cpuidle_enable_device = 0x54f2f756;
+__crc_cpuidle_disable_device = 0xc7a1acac;
+__crc_cpuidle_register_device = 0x95430e04;
+__crc_cpuidle_unregister_device = 0x3bb7f399;
+__crc_cpuidle_unregister = 0xf00a8c3c;
+__crc_cpuidle_register = 0x8481c9c3;
+__crc_cpuidle_register_driver = 0x26e68f9d;
+__crc_cpuidle_unregister_driver = 0xf195bea5;
+__crc_cpuidle_get_driver = 0x9664edf9;
+__crc_cpuidle_get_cpu_driver = 0x4e2b1d0f;
+__crc_cpuidle_driver_state_disabled = 0x8d52a114;
+__crc_cpuidle_register_governor = 0xdbe9bf60;
+__crc_cpuidle_governor_latency_req = 0xc319717f;

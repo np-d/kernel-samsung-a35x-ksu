@@ -1,0 +1,3 @@
+__crc_failure_tracking = 0x23f6655a;
+__crc___page_pinner_failure_detect = 0x9a5ac793;
+__crc___page_pinner_put_page = 0xe21cdd6c;

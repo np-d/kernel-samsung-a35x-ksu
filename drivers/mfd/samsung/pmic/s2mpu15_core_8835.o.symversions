@@ -1,0 +1,5 @@
+__crc_s2mpu15_read_reg = 0x86e6386f;
+__crc_s2mpu15_bulk_read = 0xaab28310;
+__crc_s2mpu15_write_reg = 0xec06d369;
+__crc_s2mpu15_bulk_write = 0x3e916ee5;
+__crc_s2mpu15_update_reg = 0x26e4edde;

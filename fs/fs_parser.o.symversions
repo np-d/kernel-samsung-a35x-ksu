@@ -1,0 +1,13 @@
+__crc_lookup_constant = 0x86d52ba5;
+__crc___fs_parse = 0x85fc370d;
+__crc_fs_lookup_param = 0x76da8fff;
+__crc_fs_param_is_bool = 0xa2200362;
+__crc_fs_param_is_u32 = 0x900ff675;
+__crc_fs_param_is_s32 = 0xb564a9a9;
+__crc_fs_param_is_u64 = 0xc09e9318;
+__crc_fs_param_is_enum = 0xa016aff0;
+__crc_fs_param_is_string = 0xe3db5301;
+__crc_fs_param_is_blob = 0x2e168102;
+__crc_fs_param_is_fd = 0xa7a233fb;
+__crc_fs_param_is_blockdev = 0xf7d8f3e2;
+__crc_fs_param_is_path = 0x2cc03926;

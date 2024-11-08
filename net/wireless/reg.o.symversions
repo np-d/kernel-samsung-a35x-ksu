@@ -1,0 +1,9 @@
+__crc_get_wiphy_regdom = 0xb0d46153;
+__crc_reg_query_regdb_wmm = 0x1ce2497f;
+__crc_freq_reg_info = 0x079c19c3;
+__crc_reg_initiator_name = 0xdba126c1;
+__crc_wiphy_apply_custom_regulatory = 0xe7d4d1e4;
+__crc_regulatory_hint = 0x5ef4941f;
+__crc_regulatory_set_wiphy_regd = 0x027a34d8;
+__crc_regulatory_set_wiphy_regd_sync = 0xb7f3691c;
+__crc_regulatory_pre_cac_allowed = 0xe0895e71;

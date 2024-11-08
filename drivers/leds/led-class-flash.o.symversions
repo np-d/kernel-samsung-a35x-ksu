@@ -1,0 +1,8 @@
+__crc_led_classdev_flash_register_ext = 0xadd47cec;
+__crc_led_classdev_flash_unregister = 0xfdcfa2f2;
+__crc_devm_led_classdev_flash_register_ext = 0xa223468c;
+__crc_devm_led_classdev_flash_unregister = 0xeb6c2853;
+__crc_led_set_flash_timeout = 0xb645f0b3;
+__crc_led_get_flash_fault = 0x06c0fdbc;
+__crc_led_set_flash_brightness = 0xc89d6353;
+__crc_led_update_flash_brightness = 0x9cabccc2;

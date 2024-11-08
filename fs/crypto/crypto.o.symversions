@@ -1,0 +1,6 @@
+__crc_fscrypt_enqueue_decrypt_work = 0x09ae36a6;
+__crc_fscrypt_free_bounce_page = 0x2998ff19;
+__crc_fscrypt_encrypt_pagecache_blocks = 0x343fc264;
+__crc_fscrypt_encrypt_block_inplace = 0x8381168f;
+__crc_fscrypt_decrypt_pagecache_blocks = 0xe7546cbc;
+__crc_fscrypt_decrypt_block_inplace = 0xa999080c;

@@ -1,0 +1,6 @@
+__crc_qcom_smem_state_update_bits = 0xf730fb4a;
+__crc_qcom_smem_state_get = 0x50d67d4c;
+__crc_qcom_smem_state_put = 0x54a25da2;
+__crc_devm_qcom_smem_state_get = 0xa7138795;
+__crc_qcom_smem_state_register = 0xf40080db;
+__crc_qcom_smem_state_unregister = 0x4561f990;

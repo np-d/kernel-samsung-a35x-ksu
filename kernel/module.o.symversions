@@ -1,0 +1,16 @@
+__crc_is_module_sig_enforced = 0xd6fde043;
+__crc_register_module_notifier = 0xf353a698;
+__crc_unregister_module_notifier = 0x6a5ecb18;
+__crc___module_put_and_exit = 0x640a64b6;
+__crc___tracepoint_module_get = 0xe8b5c3c3;
+__crc___traceiter_module_get = 0x898a9ef1;
+__crc___SCK__tp_func_module_get = 0x739fd00f;
+__crc_module_refcount = 0x9b4bc5ca;
+__crc___symbol_put = 0x6e9dd606;
+__crc_symbol_put_addr = 0x66d87d38;
+__crc___module_get = 0x2176ae6f;
+__crc_try_module_get = 0x55b19677;
+__crc_module_put = 0xc239ea43;
+__crc___symbol_get = 0x868784cb;
+__crc_android_debug_for_each_module = 0x1840ff6f;
+__crc_module_layout = 0x0222dd63;

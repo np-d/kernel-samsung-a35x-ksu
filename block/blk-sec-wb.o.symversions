@@ -1,0 +1,3 @@
+__crc_blk_sec_wb_ctrl = 0x7d14e747;
+__crc_blk_sec_wb_ctrl_async = 0x6cb73fe8;
+__crc_blk_sec_wb_is_supported = 0xfc9d0a60;

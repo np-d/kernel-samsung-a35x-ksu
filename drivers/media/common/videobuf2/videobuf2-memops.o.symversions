@@ -1,0 +1,3 @@
+__crc_vb2_create_framevec = 0xa21fa765;
+__crc_vb2_destroy_framevec = 0xccd197c7;
+__crc_vb2_common_vm_ops = 0xb74b3c21;

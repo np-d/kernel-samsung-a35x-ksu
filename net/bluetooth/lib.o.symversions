@@ -1,0 +1,7 @@
+__crc_baswap = 0x7b5ce5c3;
+__crc_bt_to_errno = 0x7aad008b;
+__crc_bt_info = 0x0718b8b7;
+__crc_bt_warn = 0x214e4265;
+__crc_bt_err = 0x7b8c32f1;
+__crc_bt_warn_ratelimited = 0xddacccf6;
+__crc_bt_err_ratelimited = 0xd7613212;

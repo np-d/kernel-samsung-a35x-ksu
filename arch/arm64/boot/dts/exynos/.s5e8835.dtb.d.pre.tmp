@@ -1,0 +1,2 @@
+arch/arm64/boot/dts/exynos/.s5e8835.dtb.dts.tmp: \
+  arch/arm64/boot/dts/exynos/s5e8835.dts

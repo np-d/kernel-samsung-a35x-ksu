@@ -1,0 +1,6 @@
+__crc_sysctl_vals = 0xc8827b75;
+__crc_sysctl_vals_new = 0xfb025849;
+__crc_register_sysctl = 0x9cd91791;
+__crc_register_sysctl_paths = 0x23cabbb1;
+__crc_register_sysctl_table = 0x6a449c4f;
+__crc_unregister_sysctl_table = 0xd691c6a9;

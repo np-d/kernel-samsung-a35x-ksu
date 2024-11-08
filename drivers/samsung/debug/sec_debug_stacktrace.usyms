@@ -1,0 +1,8 @@
+__stack_chk_fail
+__ubsan_handle_cfi_check_fail_abort
+_printk
+arm64_const_caps_ready
+cpu_hwcap_keys
+memset
+stack_trace_save
+stack_trace_save_tsk

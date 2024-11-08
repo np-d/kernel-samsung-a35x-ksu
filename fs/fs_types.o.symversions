@@ -1,0 +1,3 @@
+__crc_fs_ftype_to_dtype = 0xc3805cd1;
+__crc_fs_umode_to_ftype = 0x84264ced;
+__crc_fs_umode_to_dtype = 0x8f786bee;

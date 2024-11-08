@@ -1,0 +1,3 @@
+__crc___memcpy_fromio = 0x5d112304;
+__crc___memcpy_toio = 0xf77555cd;
+__crc___memset_io = 0x18b48e28;

@@ -1,0 +1,3 @@
+__crc_TEEC_RegisterSharedMemory = 0xf6148844;
+__crc_TEEC_AllocateSharedMemory = 0xa48280ed;
+__crc_TEEC_ReleaseSharedMemory = 0x82eea5e4;

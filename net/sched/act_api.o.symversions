@@ -1,0 +1,17 @@
+__crc_tcf_frag_xmit_count = 0x22d60537;
+__crc_tcf_dev_queue_xmit = 0x53da63d7;
+__crc_tcf_action_check_ctrlact = 0x5397e081;
+__crc_tcf_action_set_ctrlact = 0x19ed03ab;
+__crc_tcf_idr_release = 0x8af4cef8;
+__crc_tcf_generic_walker = 0x153d9bec;
+__crc_tcf_idr_search = 0x314668be;
+__crc_tcf_idr_create = 0x8011e977;
+__crc_tcf_idr_create_from_flags = 0x65e93c8f;
+__crc_tcf_idr_cleanup = 0x51bfa8d6;
+__crc_tcf_idr_check_alloc = 0xdb8c185a;
+__crc_tcf_idrinfo_destroy = 0xdccf0249;
+__crc_tcf_register_action = 0xd2f4281f;
+__crc_tcf_unregister_action = 0xa7c13d62;
+__crc_tcf_action_exec = 0x6c1c1a98;
+__crc_tcf_action_dump_1 = 0xdd3190aa;
+__crc_tcf_action_update_stats = 0x43426020;

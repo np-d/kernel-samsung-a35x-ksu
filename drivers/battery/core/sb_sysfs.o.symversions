@@ -1,0 +1,4 @@
+__crc_sb_sysfs_add_attrs = 0xc6934a74;
+__crc_sb_sysfs_remove_attrs = 0x9f7068da;
+__crc_sb_sysfs_get_pdata = 0x89c322d1;
+__crc_sb_sysfs_create_attrs = 0x1d1242f3;

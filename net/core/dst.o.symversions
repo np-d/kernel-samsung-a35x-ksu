@@ -1,0 +1,17 @@
+__crc_dst_discard_out = 0xfd65c51f;
+__crc_dst_default_metrics = 0xccfb9e07;
+__crc_dst_init = 0x00a4f1c2;
+__crc_dst_alloc = 0x1bb42d7e;
+__crc_dst_destroy = 0xdc418bf0;
+__crc_dst_dev_put = 0xfe161906;
+__crc_dst_release = 0xea7dbe01;
+__crc_dst_release_immediate = 0x7644869f;
+__crc_dst_cow_metrics_generic = 0xd3b957a9;
+__crc___dst_destroy_metrics_generic = 0x97832e9d;
+__crc_dst_blackhole_update_pmtu = 0xa55a3a7a;
+__crc_dst_blackhole_redirect = 0x33ab1232;
+__crc_dst_blackhole_mtu = 0xaa83dd0d;
+__crc_metadata_dst_alloc = 0xf8c32750;
+__crc_metadata_dst_free = 0x93e85147;
+__crc_metadata_dst_alloc_percpu = 0x914fb28a;
+__crc_metadata_dst_free_percpu = 0x98e4d1bc;

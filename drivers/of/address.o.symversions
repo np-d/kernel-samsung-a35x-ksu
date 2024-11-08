@@ -1,0 +1,12 @@
+__crc_of_pci_address_to_resource = 0xcd055352;
+__crc_of_pci_range_to_resource = 0x6807d714;
+__crc_of_translate_address = 0x27396b85;
+__crc_of_translate_dma_address = 0x9c66e446;
+__crc___of_get_address = 0x9e7064e0;
+__crc_of_pci_range_parser_init = 0xf0a25ae9;
+__crc_of_pci_dma_range_parser_init = 0x77172fe2;
+__crc_of_pci_range_parser_one = 0x5c3dbb96;
+__crc_of_address_to_resource = 0x761b06be;
+__crc_of_iomap = 0xe85b2278;
+__crc_of_io_request_and_map = 0x94870890;
+__crc_of_dma_is_coherent = 0xe236fef1;

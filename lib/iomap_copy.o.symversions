@@ -1,0 +1,3 @@
+__crc___iowrite32_copy = 0x2dba276a;
+__crc___ioread32_copy = 0x3801776b;
+__crc___iowrite64_copy = 0x73c2554f;

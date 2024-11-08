@@ -1,0 +1,7 @@
+__crc_async_schedule_node_domain = 0xd21b61bd;
+__crc_async_schedule_node = 0xf5f370e0;
+__crc_async_synchronize_full = 0xa5efbf4c;
+__crc_async_synchronize_full_domain = 0x6ca4bf88;
+__crc_async_synchronize_cookie_domain = 0x286cc647;
+__crc_async_synchronize_cookie = 0x7a81541b;
+__crc_current_is_async = 0x29eba37f;

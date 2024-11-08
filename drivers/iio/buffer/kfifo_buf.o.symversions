@@ -1,0 +1,3 @@
+__crc_iio_kfifo_allocate = 0x79fbf1f2;
+__crc_iio_kfifo_free = 0x3213177d;
+__crc_devm_iio_kfifo_buffer_setup_ext = 0x95ec2851;

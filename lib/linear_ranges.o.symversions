@@ -1,0 +1,9 @@
+__crc_linear_range_values_in_range = 0xf5a3ba99;
+__crc_linear_range_values_in_range_array = 0x862bb17b;
+__crc_linear_range_get_max_value = 0xd5301b2c;
+__crc_linear_range_get_value = 0xd4e6d7e0;
+__crc_linear_range_get_value_array = 0x932c8d7a;
+__crc_linear_range_get_selector_low = 0x8a3f84ba;
+__crc_linear_range_get_selector_low_array = 0xc5777fca;
+__crc_linear_range_get_selector_high = 0x69ee2220;
+__crc_linear_range_get_selector_within = 0xc6e5bcf3;

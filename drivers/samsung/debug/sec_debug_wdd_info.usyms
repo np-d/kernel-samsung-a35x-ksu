@@ -1,0 +1,8 @@
+__ubsan_handle_cfi_check_fail_abort
+_printk
+cpu_number
+ktime_get_real_seconds
+rtc_time64_to_tm
+sched_clock
+secdbg_base_get_wdd_info
+secdbg_wdd_register_ping_notifier

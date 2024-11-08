@@ -1,0 +1,6 @@
+__crc_can_put_echo_skb = 0x72bb96a0;
+__crc_can_get_echo_skb = 0x04bae537;
+__crc_can_free_echo_skb = 0x782af768;
+__crc_alloc_can_skb = 0x93ad9361;
+__crc_alloc_canfd_skb = 0xdbec8865;
+__crc_alloc_can_err_skb = 0x84eccf0d;

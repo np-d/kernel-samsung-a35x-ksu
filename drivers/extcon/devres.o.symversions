@@ -1,0 +1,8 @@
+__crc_devm_extcon_dev_allocate = 0x5f6196f6;
+__crc_devm_extcon_dev_free = 0x0afd3763;
+__crc_devm_extcon_dev_register = 0x2cca347f;
+__crc_devm_extcon_dev_unregister = 0x74c523a5;
+__crc_devm_extcon_register_notifier = 0xe7a7ced9;
+__crc_devm_extcon_unregister_notifier = 0x5b5465de;
+__crc_devm_extcon_register_notifier_all = 0xe1d01646;
+__crc_devm_extcon_unregister_notifier_all = 0xc3855926;

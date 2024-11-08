@@ -1,0 +1,15 @@
+__crc_drm_gem_plane_helper_prepare_fb = 0x682ad9d9;
+__crc_drm_gem_simple_display_pipe_prepare_fb = 0x1eb70841;
+__crc___drm_gem_duplicate_shadow_plane_state = 0x5526afef;
+__crc_drm_gem_duplicate_shadow_plane_state = 0xd03a5d11;
+__crc___drm_gem_destroy_shadow_plane_state = 0x7313df0d;
+__crc_drm_gem_destroy_shadow_plane_state = 0xaeb9c57d;
+__crc___drm_gem_reset_shadow_plane = 0x1505b14d;
+__crc_drm_gem_reset_shadow_plane = 0x1f9f014d;
+__crc_drm_gem_prepare_shadow_fb = 0x569ad14b;
+__crc_drm_gem_cleanup_shadow_fb = 0x53b5f541;
+__crc_drm_gem_simple_kms_prepare_shadow_fb = 0x1ef3721c;
+__crc_drm_gem_simple_kms_cleanup_shadow_fb = 0xa975b50b;
+__crc_drm_gem_simple_kms_reset_shadow_plane = 0x48c6ad21;
+__crc_drm_gem_simple_kms_duplicate_shadow_plane_state = 0x514dc639;
+__crc_drm_gem_simple_kms_destroy_shadow_plane_state = 0x1ce2a069;

@@ -1,0 +1,9 @@
+__crc_tracepoint_srcu = 0xbf6c7e43;
+__crc_tracepoint_probe_register_prio_may_exist = 0x8ffe792f;
+__crc_tracepoint_probe_register_prio = 0x9b70c6ff;
+__crc_tracepoint_probe_register = 0x95e102ab;
+__crc_tracepoint_probe_unregister = 0xdbeeece6;
+__crc_register_tracepoint_module_notifier = 0xefa2c27d;
+__crc_unregister_tracepoint_module_notifier = 0x7dda30af;
+__crc_for_each_kernel_tracepoint = 0x058c6377;
+__crc_android_rvh_probe_register = 0x7fbbd0bb;

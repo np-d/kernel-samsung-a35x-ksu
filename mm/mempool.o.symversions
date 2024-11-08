@@ -1,0 +1,15 @@
+__crc_mempool_exit = 0x38e46431;
+__crc_mempool_destroy = 0x9034a696;
+__crc_mempool_init_node = 0x4bcc2662;
+__crc_mempool_init = 0x15c85de3;
+__crc_mempool_create = 0x1953c958;
+__crc_mempool_create_node = 0x9c122bcf;
+__crc_mempool_resize = 0x2aa0843e;
+__crc_mempool_alloc = 0xc3762aec;
+__crc_mempool_free = 0xa897e3e7;
+__crc_mempool_alloc_slab = 0xc972449f;
+__crc_mempool_free_slab = 0x8a99a016;
+__crc_mempool_kmalloc = 0xd35a6d31;
+__crc_mempool_kfree = 0x6a037cf1;
+__crc_mempool_alloc_pages = 0x766a0927;
+__crc_mempool_free_pages = 0xd985dc99;

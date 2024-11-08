@@ -1,0 +1,13 @@
+__crc_key_alloc = 0xd8153857;
+__crc_key_payload_reserve = 0x1b08b033;
+__crc_key_instantiate_and_link = 0x9d13864f;
+__crc_key_reject_and_link = 0xa2f3dd5f;
+__crc_key_put = 0x267f45e1;
+__crc_key_set_timeout = 0x307bc064;
+__crc_key_create_or_update = 0xfe1d2e94;
+__crc_key_update = 0x7984eefc;
+__crc_key_revoke = 0xeae3efbe;
+__crc_key_invalidate = 0x615cff5b;
+__crc_generic_key_instantiate = 0x87517341;
+__crc_register_key_type = 0xf1ed30b4;
+__crc_unregister_key_type = 0x819cd856;

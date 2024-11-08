@@ -1,0 +1,12 @@
+__crc_mxman_scan_dump_mode = 0xfcac5525;
+__crc_is_bug_on_enabled = 0xa7433f02;
+__crc_mxman_wifi_kobject_ref_get = 0x6395351e;
+__crc_mxman_wifi_kobject_ref_put = 0x3965c0c4;
+__crc_mxman_recovery_disabled = 0x656e91a1;
+__crc_mxman_get_fw_version = 0x13135a08;
+__crc_mxman_get_driver_version = 0x3f808496;
+__crc_mxman_register_firmware_notifier = 0x7b147c70;
+__crc_mxman_unregister_firmware_notifier = 0x057a8f71;
+__crc_mxman_fm_on_halt_ldos_on = 0xf85f2133;
+__crc_mxman_fm_on_halt_ldos_off = 0x4319fd90;
+__crc_mxman_fm_set_params = 0xc466d832;

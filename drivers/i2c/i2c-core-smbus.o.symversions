@@ -1,0 +1,15 @@
+__crc_i2c_smbus_pec = 0xfa2e5f32;
+__crc_i2c_smbus_read_byte = 0xfc10873e;
+__crc_i2c_smbus_write_byte = 0xa028bfd1;
+__crc_i2c_smbus_read_byte_data = 0xa1d780f3;
+__crc_i2c_smbus_write_byte_data = 0xafc088af;
+__crc_i2c_smbus_read_word_data = 0x1bef8bcb;
+__crc_i2c_smbus_write_word_data = 0x6b744419;
+__crc_i2c_smbus_read_block_data = 0xec1bc6df;
+__crc_i2c_smbus_write_block_data = 0x09cb9a46;
+__crc_i2c_smbus_read_i2c_block_data = 0x0ecadd3b;
+__crc_i2c_smbus_write_i2c_block_data = 0xa0f16db8;
+__crc_i2c_smbus_xfer = 0x2e7005f1;
+__crc___i2c_smbus_xfer = 0xd69ef2ec;
+__crc_i2c_smbus_read_i2c_block_data_or_emulated = 0x7489f5b3;
+__crc_i2c_new_smbus_alert_device = 0xea173afa;

@@ -1,0 +1,4 @@
+__crc_usb_hcd_pci_probe = 0x00d2d2bc;
+__crc_usb_hcd_pci_remove = 0xa550ea5a;
+__crc_usb_hcd_pci_shutdown = 0x5dee44f8;
+__crc_usb_hcd_pci_pm_ops = 0x47c15291;

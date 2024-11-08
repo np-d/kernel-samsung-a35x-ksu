@@ -1,0 +1,8 @@
+__crc_driver_deferred_probe_timeout = 0x39a7affc;
+__crc_driver_deferred_probe_check_state = 0xa328ff78;
+__crc_device_bind_driver = 0x47efa57d;
+__crc_wait_for_device_probe = 0x4484a5a4;
+__crc_device_attach = 0xde34e079;
+__crc_device_driver_attach = 0xddf1358d;
+__crc_driver_attach = 0xda18d024;
+__crc_device_release_driver = 0xb4529bfd;

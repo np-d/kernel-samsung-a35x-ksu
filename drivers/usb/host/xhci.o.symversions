@@ -1,0 +1,12 @@
+__crc_xhci_run = 0xbfa0be83;
+__crc_xhci_shutdown = 0x8f51e920;
+__crc_xhci_suspend = 0x2f897687;
+__crc_xhci_resume = 0x3bae714c;
+__crc_xhci_get_endpoint_index = 0x57d4050a;
+__crc_xhci_drop_endpoint = 0x07dd96c6;
+__crc_xhci_add_endpoint = 0x40261ae0;
+__crc_xhci_check_bandwidth = 0x21f0caf8;
+__crc_xhci_reset_bandwidth = 0xe4b13229;
+__crc_xhci_address_device = 0x6027b3d5;
+__crc_xhci_gen_setup = 0xcd3e4d29;
+__crc_xhci_init_driver = 0xf343e476;

@@ -1,0 +1,8 @@
+__crc_lockref_get = 0xd9b85ef6;
+__crc_lockref_get_not_zero = 0x3ad5cda3;
+__crc_lockref_put_not_zero = 0x0f37ca89;
+__crc_lockref_get_or_lock = 0x3100cff9;
+__crc_lockref_put_return = 0xb0c5e247;
+__crc_lockref_put_or_lock = 0x66af1fd1;
+__crc_lockref_mark_dead = 0x5ff9eb0e;
+__crc_lockref_get_not_dead = 0xff87cd18;

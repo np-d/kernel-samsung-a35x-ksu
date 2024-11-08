@@ -1,0 +1,16 @@
+__this_module
+__ubsan_handle_cfi_check_fail_abort
+_printk
+id_get_asb_ver
+id_get_product_line
+param_ops_charp
+sec_device_create
+secdbg_exin_get_extra_info_A
+secdbg_exin_get_extra_info_B
+secdbg_exin_get_extra_info_C
+secdbg_exin_get_extra_info_F
+secdbg_exin_get_extra_info_M
+secdbg_exin_get_extra_info_T
+secdbg_exin_set_hwid
+strlen
+sysfs_create_group

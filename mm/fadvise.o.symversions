@@ -1,0 +1,2 @@
+__crc_generic_fadvise = 0x64d22207;
+__crc_vfs_fadvise = 0xe071b4a6;

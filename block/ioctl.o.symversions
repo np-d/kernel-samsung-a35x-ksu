@@ -1,0 +1,2 @@
+__crc_blkdev_compat_ptr_ioctl = 0x08520bda;
+__crc_blkdev_ioctl = 0x38a1a83c;

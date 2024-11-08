@@ -1,0 +1,8 @@
+__crc_disp_pow = 0x5aaad3fa;
+__crc_disp_div64 = 0x83c2d2f1;
+__crc_disp_interpolation64 = 0x44af97c8;
+__crc_gamma_table_interpolation_round = 0x533ea96e;
+__crc_get_dimming_gamma = 0x0ba85e53;
+__crc_init_dimming_info = 0x3f51f3f7;
+__crc_init_dimming_mtp = 0x00f3a164;
+__crc_process_dimming = 0xc7b7c298;

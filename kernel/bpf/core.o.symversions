@@ -1,0 +1,12 @@
+__crc_bpf_prog_alloc = 0x1852511e;
+__crc___bpf_call_base = 0xc9827693;
+__crc_bpf_prog_select_runtime = 0x8e678967;
+__crc_bpf_prog_free = 0x4fac5da6;
+__crc_bpf_event_output = 0x1d5d4acc;
+__crc_bpf_stats_enabled_key = 0xf84bd6ee;
+__crc___tracepoint_xdp_exception = 0x8b7a698b;
+__crc___traceiter_xdp_exception = 0xa43592f6;
+__crc___SCK__tp_func_xdp_exception = 0xa99b8e70;
+__crc___tracepoint_xdp_bulk_tx = 0xbd5704ec;
+__crc___traceiter_xdp_bulk_tx = 0x4b762c6f;
+__crc___SCK__tp_func_xdp_bulk_tx = 0x2f1ea064;

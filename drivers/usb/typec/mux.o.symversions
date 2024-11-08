@@ -1,0 +1,14 @@
+__crc_fwnode_typec_switch_get = 0x0af9edc8;
+__crc_typec_switch_put = 0x60d4dcbb;
+__crc_typec_switch_register = 0x75e2c948;
+__crc_typec_switch_set = 0x9bcf9842;
+__crc_typec_switch_unregister = 0xcc26379c;
+__crc_typec_switch_set_drvdata = 0x11833c9d;
+__crc_typec_switch_get_drvdata = 0xe41cb506;
+__crc_fwnode_typec_mux_get = 0x48f9a5da;
+__crc_typec_mux_put = 0xeef82f0e;
+__crc_typec_mux_set = 0x2c352458;
+__crc_typec_mux_register = 0x5212dd4a;
+__crc_typec_mux_unregister = 0x3c4a1d07;
+__crc_typec_mux_set_drvdata = 0xd029b76d;
+__crc_typec_mux_get_drvdata = 0xfea0a8ca;

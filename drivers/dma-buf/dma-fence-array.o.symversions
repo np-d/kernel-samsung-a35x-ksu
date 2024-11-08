@@ -1,0 +1,3 @@
+__crc_dma_fence_array_ops = 0xe03a689d;
+__crc_dma_fence_array_create = 0x7ab45d25;
+__crc_dma_fence_match_context = 0xacaa4c72;

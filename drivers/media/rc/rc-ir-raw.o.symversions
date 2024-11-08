@@ -1,0 +1,13 @@
+__crc_ir_raw_event_store = 0xfcf29c34;
+__crc_ir_raw_event_store_edge = 0x2021164d;
+__crc_ir_raw_event_store_with_timeout = 0x635a9400;
+__crc_ir_raw_event_store_with_filter = 0x38ca3cd8;
+__crc_ir_raw_event_set_idle = 0x6adbe627;
+__crc_ir_raw_event_handle = 0xca089568;
+__crc_ir_raw_gen_manchester = 0x7cf52901;
+__crc_ir_raw_gen_pd = 0x9e12e343;
+__crc_ir_raw_gen_pl = 0x2ad91f6e;
+__crc_ir_raw_encode_scancode = 0xf446074f;
+__crc_ir_raw_encode_carrier = 0xb5516017;
+__crc_ir_raw_handler_register = 0x05948cca;
+__crc_ir_raw_handler_unregister = 0x5055bce2;

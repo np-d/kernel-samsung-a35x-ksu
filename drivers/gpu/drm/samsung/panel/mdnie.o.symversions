@@ -1,0 +1,6 @@
+__crc_mdnie_get_sequence_name = 0xbc6f9863;
+__crc_mdnie_set_def_wrgb = 0x780e541f;
+__crc_mdnie_set_cur_wrgb = 0x7538c8f4;
+__crc_mdnie_cur_wrgb_to_byte_array = 0x6cfb4137;
+__crc_mdnie_get_anti_glare_ratio = 0xafed079d;
+__crc_mdnie_update_wrgb = 0xbd62e539;

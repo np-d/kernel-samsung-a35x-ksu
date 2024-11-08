@@ -1,0 +1,2 @@
+arch/arm64/boot/dts/qcom/.msm8916-samsung-a3u-eur.dtb.dts.tmp: \
+  arch/arm64/boot/dts/qcom/msm8916-samsung-a3u-eur.dts

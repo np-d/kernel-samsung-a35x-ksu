@@ -1,0 +1,4 @@
+__crc_ieee802154_alloc_hw = 0x69d2d1b0;
+__crc_ieee802154_free_hw = 0x02642d4d;
+__crc_ieee802154_register_hw = 0x76ac76d6;
+__crc_ieee802154_unregister_hw = 0x3db59fba;

@@ -1,0 +1,15 @@
+__crc_frame_fcount = 0xf36a4834;
+__crc_put_frame = 0x746697d3;
+__crc_get_frame = 0x58ae6fc5;
+__crc_trans_frame = 0xa31a7ea5;
+__crc_peek_frame = 0xcb9e9417;
+__crc_peek_frame_tail = 0xa0bdb80b;
+__crc_find_frame = 0x0f015e44;
+__crc_print_frame_queue = 0xc959fac3;
+__crc_frame_manager_probe = 0xad0188ae;
+__crc_frame_manager_open = 0x9b84d30e;
+__crc_frame_manager_close = 0x1ab40f53;
+__crc_frame_manager_flush = 0xb9e13f17;
+__crc_frame_manager_print_queues = 0x8071f9a1;
+__crc_frame_manager_dump_queues = 0x3c841362;
+__crc_frame_manager_print_info_queues = 0xbbb0be65;

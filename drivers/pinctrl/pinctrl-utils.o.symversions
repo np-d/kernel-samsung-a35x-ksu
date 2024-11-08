@@ -1,0 +1,5 @@
+__crc_pinctrl_utils_reserve_map = 0x52044999;
+__crc_pinctrl_utils_add_map_mux = 0x764f11c1;
+__crc_pinctrl_utils_add_map_configs = 0xe4df466d;
+__crc_pinctrl_utils_add_config = 0x219b9c6e;
+__crc_pinctrl_utils_free_map = 0xe8d58dc1;

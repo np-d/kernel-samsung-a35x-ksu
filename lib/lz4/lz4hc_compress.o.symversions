@@ -1,0 +1,4 @@
+__crc_LZ4_compress_HC = 0xddf86133;
+__crc_LZ4_loadDictHC = 0x93ff008c;
+__crc_LZ4_compress_HC_continue = 0x38f7b6e0;
+__crc_LZ4_saveDictHC = 0x9cef495b;

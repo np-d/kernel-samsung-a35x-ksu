@@ -1,0 +1,16 @@
+__crc_log_write_mmio = 0xb03b751c;
+__crc___tracepoint_rwmmio_write = 0x95575c33;
+__crc___traceiter_rwmmio_write = 0x729023fd;
+__crc___SCK__tp_func_rwmmio_write = 0x76a61e85;
+__crc_log_post_write_mmio = 0x82bdaa44;
+__crc___tracepoint_rwmmio_post_write = 0xae80a2dc;
+__crc___traceiter_rwmmio_post_write = 0x93e0083a;
+__crc___SCK__tp_func_rwmmio_post_write = 0xc14f7616;
+__crc_log_read_mmio = 0x630c7ed8;
+__crc___tracepoint_rwmmio_read = 0xa035d76e;
+__crc___traceiter_rwmmio_read = 0x42dea6f7;
+__crc___SCK__tp_func_rwmmio_read = 0x327c73e6;
+__crc_log_post_read_mmio = 0x461806e7;
+__crc___tracepoint_rwmmio_post_read = 0x19ebf04e;
+__crc___traceiter_rwmmio_post_read = 0xc7257c10;
+__crc___SCK__tp_func_rwmmio_post_read = 0x6648db98;

@@ -1,0 +1,16 @@
+__crc_usb_serial_generic_open = 0x88c2b2e9;
+__crc_usb_serial_generic_close = 0xb4662adf;
+__crc_usb_serial_generic_write_start = 0xb7a7e9ef;
+__crc_usb_serial_generic_write = 0x649a69dc;
+__crc_usb_serial_generic_chars_in_buffer = 0x875191ad;
+__crc_usb_serial_generic_wait_until_sent = 0x4befaf08;
+__crc_usb_serial_generic_submit_read_urbs = 0x32657899;
+__crc_usb_serial_generic_process_read_urb = 0x5b41d7d0;
+__crc_usb_serial_generic_read_bulk_callback = 0xa987a6f5;
+__crc_usb_serial_generic_write_bulk_callback = 0x6993fe47;
+__crc_usb_serial_generic_throttle = 0x65cbf00a;
+__crc_usb_serial_generic_unthrottle = 0x64433f4d;
+__crc_usb_serial_generic_tiocmiwait = 0x186e9bc4;
+__crc_usb_serial_generic_get_icount = 0x46252501;
+__crc_usb_serial_handle_dcd_change = 0x24c81c95;
+__crc_usb_serial_generic_resume = 0x12951aad;

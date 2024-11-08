@@ -1,0 +1,2 @@
+__crc_exynos_cs_stop_cpus = 0x17d54199;
+__crc_exynos_cs_stop_cpu = 0x6b9ce162;

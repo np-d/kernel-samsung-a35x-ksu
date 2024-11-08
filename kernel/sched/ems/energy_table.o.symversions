@@ -1,0 +1,3 @@
+__crc_et_freq_to_spower = 0x55af96c1;
+__crc_et_register_dsu_constraint = 0xcb28e5a7;
+__crc_et_init_dsu_table = 0x625ff7d1;

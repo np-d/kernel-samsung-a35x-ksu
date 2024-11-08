@@ -1,0 +1,6 @@
+__crc_pmic_read_pwrkey_status = 0xf6560645;
+__crc_pmic_read_vol_dn_key_status = 0xaf89a85a;
+__crc_main_pmic_read_reg = 0x7c73db2d;
+__crc_main_pmic_update_reg = 0x4fa128fc;
+__crc_main_pmic_get_i2c = 0xf035b564;
+__crc_main_pmic_init_debug_sysfs = 0x466aa764;

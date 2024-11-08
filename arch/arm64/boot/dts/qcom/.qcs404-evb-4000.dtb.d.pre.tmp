@@ -1,0 +1,2 @@
+arch/arm64/boot/dts/qcom/.qcs404-evb-4000.dtb.dts.tmp: \
+  arch/arm64/boot/dts/qcom/qcs404-evb-4000.dts

@@ -1,0 +1,7 @@
+__crc_drm_framebuffer_init = 0x41266544;
+__crc_drm_framebuffer_lookup = 0xd29fffb9;
+__crc_drm_framebuffer_unregister_private = 0x84d4abec;
+__crc_drm_framebuffer_cleanup = 0xa5b980b1;
+__crc_drm_framebuffer_remove = 0x60137b29;
+__crc_drm_framebuffer_plane_width = 0xc192dcae;
+__crc_drm_framebuffer_plane_height = 0x6513d557;

@@ -1,0 +1,4 @@
+__crc___sw_hweight32 = 0x74c134b9;
+__crc___sw_hweight16 = 0x57674fd7;
+__crc___sw_hweight8 = 0xdc3fcbc9;
+__crc___sw_hweight64 = 0x9f46ced8;

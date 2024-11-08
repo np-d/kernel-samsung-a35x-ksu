@@ -1,0 +1,6 @@
+__crc_input_ff_upload = 0x3abc9706;
+__crc_input_ff_erase = 0x4d073971;
+__crc_input_ff_flush = 0x0d8d563a;
+__crc_input_ff_event = 0xc1401f55;
+__crc_input_ff_create = 0xd8da26c5;
+__crc_input_ff_destroy = 0x56ae6c9e;

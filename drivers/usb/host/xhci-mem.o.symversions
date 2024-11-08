@@ -1,0 +1,11 @@
+__crc_xhci_segment_free = 0x6d223abb;
+__crc_xhci_link_segments = 0x9a727e20;
+__crc_xhci_remove_stream_mapping = 0xa9135ce8;
+__crc_xhci_ring_free = 0x0498e7db;
+__crc_xhci_ring_alloc = 0x067f8d49;
+__crc_xhci_get_ep_ctx = 0x0202c3e8;
+__crc_xhci_alloc_command = 0x405fb948;
+__crc_xhci_free_command = 0xc1cb2268;
+__crc_xhci_alloc_erst = 0xf9963727;
+__crc_xhci_free_erst = 0xb2fd34e2;
+__crc_xhci_check_trb_in_td_math = 0x486bb50b;

@@ -1,0 +1,8 @@
+__crc_ehci_handshake = 0x9cc60633;
+__crc_ehci_reset = 0x48b93ca6;
+__crc_ehci_adjust_port_wakeup_flags = 0x9846c213;
+__crc_ehci_hub_control = 0x9ebdf905;
+__crc_ehci_setup = 0xcdab307f;
+__crc_ehci_suspend = 0xb1a8b37c;
+__crc_ehci_resume = 0x4e1eba22;
+__crc_ehci_init_driver = 0x7825a9eb;

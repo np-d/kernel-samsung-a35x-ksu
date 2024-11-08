@@ -1,0 +1,13 @@
+___ratelimit
+__alloc_pages
+__free_pages
+__ubsan_handle_cfi_check_fail_abort
+_printk
+arm64_const_caps_ready
+cpif_memlog_log_enabled
+cpif_memlog_log_obj
+cpu_hwcap_keys
+kasan_flag_enabled
+kvfree
+kvmalloc_node
+memlog_write_printf

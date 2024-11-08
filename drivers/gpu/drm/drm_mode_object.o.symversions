@@ -1,0 +1,6 @@
+__crc_drm_mode_object_find = 0x94f476db;
+__crc_drm_mode_object_put = 0xe1fdd1de;
+__crc_drm_mode_object_get = 0xf6d4f458;
+__crc_drm_object_attach_property = 0x90561633;
+__crc_drm_object_property_set_value = 0xada7a281;
+__crc_drm_object_property_get_value = 0x57dc5ca2;

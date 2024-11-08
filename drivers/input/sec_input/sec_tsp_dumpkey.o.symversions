@@ -1,0 +1,4 @@
+__crc_sec_input_dumpkey_register = 0x5c01f7a4;
+__crc_sec_input_dumpkey_unregister = 0xcbe8fb81;
+__crc_sec_tsp_dumpkey_init = 0x388f4321;
+__crc_sec_tsp_dumpkey_exit = 0xf0d94b51;

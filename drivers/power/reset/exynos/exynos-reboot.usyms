@@ -1,0 +1,17 @@
+__cfi_slowpath_diag
+__platform_driver_register
+__stack_chk_fail
+__this_module
+__ubsan_handle_cfi_check_fail_abort
+_dev_err
+_dev_info
+_printk
+exynos_soc_info
+of_property_read_variable_u32_array
+platform_driver_unregister
+register_restart_handler
+regmap_read
+regmap_update_bits_base
+regmap_write
+strcmp
+syscon_regmap_lookup_by_phandle

@@ -1,0 +1,2 @@
+arch/arm64/boot/dts/qcom/.msm8998-oneplus-dumpling.dtb.dts.tmp: \
+  arch/arm64/boot/dts/qcom/msm8998-oneplus-dumpling.dts

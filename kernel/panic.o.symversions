@@ -1,0 +1,9 @@
+__crc_panic_timeout = 0x1f8544b8;
+__crc_panic_notifier_list = 0x07ceeac9;
+__crc_panic_blink = 0x63eb9355;
+__crc_nmi_panic = 0x585ae877;
+__crc_panic = 0xf1e046cc;
+__crc_test_taint = 0x651a4139;
+__crc_add_taint = 0x0eb6eb87;
+__crc___warn_printk = 0x56470118;
+__crc___stack_chk_fail = 0xc2c193d2;

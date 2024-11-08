@@ -1,0 +1,16 @@
+__crc___drm_debug = 0x4f18a150;
+__crc___drm_puts_coredump = 0x3b0e5e9c;
+__crc___drm_printfn_coredump = 0xea00fe81;
+__crc___drm_puts_seq_file = 0x513072fe;
+__crc___drm_printfn_seq_file = 0xfeb953b1;
+__crc___drm_printfn_info = 0xe317082a;
+__crc___drm_printfn_debug = 0xf824c7db;
+__crc___drm_printfn_err = 0x3f405489;
+__crc_drm_puts = 0x521ad6d0;
+__crc_drm_printf = 0x28779e52;
+__crc_drm_print_bits = 0x32a0cc37;
+__crc_drm_dev_printk = 0x92ff2d4b;
+__crc_drm_dev_dbg = 0xcee74e63;
+__crc___drm_dbg = 0xec12af74;
+__crc___drm_err = 0xb11ac7a7;
+__crc_drm_print_regset32 = 0x071a9983;

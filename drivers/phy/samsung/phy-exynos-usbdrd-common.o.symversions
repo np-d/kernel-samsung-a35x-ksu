@@ -1,0 +1,11 @@
+__crc_usb_user_scenario = 0x880397a1;
+__crc_xhci_exynos_pm_state = 0xe8c5bbb0;
+__crc_main_hcd_wakelock = 0x6f76b724;
+__crc_shared_hcd_wakelock = 0x3490cafe;
+__crc_usb_idle_ip_index = 0x23b31b6a;
+__crc_otg_connection = 0x6fab687a;
+__crc_is_otg_only = 0x2199f456;
+__crc_otg_is_connect = 0x93acb5ce;
+__crc_xhci_exynos_wake_lock = 0x56bb6fc0;
+__crc_exynos_usbdrd_phy_set_common = 0xb1190b53;
+__crc_get_exynos_abox_device = 0x95d52582;

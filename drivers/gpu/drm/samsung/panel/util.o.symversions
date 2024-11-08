@@ -1,0 +1,5 @@
+__crc_copy_from_sliced_byte_array = 0x5944a0ac;
+__crc_copy_to_sliced_byte_array = 0x61913b4a;
+__crc_hextos32 = 0x75be97f4;
+__crc_s32tohex = 0x28a8a340;
+__crc_usdm_print_bytes = 0x064e5a38;

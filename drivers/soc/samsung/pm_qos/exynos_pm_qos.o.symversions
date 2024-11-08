@@ -1,0 +1,11 @@
+__crc_exynos_pm_qos_read_req_value = 0x6f162067;
+__crc_show_exynos_pm_qos_data = 0x97424f21;
+__crc_exynos_pm_qos_request = 0xfe88376a;
+__crc_exynos_pm_qos_request_active = 0x1413a585;
+__crc_exynos_pm_qos_add_request_trace = 0x74ebf29f;
+__crc_exynos_pm_qos_update_request = 0xa7a00749;
+__crc_exynos_pm_qos_update_request_nosync = 0x33b20298;
+__crc_exynos_pm_qos_update_request_timeout = 0xf59296d1;
+__crc_exynos_pm_qos_remove_request = 0x8fe79d0e;
+__crc_exynos_pm_qos_add_notifier = 0xf4555811;
+__crc_exynos_pm_qos_remove_notifier = 0x9b2ccd01;

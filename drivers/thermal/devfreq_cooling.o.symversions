@@ -1,0 +1,5 @@
+__crc_of_devfreq_cooling_register_power = 0x1fb773b8;
+__crc_of_devfreq_cooling_register = 0x19c9ebda;
+__crc_devfreq_cooling_register = 0xf797e69f;
+__crc_devfreq_cooling_em_register = 0x759793b5;
+__crc_devfreq_cooling_unregister = 0x80a6fe5f;

@@ -1,0 +1,6 @@
+__crc_is_vfree_atomic = 0x61fd59f8;
+__crc_is_mem_init_stats = 0x7bc61e7a;
+__crc_is_mem_check_stats = 0xff67cc87;
+__crc_is_mem_init = 0x5f24496f;
+__crc_is_clean_dcache_area = 0x5b9e3c83;
+__crc_is_get_is_minfo = 0x97d5e6e6;

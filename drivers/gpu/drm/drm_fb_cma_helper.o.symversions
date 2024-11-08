@@ -1,0 +1,3 @@
+__crc_drm_fb_cma_get_gem_obj = 0x75aee75b;
+__crc_drm_fb_cma_get_gem_addr = 0xb4e6fdcf;
+__crc_drm_fb_cma_sync_non_coherent = 0x0b60a80a;

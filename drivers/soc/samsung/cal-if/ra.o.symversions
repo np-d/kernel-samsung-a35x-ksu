@@ -1,0 +1,12 @@
+__crc_ra_set_list_enable = 0xb707c441;
+__crc_ra_set_list_disable = 0x86c76035;
+__crc_ra_set_pll_ops = 0x29c2031b;
+__crc_ra_set_clk_by_type = 0xed4443f7;
+__crc_ra_set_clk_by_seq = 0x03c1ef5c;
+__crc_ra_compare_clk_list = 0xd87578b9;
+__crc_ra_set_rate_switch = 0xb22cec23;
+__crc_ra_select_switch_pll = 0xdbb04541;
+__crc_ra_get_parent = 0x73eb95e1;
+__crc_ra_set_rate = 0x3413248f;
+__crc_ra_recalc_rate = 0xa7e3f103;
+__crc_ra_init = 0x2c2ca9be;

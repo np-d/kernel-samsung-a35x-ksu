@@ -1,0 +1,6 @@
+__crc_drm_flip_work_allocate_task = 0xcf11a549;
+__crc_drm_flip_work_queue_task = 0x5af96b58;
+__crc_drm_flip_work_queue = 0xdcb59b84;
+__crc_drm_flip_work_commit = 0x24a2ed2c;
+__crc_drm_flip_work_init = 0x737100b1;
+__crc_drm_flip_work_cleanup = 0xd60ff1c2;

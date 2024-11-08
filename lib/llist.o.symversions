@@ -1,0 +1,3 @@
+__crc_llist_add_batch = 0xc7a1840e;
+__crc_llist_del_first = 0xb9d025c9;
+__crc_llist_reverse_order = 0x0ddb1cd7;

@@ -1,0 +1,5 @@
+__crc___drmm_add_action = 0xc35689ee;
+__crc___drmm_add_action_or_reset = 0x4178e3b4;
+__crc_drmm_kmalloc = 0x9cd6f9f3;
+__crc_drmm_kstrdup = 0x865224ed;
+__crc_drmm_kfree = 0x4d139273;

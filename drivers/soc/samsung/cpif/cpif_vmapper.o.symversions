@@ -1,0 +1,5 @@
+__crc_cpif_vmap_create = 0xd93d1fb0;
+__crc_cpif_vmap_init = 0x5fd6aec4;
+__crc_cpif_vmap_free = 0x4198b80a;
+__crc_cpif_vmap_map_area = 0x43464dc0;
+__crc_cpif_vmap_unmap_area = 0xb985bb68;

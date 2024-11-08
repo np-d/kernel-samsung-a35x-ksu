@@ -1,0 +1,5 @@
+__crc_is_pktfate_monitor_started = 0x4eb9a688;
+__crc_scsc_wifilogger_ring_pktfate_new_assoc = 0x979938af;
+__crc_scsc_wifilogger_ring_pktfate_get_fates = 0x2165e0d0;
+__crc_scsc_wifilogger_ring_pktfate_log_tx_frame = 0xc317f370;
+__crc_scsc_wifilogger_ring_pktfate_log_rx_frame = 0xab2252e7;

@@ -1,0 +1,17 @@
+__crc_atomic_notifier_chain_register = 0x2b9997fb;
+__crc_atomic_notifier_chain_unregister = 0x7181db30;
+__crc_atomic_notifier_call_chain = 0xd3752c27;
+__crc_blocking_notifier_chain_register = 0xbb0c86a5;
+__crc_blocking_notifier_chain_unregister = 0x963aa2a9;
+__crc_blocking_notifier_call_chain_robust = 0x98d04949;
+__crc_blocking_notifier_call_chain = 0x8317ad7c;
+__crc_raw_notifier_chain_register = 0xdc9fa232;
+__crc_raw_notifier_chain_unregister = 0xd06524ba;
+__crc_raw_notifier_call_chain_robust = 0x248bc867;
+__crc_raw_notifier_call_chain = 0xa851973a;
+__crc_srcu_notifier_chain_register = 0x4c1feec0;
+__crc_srcu_notifier_chain_unregister = 0x75dd14d2;
+__crc_srcu_notifier_call_chain = 0xce9884d7;
+__crc_srcu_init_notifier_head = 0xa02d239a;
+__crc_register_die_notifier = 0xb6261484;
+__crc_unregister_die_notifier = 0x121d958a;

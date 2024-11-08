@@ -1,0 +1,7 @@
+__crc___init_swait_queue_head = 0x608741b5;
+__crc_swake_up_locked = 0x3dc619d3;
+__crc_swake_up_one = 0xc80ab559;
+__crc_swake_up_all = 0x1b597b7a;
+__crc_prepare_to_swait_exclusive = 0xcdba1c7c;
+__crc_prepare_to_swait_event = 0xdef97460;
+__crc_finish_swait = 0x725509e1;

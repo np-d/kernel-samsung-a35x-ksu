@@ -1,0 +1,17 @@
+__crc_v4l2_dv_timings_presets = 0x370cfe6e;
+__crc_v4l2_valid_dv_timings = 0x0af3d134;
+__crc_v4l2_enum_dv_timings_cap = 0x922ecd29;
+__crc_v4l2_find_dv_timings_cap = 0x3aa68d7a;
+__crc_v4l2_find_dv_timings_cea861_vic = 0xf56238f4;
+__crc_v4l2_match_dv_timings = 0xd034392d;
+__crc_v4l2_print_dv_timings = 0x08402862;
+__crc_v4l2_dv_timings_aspect_ratio = 0xff585440;
+__crc_v4l2_calc_timeperframe = 0x4839762f;
+__crc_v4l2_detect_cvt = 0xa97e00eb;
+__crc_v4l2_detect_gtf = 0x01612c0b;
+__crc_v4l2_calc_aspect_ratio = 0x2bf67def;
+__crc_v4l2_hdmi_rx_colorimetry = 0xef15cc44;
+__crc_v4l2_get_edid_phys_addr = 0x8f8d4341;
+__crc_v4l2_set_edid_phys_addr = 0x0958448b;
+__crc_v4l2_phys_addr_for_input = 0xae575c8f;
+__crc_v4l2_phys_addr_validate = 0x7b6ac78f;

@@ -1,0 +1,4 @@
+__crc_get_option = 0xb0e10781;
+__crc_get_options = 0x868acba5;
+__crc_memparse = 0x27864d57;
+__crc_next_arg = 0xa033d747;

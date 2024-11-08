@@ -1,0 +1,2 @@
+arch/arm64/boot/dts/qcom/.sdm845-oneplus-enchilada.dtb.dts.tmp: \
+  arch/arm64/boot/dts/qcom/sdm845-oneplus-enchilada.dts

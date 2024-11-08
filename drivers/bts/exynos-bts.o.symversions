@@ -1,0 +1,6 @@
+__crc_bts_get_bwindex = 0x557cb941;
+__crc_bts_get_scenindex = 0x92843c99;
+__crc_bts_update_bw = 0xf980e8f7;
+__crc_bts_add_scenario = 0xf1b7bdea;
+__crc_bts_del_scenario = 0x52fce30e;
+__crc_bts_change_mo = 0x1b06b97e;

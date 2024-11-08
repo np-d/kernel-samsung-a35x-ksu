@@ -1,0 +1,12 @@
+__crc_is_hbm_brightness = 0xa58cefc4;
+__crc_get_subdev_actual_brightness_index = 0x3f77b052;
+__crc_get_actual_brightness_index = 0xccd01a50;
+__crc_get_brightness_pac_step_by_subdev_id = 0x1e5b8541;
+__crc_get_brightness_pac_step = 0x67694ba3;
+__crc_get_actual_brightness = 0x824dac6b;
+__crc_panel_bl_get_acl_pwrsave = 0x95bc9a4f;
+__crc_panel_bl_get_acl_opr = 0x388a36e3;
+__crc_panel_bl_get_smooth_transition = 0x8b0a032e;
+__crc_panel_bl_get_brightness_set_count = 0x8a1b7448;
+__crc_panel_bl_aor_interpolation_2 = 0x4f173a70;
+__crc_panel_bl_irc_interpolation = 0xe120ddbe;

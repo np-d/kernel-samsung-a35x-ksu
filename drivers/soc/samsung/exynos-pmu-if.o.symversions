@@ -1,0 +1,4 @@
+__crc_exynos_pmu_read = 0x9218f181;
+__crc_exynos_pmu_write = 0x71e68591;
+__crc_exynos_pmu_update = 0xcac72c38;
+__crc_exynos_cpu = 0xeafce667;

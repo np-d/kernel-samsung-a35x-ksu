@@ -1,0 +1,2 @@
+__crc_register_oom_notifier = 0x622c7922;
+__crc_unregister_oom_notifier = 0xc617f82c;

@@ -1,0 +1,13 @@
+__crc_tty_chars_in_buffer = 0x5bfcf7fb;
+__crc_tty_write_room = 0xc126b487;
+__crc_tty_driver_flush_buffer = 0x773414b4;
+__crc_tty_unthrottle = 0x46cd912a;
+__crc_tty_wait_until_sent = 0xebbc48c3;
+__crc_tty_termios_copy_hw = 0x30e74134;
+__crc_tty_termios_hw_change = 0x6c257ac0;
+__crc_tty_get_char_size = 0xf72a65ea;
+__crc_tty_get_frame_size = 0x1687ec20;
+__crc_tty_set_termios = 0x2c46e2d2;
+__crc_tty_mode_ioctl = 0xd39877ee;
+__crc_tty_perform_flush = 0xfa230414;
+__crc_n_tty_ioctl_helper = 0x4deffc17;

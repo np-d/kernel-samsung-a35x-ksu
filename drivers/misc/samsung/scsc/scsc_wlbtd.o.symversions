@@ -1,0 +1,5 @@
+__crc_wlbtd_write_file = 0xdc39db6b;
+__crc_wlbtd_chipset_logging = 0x8cbadf24;
+__crc_call_wlbtd_sable = 0x94fc770d;
+__crc_scsc_wlbtd_wait_for_sable_logging = 0x0715a5b1;
+__crc_call_wlbtd = 0x72b5e3c6;

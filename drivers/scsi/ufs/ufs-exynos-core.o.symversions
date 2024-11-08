@@ -1,0 +1,4 @@
+__crc_exynos_ufs_srpmb_sdev = 0xcdfd7bad;
+__crc_ufs_sec_is_wb_supported = 0x1cfebc26;
+__crc_ufs_sec_wb_ctrl = 0xfc3b5eb8;
+__crc_ufs_sec_wb_register_reset_notify = 0xc2be8512;

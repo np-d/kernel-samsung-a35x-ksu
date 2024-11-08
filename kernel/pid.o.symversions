@@ -1,0 +1,13 @@
+__crc_init_pid_ns = 0xc7d87f6c;
+__crc_put_pid = 0x16dd6f02;
+__crc_find_pid_ns = 0x9542fd3e;
+__crc_find_vpid = 0x1273c714;
+__crc_pid_task = 0x75c08240;
+__crc_find_task_by_vpid = 0xa6e07172;
+__crc_get_task_pid = 0x806ce477;
+__crc_get_pid_task = 0xbc24e309;
+__crc_find_get_pid = 0x90b01573;
+__crc_pid_nr_ns = 0x819459cf;
+__crc_pid_vnr = 0x37c3abec;
+__crc___task_pid_nr_ns = 0x0bd53bd8;
+__crc_task_active_pid_ns = 0x8e66fc87;

@@ -1,0 +1,6 @@
+__crc_mmc_select_bus_width = 0xfcad1e5d;
+__crc_mmc_select_hs = 0x57e369e3;
+__crc_mmc_select_hs_ddr = 0x2694a3ec;
+__crc_mmc_select_hs400 = 0xc7da0904;
+__crc_mmc_select_timing = 0x4dd7e1f8;
+__crc_mmc_hs200_tuning = 0xf990e5e9;

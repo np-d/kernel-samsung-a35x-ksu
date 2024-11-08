@@ -1,0 +1,3 @@
+__crc_of_pinctrl_get = 0x1e2ff63c;
+__crc_pinctrl_count_index_with_args = 0x1d3ef596;
+__crc_pinctrl_parse_index_with_args = 0xe8feb355;

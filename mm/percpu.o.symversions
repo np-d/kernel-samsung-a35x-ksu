@@ -1,0 +1,6 @@
+__crc___alloc_percpu_gfp = 0xaf793668;
+__crc___alloc_percpu = 0x949f7342;
+__crc_free_percpu = 0xc9ec4e21;
+__crc_per_cpu_ptr_to_phys = 0x55ffab3b;
+__crc___per_cpu_offset = 0x280f9f14;
+__crc_pcpu_nr_pages = 0xe7b9a65d;

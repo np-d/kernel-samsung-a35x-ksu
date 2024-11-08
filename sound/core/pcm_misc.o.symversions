@@ -1,0 +1,15 @@
+__crc_snd_pcm_format_signed = 0x1d027e4b;
+__crc_snd_pcm_format_unsigned = 0xa61aa028;
+__crc_snd_pcm_format_linear = 0x6ef8fcd8;
+__crc_snd_pcm_format_little_endian = 0x3796bdcc;
+__crc_snd_pcm_format_big_endian = 0x4f816e9b;
+__crc_snd_pcm_format_width = 0xe56a9336;
+__crc_snd_pcm_format_physical_width = 0x68a24153;
+__crc_snd_pcm_format_size = 0x834dc955;
+__crc_snd_pcm_format_silence_64 = 0x650f8603;
+__crc_snd_pcm_format_set_silence = 0x5e7f4920;
+__crc_snd_pcm_hw_limit_rates = 0x69255f54;
+__crc_snd_pcm_rate_to_rate_bit = 0xb9638db4;
+__crc_snd_pcm_rate_bit_to_rate = 0xff6104d0;
+__crc_snd_pcm_rate_mask_intersect = 0xab8bc1a2;
+__crc_snd_pcm_rate_range_to_bits = 0x8d864069;

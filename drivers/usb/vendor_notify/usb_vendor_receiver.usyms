@@ -1,0 +1,14 @@
+__platform_driver_register
+__stack_chk_fail
+__this_module
+__ubsan_handle_cfi_check_fail_abort
+_printk
+blocking_notifier_chain_register
+blocking_notifier_chain_unregister
+check_new_device_added
+of_find_device_by_node
+of_parse_phandle
+platform_driver_unregister
+send_usb_audio_uevent
+set_usb_audio_cardnum
+store_usblog_notify

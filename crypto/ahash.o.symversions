@@ -1,0 +1,15 @@
+__crc_crypto_hash_walk_done = 0xe3fbfee6;
+__crc_crypto_hash_walk_first = 0x01c44e4f;
+__crc_crypto_ahash_setkey = 0x0cd2e94d;
+__crc_crypto_ahash_final = 0x79938a6b;
+__crc_crypto_ahash_finup = 0x36cdb2b7;
+__crc_crypto_ahash_digest = 0x41db154a;
+__crc_crypto_grab_ahash = 0x0b029680;
+__crc_crypto_alloc_ahash = 0x12d64642;
+__crc_crypto_has_ahash = 0x34407691;
+__crc_crypto_register_ahash = 0xff7b3877;
+__crc_crypto_unregister_ahash = 0xde9a1a73;
+__crc_crypto_register_ahashes = 0x1b188166;
+__crc_crypto_unregister_ahashes = 0xe6c969ba;
+__crc_ahash_register_instance = 0xd93ccabf;
+__crc_crypto_hash_alg_has_setkey = 0x1951a95b;

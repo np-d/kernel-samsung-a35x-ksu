@@ -1,0 +1,4 @@
+__crc_create_tx_packet = 0x258024c0;
+__crc_destroy_tx_packet = 0x93edae4b;
+__crc_create_rx_packet = 0x7be8b4fb;
+__crc_destroy_rx_packet = 0x7a1583fc;

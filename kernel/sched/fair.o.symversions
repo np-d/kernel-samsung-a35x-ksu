@@ -1,0 +1,16 @@
+__crc___tracepoint_sched_stat_runtime = 0xe601e892;
+__crc___traceiter_sched_stat_runtime = 0x868df921;
+__crc___SCK__tp_func_sched_stat_runtime = 0x9ddf0ce8;
+__crc_sysctl_sched_latency = 0xceee0cb7;
+__crc_set_next_entity = 0x70f8b629;
+__crc_max_load_balance_interval = 0xae14740f;
+__crc_sched_trace_cfs_rq_avg = 0x4323cc4b;
+__crc_sched_trace_cfs_rq_path = 0x3dfeff42;
+__crc_sched_trace_cfs_rq_cpu = 0x452a3ae0;
+__crc_sched_trace_rq_avg_rt = 0xdfe2b53c;
+__crc_sched_trace_rq_avg_dl = 0x5beabe31;
+__crc_sched_trace_rq_avg_irq = 0xb16e7c55;
+__crc_sched_trace_rq_cpu = 0x68feb9f6;
+__crc_sched_trace_rq_cpu_capacity = 0x48e6f1b3;
+__crc_sched_trace_rd_span = 0x014bc868;
+__crc_sched_trace_rq_nr_running = 0xd511bcd3;

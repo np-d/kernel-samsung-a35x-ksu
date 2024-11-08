@@ -1,0 +1,2 @@
+__crc_memstart_addr = 0x9688de8b;
+__crc_pfn_is_map_memory = 0x6da467cb;

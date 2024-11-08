@@ -1,0 +1,2 @@
+__crc_pci_request_irq = 0x88e14160;
+__crc_pci_free_irq = 0xb598f362;

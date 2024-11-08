@@ -1,0 +1,7 @@
+__crc_acpm_get_mifdn_count = 0x3be3d208;
+__crc_acpm_get_apsocdn_count = 0x37901e18;
+__crc_acpm_get_early_wakeup_count = 0x270496d6;
+__crc_acpm_noti_dsu_cpd = 0xf9abf173;
+__crc_acpm_get_dsu_cpd = 0xbdcf5654;
+__crc_acpm_get_mif_request = 0x4ce2c94c;
+__crc_acpm_print_mif_request = 0x5cf8b18e;

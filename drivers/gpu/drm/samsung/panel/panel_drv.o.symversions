@@ -1,0 +1,10 @@
+__crc_panel_log_level = 0xe6e0b264;
+__crc_panel_cmd_log = 0xc8d0a8e6;
+__crc_get_lk_boot_panel_id = 0x3f2bdfae;
+__crc_get_lcd_info = 0x907fa746;
+__crc_panel_get_cur_state = 0x0b83ddd5;
+__crc_panel_vote_up_to_probe = 0x3a71a40a;
+__crc_panel_device_create = 0x274b4568;
+__crc_panel_device_destroy = 0x646aeaf2;
+__crc_panel_device_init = 0x65dcd4f0;
+__crc_panel_device_exit = 0x0da2267f;

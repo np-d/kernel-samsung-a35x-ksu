@@ -1,0 +1,4 @@
+__crc_cpufreq_update_util_data = 0xd63eac6a;
+__crc_cpufreq_add_update_util_hook = 0x1403ad09;
+__crc_cpufreq_remove_update_util_hook = 0x3192d768;
+__crc_cpufreq_this_cpu_can_update = 0xf2df04e8;

@@ -1,0 +1,16 @@
+__crc_no_hash_pointers = 0x56fbb130;
+__crc_simple_strtoull = 0x61b7b126;
+__crc_simple_strtoul = 0x20000329;
+__crc_simple_strtol = 0x0b742fd7;
+__crc_simple_strtoll = 0xd7e56a4e;
+__crc_vsnprintf = 0x00148653;
+__crc_vscnprintf = 0xaa0c318b;
+__crc_snprintf = 0x656e4a6e;
+__crc_scnprintf = 0x96848186;
+__crc_vsprintf = 0x78b887ed;
+__crc_sprintf = 0x3c3ff9fd;
+__crc_vbin_printf = 0x2484e789;
+__crc_bstr_printf = 0x108a0acd;
+__crc_bprintf = 0xf955e9c5;
+__crc_vsscanf = 0x50d035c2;
+__crc_sscanf = 0xbcab6ee6;

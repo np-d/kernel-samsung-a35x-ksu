@@ -1,0 +1,7 @@
+__crc_exynos_cpupm_notifier_register = 0x28356034;
+__crc_exynos_update_ip_idle_status = 0x90cd4355;
+__crc_exynos_get_idle_ip_index = 0x6a5c3098;
+__crc_disable_power_mode = 0xc0774013;
+__crc_enable_power_mode = 0x13e84965;
+__crc_update_pm_allowed_mask = 0x4aa53fff;
+__crc_update_idle_allowed_mask = 0xef67a63c;

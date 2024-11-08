@@ -1,0 +1,9 @@
+__crc_pci_add_resource_offset = 0xebdbfccc;
+__crc_pci_add_resource = 0x77e07298;
+__crc_pci_free_resource_list = 0x38a71b7e;
+__crc_pci_bus_resource_n = 0x1c51352c;
+__crc_devm_request_pci_bus_resources = 0xf3b1e0f6;
+__crc_pci_bus_alloc_resource = 0xe36296e4;
+__crc_pci_bus_add_device = 0x2f55f9ea;
+__crc_pci_bus_add_devices = 0x0df68407;
+__crc_pci_walk_bus = 0xde66b7e4;

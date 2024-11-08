@@ -1,0 +1,4 @@
+__crc_hardlockup_notifier_list = 0x3c132ce6;
+__crc_hardlockup_handler_notifier_list = 0x26888fb7;
+__crc_hardlockup_watchdog_get_period = 0x0a394019;
+__crc_hardlockup_watchdog_get_thresh = 0xdad5af74;

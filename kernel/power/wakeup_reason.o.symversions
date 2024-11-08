@@ -1,0 +1,3 @@
+__crc_log_threaded_irq_wakeup_reason = 0x34e5628d;
+__crc_log_suspend_abort_reason = 0x7b5f4233;
+__crc_log_abnormal_wakeup_reason = 0x6d20fc95;

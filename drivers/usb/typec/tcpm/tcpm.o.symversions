@@ -1,0 +1,12 @@
+__crc_tcpm_pd_transmit_complete = 0x3b84657b;
+__crc_tcpm_is_debouncing = 0xd6757a42;
+__crc_tcpm_pd_receive = 0xb655342c;
+__crc_tcpm_cc_change = 0xc37b9769;
+__crc_tcpm_vbus_change = 0xceb50012;
+__crc_tcpm_pd_hard_reset = 0x9e0bd753;
+__crc_tcpm_sink_frs = 0x10ec6d2d;
+__crc_tcpm_sourcing_vbus = 0xeb779665;
+__crc_tcpm_tcpc_reset = 0xea220941;
+__crc_tcpm_update_sink_capabilities = 0x622a422a;
+__crc_tcpm_register_port = 0xb28dc3bd;
+__crc_tcpm_unregister_port = 0x76eeda4b;

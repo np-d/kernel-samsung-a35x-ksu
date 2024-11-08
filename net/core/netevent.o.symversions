@@ -1,0 +1,3 @@
+__crc_register_netevent_notifier = 0x4761f17c;
+__crc_unregister_netevent_notifier = 0x4fe1eddf;
+__crc_call_netevent_notifiers = 0x65ccb6f0;

@@ -1,0 +1,2 @@
+__crc_TEEC_InitializeContext = 0x4c96b8bb;
+__crc_TEEC_FinalizeContext = 0x1eab2f9a;

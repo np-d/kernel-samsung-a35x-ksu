@@ -1,0 +1,15 @@
+__crc_devm_ioremap = 0x31f4adef;
+__crc_devm_ioremap_uc = 0x56991bb9;
+__crc_devm_ioremap_wc = 0x63bf8485;
+__crc_devm_ioremap_np = 0x47c749b0;
+__crc_devm_iounmap = 0x335b044c;
+__crc_devm_ioremap_resource = 0x30516c87;
+__crc_devm_of_iomap = 0xc789b156;
+__crc_devm_ioport_map = 0xc1d3f307;
+__crc_devm_ioport_unmap = 0x0c687f96;
+__crc_pcim_iomap_table = 0xb5c93cd7;
+__crc_pcim_iomap = 0x427180dd;
+__crc_pcim_iounmap = 0x887a5726;
+__crc_pcim_iomap_regions = 0x59204124;
+__crc_pcim_iomap_regions_request_all = 0x3b3f6d76;
+__crc_pcim_iounmap_regions = 0x064911ef;

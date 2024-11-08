@@ -1,0 +1,4 @@
+__crc_system_freezing_cnt = 0x7ab88a45;
+__crc_freezing_slow_path = 0x042a3708;
+__crc___refrigerator = 0x04482cdb;
+__crc_set_freezable = 0x9e61bb05;

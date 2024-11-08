@@ -1,0 +1,17 @@
+__crc_drm_gem_shmem_create = 0x18e03dec;
+__crc_drm_gem_shmem_free_object = 0xf5d22cd5;
+__crc_drm_gem_shmem_get_pages = 0xe5fdd7b4;
+__crc_drm_gem_shmem_put_pages = 0x38faba2c;
+__crc_drm_gem_shmem_pin = 0xdab209c7;
+__crc_drm_gem_shmem_unpin = 0x1267acdf;
+__crc_drm_gem_shmem_vmap = 0xa75e73d4;
+__crc_drm_gem_shmem_vunmap = 0x60c426d2;
+__crc_drm_gem_shmem_madvise = 0xf0beeced;
+__crc_drm_gem_shmem_purge_locked = 0xadbb8240;
+__crc_drm_gem_shmem_purge = 0xf73dd16b;
+__crc_drm_gem_shmem_dumb_create = 0x027fab21;
+__crc_drm_gem_shmem_mmap = 0xb165c940;
+__crc_drm_gem_shmem_print_info = 0x5ea7f22c;
+__crc_drm_gem_shmem_get_sg_table = 0x796aff5b;
+__crc_drm_gem_shmem_get_pages_sgt = 0x508f4890;
+__crc_drm_gem_shmem_prime_import_sg_table = 0xa4c88a85;

@@ -1,0 +1,4 @@
+__crc_id_get_product_line = 0x9d16cb04;
+__crc_id_get_asb_ver = 0x0966003e;
+__crc_cal_pll_mmc_check = 0x4f247bb1;
+__crc_cal_pll_mmc_set_ssc = 0x39a968c1;

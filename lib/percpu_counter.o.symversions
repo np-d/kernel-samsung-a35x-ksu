@@ -1,0 +1,8 @@
+__crc_percpu_counter_set = 0xe5c60bd2;
+__crc_percpu_counter_add_batch = 0xe138fb8c;
+__crc_percpu_counter_sync = 0x107be0b0;
+__crc___percpu_counter_sum = 0x53126ecc;
+__crc___percpu_counter_init = 0x20cbb30a;
+__crc_percpu_counter_destroy = 0xac537ac2;
+__crc_percpu_counter_batch = 0x05240ee7;
+__crc___percpu_counter_compare = 0x80a717a8;

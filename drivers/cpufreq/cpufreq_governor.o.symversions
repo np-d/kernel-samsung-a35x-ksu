@@ -1,0 +1,8 @@
+__crc_store_sampling_rate = 0x7b69a26a;
+__crc_gov_update_cpu_data = 0xaf696b72;
+__crc_dbs_update = 0x0d9d06e4;
+__crc_cpufreq_dbs_governor_init = 0xbf5c4c18;
+__crc_cpufreq_dbs_governor_exit = 0x657eb925;
+__crc_cpufreq_dbs_governor_start = 0xf6ae02d7;
+__crc_cpufreq_dbs_governor_stop = 0xb96f092d;
+__crc_cpufreq_dbs_governor_limits = 0xb0a72ec1;

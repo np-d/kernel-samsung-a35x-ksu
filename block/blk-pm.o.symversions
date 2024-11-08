@@ -1,0 +1,6 @@
+__crc_blk_pm_runtime_init = 0xba6f3719;
+__crc_blk_pre_runtime_suspend = 0x2f5d2129;
+__crc_blk_post_runtime_suspend = 0x2dd88429;
+__crc_blk_pre_runtime_resume = 0x892a88d3;
+__crc_blk_post_runtime_resume = 0x3473103d;
+__crc_blk_set_runtime_active = 0x1a6e4b1d;

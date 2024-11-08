@@ -1,0 +1,8 @@
+__cfi_slowpath_diag
+__ubsan_handle_cfi_check_fail_abort
+_printk
+kmalloc_caches
+kmem_cache_alloc_trace
+sb_notify_register
+sb_sysfs_add_attrs
+scnprintf

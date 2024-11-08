@@ -1,0 +1,3 @@
+__crc_timecounter_init = 0x862258db;
+__crc_timecounter_read = 0x6f9e763b;
+__crc_timecounter_cyc2time = 0xbc3f2cb0;

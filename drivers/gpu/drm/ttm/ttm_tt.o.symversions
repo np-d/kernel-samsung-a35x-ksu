@@ -1,0 +1,6 @@
+__crc_ttm_tt_destroy_common = 0x9bc1b8be;
+__crc_ttm_tt_init = 0xc480253d;
+__crc_ttm_tt_fini = 0xa0d0bf20;
+__crc_ttm_sg_tt_init = 0xef7903db;
+__crc_ttm_tt_populate = 0xee3829ba;
+__crc_ttm_kmap_iter_tt_init = 0x2a77e5f4;

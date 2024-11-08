@@ -1,0 +1,3 @@
+__crc_devm_aperture_acquire_from_firmware = 0x3adc92c1;
+__crc_drm_aperture_remove_conflicting_framebuffers = 0x7b601845;
+__crc_drm_aperture_remove_conflicting_pci_framebuffers = 0x5d43525a;

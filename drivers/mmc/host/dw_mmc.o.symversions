@@ -1,0 +1,4 @@
+__crc_dw_mci_probe = 0xf8acdf45;
+__crc_dw_mci_remove = 0x66d5c962;
+__crc_dw_mci_runtime_suspend = 0x057cd29a;
+__crc_dw_mci_runtime_resume = 0x520dd242;

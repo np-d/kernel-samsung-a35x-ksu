@@ -1,0 +1,8 @@
+__crc_v4l2_subdev_call_wrappers = 0x5968a6d1;
+__crc_v4l2_subdev_get_fwnode_pad_1_to_1 = 0x7e43b057;
+__crc_v4l2_subdev_link_validate_default = 0x0c802323;
+__crc_v4l2_subdev_link_validate = 0x96b6b5cd;
+__crc_v4l2_subdev_alloc_state = 0x127e1c58;
+__crc_v4l2_subdev_free_state = 0xb13d41a0;
+__crc_v4l2_subdev_init = 0x1203a42f;
+__crc_v4l2_subdev_notify_event = 0xb9f1687a;

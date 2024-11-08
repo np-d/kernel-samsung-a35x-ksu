@@ -1,0 +1,3 @@
+__crc_fvmap_get_freq_volt_table = 0xe60bc4e3;
+__crc_fvmap_get_voltage_table = 0x47385d93;
+__crc_fvmap_init = 0x6e00d96c;

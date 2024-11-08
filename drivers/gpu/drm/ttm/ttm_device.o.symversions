@@ -1,0 +1,5 @@
+__crc_ttm_glob = 0x4772c83d;
+__crc_ttm_global_swapout = 0x72f3550f;
+__crc_ttm_device_swapout = 0xdf7903e6;
+__crc_ttm_device_init = 0xf9b882bc;
+__crc_ttm_device_fini = 0x0599f59b;

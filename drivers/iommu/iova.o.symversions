@@ -1,0 +1,11 @@
+__crc_init_iova_domain = 0x6330e4b1;
+__crc_iova_cache_get = 0x438d8df2;
+__crc_iova_cache_put = 0xc7061ef3;
+__crc_alloc_iova = 0xbd6e713e;
+__crc_find_iova = 0x3790d7c9;
+__crc___free_iova = 0xbc8a675b;
+__crc_free_iova = 0x26f79425;
+__crc_alloc_iova_fast = 0x65ea3313;
+__crc_free_iova_fast = 0x350e1145;
+__crc_put_iova_domain = 0x8d26a975;
+__crc_reserve_iova = 0x888055c0;

@@ -1,0 +1,12 @@
+__crc_tty_buffer_lock_exclusive = 0x3c7934cd;
+__crc_tty_buffer_unlock_exclusive = 0xc3aa9c1a;
+__crc_tty_buffer_space_avail = 0xc3e0de50;
+__crc_tty_buffer_request_room = 0xb70fbea9;
+__crc_tty_insert_flip_string_fixed_flag = 0x3b69cd4c;
+__crc_tty_insert_flip_string_flags = 0x075cd289;
+__crc___tty_insert_flip_char = 0xc5a003b1;
+__crc_tty_prepare_flip_string = 0xc9a829a9;
+__crc_tty_ldisc_receive_buf = 0x7d0fa771;
+__crc_tty_flip_buffer_push = 0xf0104123;
+__crc_tty_buffer_set_limit = 0x76f5791d;
+__crc_tty_schedule_flip = 0xce7cfac2;

@@ -1,0 +1,9 @@
+__crc_btbcm_check_bdaddr = 0xec75b5bc;
+__crc_btbcm_set_bdaddr = 0x730ab115;
+__crc_btbcm_read_pcm_int_params = 0xb138b69f;
+__crc_btbcm_write_pcm_int_params = 0xfc059ec5;
+__crc_btbcm_patchram = 0x4bb1dee6;
+__crc_btbcm_initialize = 0xcfcd72ef;
+__crc_btbcm_finalize = 0x13d4d0fc;
+__crc_btbcm_setup_patchram = 0x393b71ce;
+__crc_btbcm_setup_apple = 0x61f110a7;

@@ -1,0 +1,17 @@
+__platform_driver_register
+__stack_chk_fail
+__this_module
+__ubsan_handle_cfi_check_fail_abort
+_dev_err
+_dev_info
+_printk
+devm_ioremap_resource
+devm_kmalloc
+log_post_write_mmio
+log_write_mmio
+of_alias_get_id
+of_get_property
+of_property_read_string
+platform_driver_unregister
+platform_get_resource
+strncmp

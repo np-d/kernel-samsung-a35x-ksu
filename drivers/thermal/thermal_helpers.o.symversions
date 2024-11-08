@@ -1,0 +1,6 @@
+__crc_get_tz_trend = 0xd66777dd;
+__crc_get_thermal_instance = 0xd99fe99a;
+__crc_thermal_zone_get_temp = 0x51bc71de;
+__crc_thermal_cdev_update = 0xba4618ec;
+__crc_thermal_zone_get_slope = 0x51aefc3c;
+__crc_thermal_zone_get_offset = 0x5505df9a;

@@ -1,0 +1,3 @@
+__crc_sha1_zero_message_hash = 0x7b5a4926;
+__crc_crypto_sha1_update = 0x20daac81;
+__crc_crypto_sha1_finup = 0xa7b46bdb;

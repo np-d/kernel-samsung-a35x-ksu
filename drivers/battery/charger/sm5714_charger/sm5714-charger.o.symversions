@@ -1,0 +1,6 @@
+__crc_sm5714_charger_oper_push_event = 0xeb49bcb4;
+__crc_sm5714_charger_oper_table_init = 0x27a57a37;
+__crc_sm5714_charger_oper_get_current_status = 0xc4708f6b;
+__crc_sm5714_charger_oper_get_current_op_mode = 0xf0eb18ab;
+__crc_sm5714_charger_oper_en_factory_mode = 0xce029f25;
+__crc_sm5714_charger_oper_forced_vbus_limit_control = 0xcbb7a6ae;

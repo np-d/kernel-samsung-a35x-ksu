@@ -1,0 +1,2 @@
+__crc_blkdev_issue_flush = 0x7e807449;
+__crc_blk_mq_hctx_set_fq_lock_class = 0x979435e8;

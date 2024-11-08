@@ -1,0 +1,5 @@
+__crc_gpio_free = 0xfe990052;
+__crc_gpio_request_one = 0x403f9529;
+__crc_gpio_request = 0x47229b5c;
+__crc_gpio_request_array = 0x9ba2bb2b;
+__crc_gpio_free_array = 0xb0d1656c;

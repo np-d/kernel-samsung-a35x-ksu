@@ -1,0 +1,6 @@
+__crc_usb_dr_role_control = 0xb49949ca;
+__crc_usb_power_notify_control = 0x03432b3d;
+__crc_dwc3_otg_phy_tune = 0x32c4d104;
+__crc_dwc3_otg_is_usb_ready = 0xe43bf8a8;
+__crc_dwc3_otg_get_link_state = 0xc9513ab4;
+__crc_dwc3_otg_run_sm = 0x61c1c450;

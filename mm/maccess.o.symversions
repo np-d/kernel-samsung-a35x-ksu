@@ -1,0 +1,3 @@
+__crc_copy_from_kernel_nofault = 0x4531ab62;
+__crc_copy_from_user_nofault = 0x7a98f4b4;
+__crc_copy_to_user_nofault = 0xea88c866;

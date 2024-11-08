@@ -1,0 +1,3 @@
+__crc_crc8_populate_msb = 0xaa8106bc;
+__crc_crc8_populate_lsb = 0xc3cd034d;
+__crc_crc8 = 0x9c5d5b94;

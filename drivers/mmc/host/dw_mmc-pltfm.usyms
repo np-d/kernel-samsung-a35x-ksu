@@ -1,0 +1,15 @@
+__platform_driver_register
+__this_module
+__ubsan_handle_cfi_check_fail_abort
+devm_ioremap_resource
+devm_kmalloc
+dw_mci_probe
+dw_mci_remove
+dw_mci_runtime_resume
+dw_mci_runtime_suspend
+of_match_node
+platform_driver_unregister
+platform_get_irq
+platform_get_resource
+pm_runtime_force_resume
+pm_runtime_force_suspend

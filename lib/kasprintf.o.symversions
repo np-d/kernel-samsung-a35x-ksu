@@ -1,0 +1,3 @@
+__crc_kvasprintf = 0x587b0954;
+__crc_kvasprintf_const = 0x1632bc21;
+__crc_kasprintf = 0xfb384d37;

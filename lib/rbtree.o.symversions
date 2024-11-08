@@ -1,0 +1,12 @@
+__crc___rb_erase_color = 0x551bd071;
+__crc_rb_insert_color = 0xa5526619;
+__crc_rb_erase = 0x4d9b652b;
+__crc___rb_insert_augmented = 0x120b336a;
+__crc_rb_first = 0xece784c2;
+__crc_rb_last = 0xdf2c2742;
+__crc_rb_next = 0xca9360b5;
+__crc_rb_prev = 0xf82ec573;
+__crc_rb_replace_node = 0x7fe32873;
+__crc_rb_replace_node_rcu = 0x7adc0fbf;
+__crc_rb_next_postorder = 0x4e68e9be;
+__crc_rb_first_postorder = 0xee91879b;

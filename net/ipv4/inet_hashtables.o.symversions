@@ -1,0 +1,14 @@
+__crc_inet_put_port = 0x6b4b0df8;
+__crc___inet_inherit_port = 0x88c3e605;
+__crc___inet_lookup_listener = 0xb14a1468;
+__crc_sock_gen_put = 0x84ea9e18;
+__crc_sock_edemux = 0x9f77e71b;
+__crc___inet_lookup_established = 0xfa038ab5;
+__crc_inet_ehash_nolisten = 0x1f0031ff;
+__crc___inet_hash = 0x5e2e4a59;
+__crc_inet_hash = 0x472b4ce7;
+__crc_inet_unhash = 0x9a7ee465;
+__crc_inet_hash_connect = 0x88c6e968;
+__crc_inet_hashinfo_init = 0x7ec814de;
+__crc_inet_hashinfo2_init_mod = 0xe338c5ac;
+__crc_inet_ehash_locks_alloc = 0x60069ee1;

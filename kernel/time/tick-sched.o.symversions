@@ -1,0 +1,4 @@
+__crc_get_cpu_idle_time_us = 0x7b9793a2;
+__crc_get_cpu_iowait_time_us = 0x1234e483;
+__crc_tick_nohz_get_sleep_length = 0x1939cb0f;
+__crc_tick_nohz_get_idle_calls_cpu = 0x2943498b;
